@@ -1,459 +1,459 @@
-includi,regione,nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
-si,isole,AgrigentoNotizie,https://www.agrigentonotizie.it,https://www.agrigentonotizie.it/rss,AG,Agrigento,sito_locale,Citynews,it,no,200,
-si,isole,AgrigentoOggi,https://www.agrigentooggi.it,https://www.agrigentooggi.it/feed/,AG,Agrigento,sito_locale,indipendente,it,no,200,
-si,isole,Grandangolo Agrigento,https://www.grandangoloagrigento.it,https://www.grandangoloagrigento.it/feed/,AG,Agrigento,sito_locale,indipendente,it,no,200,anche settimanale cartaceo
-si,nordovest,La Stampa Alessandria,https://www.lastampa.it/alessandria,https://www.lastampa.it/alessandria/rss,AL,Alessandria,edizione_locale,GEDI,it,misto,200,
-si,nordovest,Il Piccolo di Alessandria,https://www.ilpiccolo.net,https://www.ilpiccolo.net/feed/,AL,Alessandria,quotidiano_locale,indipendente,it,misto,200,
-si,nordovest,Radio Gold,https://radiogold.it,https://radiogold.it/feed/,AL,Alessandria,sito_locale,indipendente,it,no,200,radio con redazione news
-si,centro,il Resto del Carlino - Ancona,https://www.ilrestodelcarlino.it/ancona,https://www.ilrestodelcarlino.it/ancona/rss,AN,Ancona,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Corriere Adriatico,https://www.corriereadriatico.it/,https://www.corriereadriatico.it/rss/home.xml,AN,Ancona,quotidiano_locale,Caltagirone,it,misto,200,regionale Marche; feed a volte bloccato (418 anti-bot)
-si,centro,AnconaToday,https://www.anconatoday.it/,https://www.anconatoday.it/rss,AN,Ancona,sito_locale,Citynews,it,no,200,
-si,centro,Centropagina,https://www.centropagina.it/,https://www.centropagina.it/feed/,AN,Ancona,sito_locale,indipendente,it,no,200,
-si,centro,Cronache Ancona,https://www.cronacheancona.it/,https://www.cronacheancona.it/feed/,AN,Ancona,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,
-si,centro,Vivere Ancona,https://www.vivereancona.it/,https://www.vivereancona.it/rss,AN,Ancona,sito_locale,altro (rete Vivere),it,no,200,
-si,centro,TGR Marche,https://www.rainews.it/tgr/marche,https://www.rainews.it/tgr/marche/rss/tutti,AN,Ancona,tv_locale,Rai,it,no,200,regionale Marche
-si,centro,èTV Marche,https://etvmarche.it/,https://etvmarche.it/feed/,AN,Ancona,tv_locale,altro (Rete7),it,no,200,regionale Marche
-si,nordovest,La Stampa Aosta,https://www.lastampa.it/aosta,https://www.lastampa.it/aosta/rss,AO,Aosta,edizione_locale,GEDI,it,misto,200,
-si,nordovest,Gazzetta Matin,https://www.gazzettamatin.com,https://www.gazzettamatin.com/rss,AO,Aosta,settimanale,indipendente,it,misto,200,"feed con 1 solo elemento, usare homepage"
-si,nordovest,AostaOggi,https://www.aostaoggi.it,,AO,Aosta,sito_locale,indipendente,it,no,200,"regionale; feed Joomla vuoto, senza feed"
-si,nordovest,Aostasera,https://aostasera.it,https://aostasera.it/feed/,AO,Aosta,sito_locale,indipendente,it,no,200,regionale Valle d'Aosta
-si,nordovest,Valle d'Aosta Glocal,https://www.valledaostaglocal.it,https://www.valledaostaglocal.it/rss.xml,AO,Aosta,sito_locale,altro (Morenews),it,no,200,
-si,nordovest,TGR Valle d'Aosta,https://www.rainews.it/tgr/vda,https://www.rainews.it/tgr/vda/rss/tutti,AO,Aosta,tv_locale,Rai,it,no,200,regionale; anche programmi in francese
-si,centro,il Resto del Carlino - Ascoli,https://www.ilrestodelcarlino.it/ascoli,https://www.ilrestodelcarlino.it/ascoli/rss,AP,Ascoli Piceno,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Cronache Picene,https://www.cronachepicene.it/,https://www.cronachepicene.it/feed/,AP,Ascoli Piceno,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,
-si,centro,Riviera Oggi,https://www.rivieraoggi.it/,https://www.rivieraoggi.it/feed/,AP,San Benedetto del Tronto,sito_locale,indipendente,it,no,200,
-si,centro,Il Centro,https://www.ilcentro.it/,,AQ,Pescara,quotidiano_locale,altro (Il Centro SpA),it,misto,200,regionale Abruzzo; senza feed
-si,centro,AbruzzoWeb,https://www.abruzzoweb.it/,,AQ,L'Aquila,sito_locale,indipendente,it,no,200,"regionale Abruzzo, forte su politica; senza feed (feed in errore 500)"
-si,centro,Il Capoluogo,https://www.ilcapoluogo.it/,https://www.ilcapoluogo.it/?feed=news-news24,AQ,L'Aquila,sito_locale,indipendente,it,no,200,
-si,centro,Rete8,https://www.rete8.it/,https://www.rete8.it/feed/,AQ,Chieti,tv_locale,indipendente,it,no,200,regionale Abruzzo
-si,centro,TGR Abruzzo,https://www.rainews.it/tgr/abruzzo,https://www.rainews.it/tgr/abruzzo/rss/tutti,AQ,Pescara,tv_locale,Rai,it,no,200,regionale Abruzzo
-si,centro,La Nazione - Arezzo,https://www.lanazione.it/arezzo,https://www.lanazione.it/arezzo/rss,AR,Arezzo,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Corriere di Arezzo,https://www.corrierediarezzo.it/,,AR,Arezzo,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,senza feed
-si,centro,ArezzoNotizie,https://www.arezzonotizie.it/,https://www.arezzonotizie.it/rss,AR,Arezzo,sito_locale,Citynews,it,no,200,
-si,nordovest,La Stampa Asti,https://www.lastampa.it/asti,https://www.lastampa.it/asti/rss,AT,Asti,edizione_locale,GEDI,it,misto,200,
-si,nordovest,ATnews,https://www.atnews.it,https://www.atnews.it/feed/,AT,Asti,sito_locale,indipendente,it,no,200,
-si,nordovest,La Voce di Asti,https://www.lavocediasti.it,https://www.lavocediasti.it/rss.xml,AT,Asti,sito_locale,altro (Morenews),it,no,200,
-si,sud,Il Mattino - Avellino,https://www.ilmattino.it/avellino/,,AV,Avellino,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
-si,sud,AvellinoToday,https://www.avellinotoday.it/,https://www.avellinotoday.it/rss,AV,Avellino,sito_locale,Citynews,it,no,200,
-si,sud,Irpinia News,https://www.irpinianews.it/,https://www.irpinianews.it/feed/,AV,Avellino,sito_locale,indipendente,it,no,200,
-si,sud,Ottopagine,https://www.ottopagine.it/,,AV,Avellino,sito_locale,indipendente,it,no,200,"senza feed; Irpinia e Sannio (anche BN, SA, NA)"
-si,sud,Corriere del Mezzogiorno (Puglia),https://bari.corriere.it/,https://xml2.corriereobjects.it/rss/homepage_bari.xml,BA,Bari,edizione_locale,RCS,it,misto,200,regionale Puglia
-si,sud,Repubblica Bari,https://bari.repubblica.it/,https://bari.repubblica.it/rss/rss2.0.xml,BA,Bari,edizione_locale,GEDI,it,misto,200,regionale Puglia
-si,sud,La Gazzetta del Mezzogiorno,https://www.lagazzettadelmezzogiorno.it/,https://feeds.feedburner.com/lagazzettadelmezzogiorno/zrqvznptfkd,BA,Bari,quotidiano_locale,altro (Ledi),it,misto,200,regionale Puglia e Basilicata; altro feed: feedburner viyi6z8dkwu
-si,sud,BariToday,https://www.baritoday.it/,https://www.baritoday.it/rss,BA,Bari,sito_locale,Citynews,it,no,200,
-si,sud,Borderline24,https://www.borderline24.com/,https://www.borderline24.com/feed/,BA,Bari,sito_locale,indipendente,it,no,200,
-si,sud,Antenna Sud,https://www.antennasud.com/,https://www.antennasud.com/rsslatest.xml,BA,Bari,tv_locale,altro (editore locale),it,no,200,regionale Puglia
-si,sud,TeleNorba,https://telenorba.it/,https://telenorba.it/feed/,BA,Conversano,tv_locale,altro (Gruppo Norba),it,no,200,regionale Puglia
-si,sud,TGR Puglia,https://www.rainews.it/tgr/puglia,https://www.rainews.it/tgr/puglia/rss/tutti,BA,Bari,tv_locale,Rai,it,no,200,regionale Puglia
-si,nordovest,Corriere Bergamo,https://bergamo.corriere.it,,BG,Bergamo,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2023)
-si,nordovest,L'Eco di Bergamo,https://www.ecodibergamo.it,https://www.ecodibergamo.it/feeds/latesthp/268/,BG,Bergamo,quotidiano_locale,Sesaab,it,misto,200,
-si,nordovest,Bergamonews,https://www.bergamonews.it,https://www.bergamonews.it/feed/,BG,Bergamo,sito_locale,indipendente,it,no,200,
-si,nordovest,La Provincia di Biella,https://laprovinciadibiella.it,https://laprovinciadibiella.it/feed/,BI,Biella,quotidiano_locale,indipendente,it,misto,200,
-si,nordovest,NewsBiella,https://www.newsbiella.it,https://www.newsbiella.it/rss.xml,BI,Biella,sito_locale,altro (Morenews),it,no,200,
-si,nordest,Corriere delle Alpi,https://www.corrierealpi.it,https://www.corrierealpi.it/sitemap_rss_feed.xml,BL,Belluno,quotidiano_locale,NEM,it,misto,200,
-si,nordest,L'Amico del Popolo,https://www.amicodelpopolo.it,https://www.amicodelpopolo.it/feed/,BL,Belluno,settimanale,altro (diocesano),it,no,200,settimanale diocesano
-si,nordest,Bellunopress,https://www.bellunopress.it,https://www.bellunopress.it/feed/,BL,Belluno,sito_locale,indipendente,it,no,200,
-si,nordest,Telebelluno,https://www.telebelluno.it,https://www.telebelluno.it/feed/,BL,Belluno,tv_locale,indipendente,it,no,200,
-si,sud,Il Mattino - Benevento,https://www.ilmattino.it/benevento/,,BN,Benevento,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
-si,sud,Il Sannio Quotidiano,https://www.ilsannioquotidiano.it/,https://www.ilsannioquotidiano.it/feed/,BN,Benevento,quotidiano_locale,indipendente,it,no,200,
-si,sud,Anteprima24,https://www.anteprima24.it/,https://www.anteprima24.it/feed/,BN,Benevento,sito_locale,indipendente,it,no,200,"copre anche Caserta, Avellino, Salerno"
-si,sud,InfoSannio,https://www.infosannionews.it/,https://www.infosannionews.it/feed,BN,Benevento,sito_locale,indipendente,it,no,200,
-si,sud,Ntr24,https://www.ntr24.tv/,https://www.ntr24.tv/feed/,BN,Benevento,tv_locale,indipendente,it,no,200,
-si,nordest,Corriere di Bologna,https://corrieredibologna.corriere.it,,BO,Bologna,edizione_locale,RCS,it,misto,200,senza feed
-si,nordest,Il Resto del Carlino Imola,https://www.ilrestodelcarlino.it/imola,https://www.ilrestodelcarlino.it/imola/rss,BO,Imola,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,la Repubblica Bologna,https://bologna.repubblica.it,https://bologna.repubblica.it/rss/cronaca/rss2.0.xml,BO,Bologna,edizione_locale,GEDI,it,misto,200,
-si,nordest,Il Resto del Carlino Bologna,https://www.ilrestodelcarlino.it/bologna,https://www.ilrestodelcarlino.it/bologna/rss,BO,Bologna,quotidiano_locale,Monrifs (QN),it,misto,200,
-si,nordest,Sabato Sera,https://www.sabatosera.it,https://www.sabatosera.it/feed/,BO,Imola,settimanale,indipendente,it,no,200,
-si,nordest,Bologna2000,https://www.bologna2000.com,https://www.bologna2000.com/feed/,BO,Bologna,sito_locale,indipendente,it,no,200,
-si,nordest,BolognaToday,https://www.bolognatoday.it,https://www.bolognatoday.it/rss,BO,Bologna,sito_locale,Citynews,it,no,200,
-si,nordest,TGR Emilia-Romagna,https://www.rainews.it/tgr/emiliaromagna,https://www.rainews.it/tgr/emiliaromagna/rss/tutti,BO,Bologna,tv_locale,Rai,it,no,200,regionale Emilia-Romagna
-si,sud,Senzacolonne,https://www.senzacolonnenews.it/,https://www.senzacolonnenews.it/feed/,BR,Brindisi,quotidiano_locale,indipendente,it,no,200,
-si,sud,BrindisiReport,https://www.brindisireport.it/,https://www.brindisireport.it/rss,BR,Brindisi,sito_locale,Citynews,it,no,200,
-si,sud,Noi Notizie,https://www.noinotizie.it/,https://www.noinotizie.it/feed/,BR,Brindisi,sito_locale,indipendente,it,no,200,"Brindisi, Taranto, Salento"
-si,nordovest,Corriere Brescia,https://brescia.corriere.it,,BS,Brescia,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2023)
-si,nordovest,Bresciaoggi,https://www.bresciaoggi.it,,BS,Brescia,quotidiano_locale,Athesis,it,misto,200,senza feed
-si,nordovest,Giornale di Brescia,https://www.giornaledibrescia.it,,BS,Brescia,quotidiano_locale,Editoriale Bresciana,it,misto,200,senza feed
-si,nordovest,BresciaToday,https://www.bresciatoday.it,https://www.bresciatoday.it/rss,BS,Brescia,sito_locale,Citynews,it,no,200,
-si,nordovest,QuiBrescia,https://www.quibrescia.it,https://www.quibrescia.it/feed/,BS,Brescia,sito_locale,indipendente,it,no,200,
-si,nordovest,Teletutto,https://www.teletutto.it,,BS,Brescia,tv_locale,Editoriale Bresciana,it,no,200,senza feed
-si,sud,AndriaViva,https://www.andriaviva.it/,https://www.andriaviva.it/rss/,BT,Andria,sito_locale,altro (rete Viva),it,no,200,
-si,sud,BarlettaViva,https://www.barlettaviva.it/,https://www.barlettaviva.it/rss/,BT,Barletta,sito_locale,altro (rete Viva),it,no,200,
-si,sud,TraniViva,https://www.traniviva.it/,https://www.traniviva.it/rss/,BT,Trani,sito_locale,altro (rete Viva),it,no,200,
-si,nordest,Alto Adige,https://www.altoadige.it,https://www.altoadige.it/sitemaps/altoadige/rss,BZ,Bolzano,quotidiano_locale,altro (Athesia),it,misto,200,
-si,nordest,Dolomiten,https://dolomiten.it/de/,,BZ,Bolzano,quotidiano_locale,altro (Athesia),de,si,200,notizie online su stol.it; senza feed
-si,nordest,Neue Südtiroler Tageszeitung,https://www.tageszeitung.it,https://www.tageszeitung.it/feed/,BZ,Bolzano,quotidiano_locale,indipendente,de,misto,200,homepage aggiornata ma feed fermo ad aprile 2026: usare homepage
-si,nordest,Salto.bz,https://salto.bz,https://salto.bz/rss.xml,BZ,Bolzano,sito_locale,indipendente,de,no,200,bilingue it/de
-si,nordest,Stol.it,https://www.stol.it,https://www.stol.it/feed/,BZ,Bolzano,sito_locale,altro (Athesia),de,misto,200,portale di Dolomiten
-si,nordest,Südtirol News,https://www.suedtirolnews.it,https://www.suedtirolnews.it/feed,BZ,Bolzano,sito_locale,indipendente,de,no,200,
-si,nordest,Unser Tirol 24,https://www.unsertirol24.com,https://www.unsertirol24.com/feed/,BZ,Bolzano,sito_locale,indipendente,de,no,200,area Tirolo/Südtirol
-si,nordest,Rai Südtirol Tagesschau,https://www.rainews.it/tgr/tagesschau,https://www.rainews.it/tgr/tagesschau/rss/tutti,BZ,Bolzano,tv_locale,Rai,de,no,200,Rai Südtirol in tedesco
-si,nordest,TGR Bolzano,https://www.rainews.it/tgr/bolzano,https://www.rainews.it/tgr/bolzano/rss/tutti,BZ,Bolzano,tv_locale,Rai,it,no,200,
-si,isole,L'Unione Sarda,https://www.unionesarda.it,https://www.unionesarda.it/sitemaps/rss,CA,Cagliari,quotidiano_locale,altro (L'Unione Editoriale - gruppo Zuncheddu),it,misto,200,regionale Sardegna; stesso gruppo di Videolina e Radiolina
-si,isole,CagliariPad,https://www.cagliaripad.it,https://www.cagliaripad.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,homepage aggiornata ma feed restituisce 502: usare homepage
-si,isole,CagliariToday,https://www.cagliaritoday.it,https://www.cagliaritoday.it/rss,CA,Cagliari,sito_locale,Citynews,it,no,200,
-si,isole,Casteddu Online,https://www.castedduonline.it,https://www.castedduonline.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,
-si,isole,Sardegna Live,https://www.sardegnalive.net,https://www.sardegnalive.net/sitemaps/rss,CA,Cagliari,sito_locale,indipendente,it,no,200,regionale Sardegna
-si,isole,Sardinia Post,https://www.sardiniapost.it,https://www.sardiniapost.it/rss,CA,Cagliari,sito_locale,indipendente,it,no,200,regionale Sardegna; feed senza date
-si,isole,Vistanet,https://www.vistanet.it,https://www.vistanet.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,regionale Sardegna con sezioni locali (/cagliari/feed/ ecc.)
-si,isole,TGR Sardegna,https://www.rainews.it/tgr/sardegna,https://www.rainews.it/tgr/sardegna/rss/tutti,CA,Cagliari,tv_locale,Rai,it,no,200,regionale Sardegna
-si,isole,Videolina,https://www.videolina.it,,CA,Cagliari,tv_locale,altro (L'Unione Editoriale - gruppo Zuncheddu),it,no,200,senza feed; stesso gruppo de L'Unione Sarda
-si,centro,Quotidiano del Molise,https://www.quotidianomolise.com/,,CB,Campobasso,quotidiano_locale,indipendente,it,?,200,regionale Molise; senza feed; il vecchio dominio ilquotidianodelmolise.it non risponde
-si,centro,Il Giornale del Molise,https://www.ilgiornaledelmolise.it/,https://www.ilgiornaledelmolise.it/feed/,CB,Campobasso,sito_locale,altro (Editoria Innovazioni Sviluppo),it,no,200,regionale Molise
-si,centro,Primonumero,https://www.primonumero.it/,https://www.primonumero.it/?feed=news-news24,CB,Termoli,sito_locale,indipendente,it,no,200,"Basso Molise, giornalismo originale"
-si,centro,Termolionline,https://www.termolionline.it/,,CB,Termoli,sito_locale,indipendente,it,no,403,403 anti-bot; feed non verificabile
-si,centro,TGR Molise,https://www.rainews.it/tgr/molise,https://www.rainews.it/tgr/molise/rss/tutti,CB,Campobasso,tv_locale,Rai,it,no,200,regionale Molise
-si,sud,Cronache di Caserta,https://cronachedi.it/,https://cronachedi.it/feed/,CE,Caserta,quotidiano_locale,altro (Libra Editrice),it,no,200,dominio cronachedi.it (rete Cronache)
-si,sud,Il Mattino - Caserta,https://www.ilmattino.it/caserta/,,CE,Caserta,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
-si,sud,CasertaCE,https://casertace.net/,https://casertace.net/feed/,CE,Caserta,sito_locale,indipendente,it,no,200,forte su politica e giudiziaria
-si,sud,CasertaNews,https://www.casertanews.it/,https://www.casertanews.it/rss,CE,Caserta,sito_locale,Citynews,it,no,200,
-si,sud,Edizione Caserta,https://edizionecaserta.net/,https://edizionecaserta.net/feed/,CE,Caserta,sito_locale,indipendente,it,no,200,
-si,centro,ChietiToday,https://www.chietitoday.it/,https://www.chietitoday.it/rss,CH,Chieti,sito_locale,Citynews,it,no,200,
-si,centro,Zonalocale,https://www.zonalocale.it/,https://www.zonalocale.it/feed/,CH,Vasto,sito_locale,indipendente,it,no,200,"Vasto, San Salvo, Trigno-Sinello"
-si,isole,Il Fatto Nisseno,https://www.ilfattonisseno.it,https://www.ilfattonisseno.it/feed/,CL,Caltanissetta,sito_locale,indipendente,it,no,200,ripubblica anche lanci Italpress
-si,isole,Quotidiano di Gela,https://quotidianodigela.it,https://quotidianodigela.it/feed/,CL,Gela,sito_locale,indipendente,it,no,200,
-si,isole,Seguonews,https://seguonews.it,,CL,Caltanissetta,sito_locale,indipendente,it,no,200,senza feed; usare dominio senza www (certificato SSL non valido su www)
-si,nordovest,La Stampa Cuneo,https://www.lastampa.it/cuneo,https://www.lastampa.it/cuneo/rss,CN,Cuneo,edizione_locale,GEDI,it,misto,200,
-si,nordovest,La Guida,https://laguida.it,https://laguida.it/rss.xml,CN,Cuneo,settimanale,altro (editore diocesano),it,misto,200,
-si,nordovest,Cuneodice,https://www.cuneodice.it,https://www.cuneodice.it/rss/prima-pagina/rss2.0.xml,CN,Cuneo,sito_locale,indipendente,it,no,200,
-si,nordovest,La Voce di Alba,https://www.lavocedialba.it,https://www.lavocedialba.it/rss.xml,CN,Alba,sito_locale,altro (Morenews),it,no,200,Langhe e Roero
-si,nordovest,Targatocn,https://www.targatocn.it,https://www.targatocn.it/rss.xml,CN,Cuneo,sito_locale,altro (Morenews),it,no,200,
-si,nordovest,La Provincia di Como,https://www.laprovinciadicomo.it,,CO,Como,quotidiano_locale,Sesaab,it,misto,200,senza feed
-si,nordovest,CiaoComo,https://www.ciaocomo.it,https://www.ciaocomo.it/feed/,CO,Como,sito_locale,indipendente,it,no,200,
-si,nordovest,QuiComo,https://www.quicomo.it,https://www.quicomo.it/rss,CO,Como,sito_locale,Citynews,it,no,200,
-si,nordovest,La Provincia di Cremona,https://www.laprovinciacr.it,,CR,Cremona,quotidiano_locale,altro (Società Editoriale Cremonese),it,misto,200,senza feed
-si,nordovest,CremonaOggi,https://www.cremonaoggi.it,https://www.cremonaoggi.it/feed/,CR,Cremona,sito_locale,indipendente,it,no,200,
-si,nordovest,OglioPoNews,https://www.oglioponews.it,https://www.oglioponews.it/feed/,CR,Casalmaggiore,sito_locale,indipendente,it,no,200,Casalasco e Oglio Po
-si,sud,Gazzetta del Sud - Cosenza,https://cosenza.gazzettadelsud.it/,https://feedpress.me/gsud_hp_cosenza,CS,Cosenza,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,
-si,sud,Il Quotidiano del Sud,https://www.quotidianodelsud.it/,,CS,Cosenza,quotidiano_locale,altro (Quotidiano del Sud),it,misto,200,regionale Calabria; edizioni anche Basilicata e Irpinia; feed condiviso con un'altra edizione
-si,sud,CosenzaChannel,https://www.cosenzachannel.it/,https://www.cosenzachannel.it/sitemaps/cosenza/rss,CS,Cosenza,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,
-si,sud,QuiCosenza,https://quicosenza.it/,https://quicosenza.it/news/feed/,CS,Cosenza,sito_locale,indipendente,it,no,200,
-si,isole,La Sicilia,https://www.lasicilia.it,,CT,Catania,quotidiano_locale,altro (Domenico Sanfilippo Editore),it,misto,200,senza feed; primo quotidiano della Sicilia orientale; stesso gruppo di Antenna Sicilia
-si,isole,Quotidiano di Sicilia (QdS),https://qds.it,https://qds.it/feed/,CT,Catania,quotidiano_locale,altro (Ediservice),it,misto,200,regionale Sicilia; forte su economia e PA
-si,isole,CataniaToday,https://www.cataniatoday.it,https://www.cataniatoday.it/rss,CT,Catania,sito_locale,Citynews,it,no,200,
-si,isole,MeridioNews,https://meridionews.it,https://meridionews.it/feed/,CT,Catania,sito_locale,indipendente,it,no,200,attivo nel 2026; inchieste e cronaca Sicilia orientale
-si,isole,Newsicilia,https://newsicilia.it,https://newsicilia.it/feed/,CT,Catania,sito_locale,indipendente,it,no,200,
-si,isole,Telecolor / Antenna Sicilia (SiciliaWeb),https://siciliaweb.it,,CT,Catania,tv_locale,altro (Domenico Sanfilippo Editore),it,no,200,senza feed; telecolor.it reindirizza a siciliaweb.it; stesso gruppo de La Sicilia
-si,sud,Gazzetta del Sud - Calabria,https://calabria.gazzettadelsud.it/,https://feedpress.me/gsud_hp_calabria,CZ,Catanzaro,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,regionale Calabria
-si,sud,Gazzetta del Sud - Catanzaro,https://catanzaro.gazzettadelsud.it/,https://feedpress.me/gsud_hp_catanzaro,CZ,Catanzaro,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,copre anche Crotone e Vibo
-si,sud,Calabria7,https://calabria7.news/,https://calabria7.news/feed/,CZ,Catanzaro,sito_locale,indipendente,it,no,200,regionale; dominio calabria7.news
-si,sud,CatanzaroInforma,https://www.catanzaroinforma.it/,https://www.catanzaroinforma.it/feed/,CZ,Catanzaro,sito_locale,indipendente,it,no,200,
-si,sud,Corriere della Calabria,https://www.corrieredellacalabria.it/,https://www.corrieredellacalabria.it/feed/,CZ,Lamezia Terme,sito_locale,indipendente,it,no,200,regionale Calabria; forte su 'ndrangheta e giudiziaria
-si,sud,LameziaInforma,https://www.lameziainforma.it/,https://www.lameziainforma.it/feed/,CZ,Lamezia Terme,sito_locale,indipendente,it,no,200,
-si,sud,TGR Calabria,https://www.rainews.it/tgr/calabria,https://www.rainews.it/tgr/calabria/rss/tutti,CZ,Cosenza,tv_locale,Rai,it,no,200,regionale Calabria
-si,isole,EnnaPress,https://ennapress.it,https://ennapress.it/feed/,EN,Enna,sito_locale,indipendente,it,no,200,
-si,isole,ViviEnna,https://www.vivienna.it,https://www.vivienna.it/feed/,EN,Enna,sito_locale,indipendente,it,no,200,
-si,nordest,Il Resto del Carlino Cesena,https://www.ilrestodelcarlino.it/cesena,https://www.ilrestodelcarlino.it/cesena/rss,FC,Cesena,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,Il Resto del Carlino Forlì,https://www.ilrestodelcarlino.it/forli,https://www.ilrestodelcarlino.it/forli/rss,FC,Forlì,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,Corriere Romagna,https://www.corriereromagna.it,https://www.corriereromagna.it/rss/home.xml,FC,Cesena,quotidiano_locale,altro (Edizioni Romagna),it,misto,200,"regionale Romagna (RA, FC, RN)"
-si,nordest,CesenaNotizie,https://www.cesenanotizie.net,https://www.cesenanotizie.net/feed/,FC,Cesena,sito_locale,indipendente,it,no,200,
-si,nordest,CesenaToday,https://www.cesenatoday.it,https://www.cesenatoday.it/rss,FC,Cesena,sito_locale,Citynews,it,no,200,
-si,nordest,Forlinotizie,https://www.forlinotizie.net,https://www.forlinotizie.net/feed/,FC,Forlì,sito_locale,indipendente,it,no,200,
-si,nordest,ForlìToday,https://www.forlitoday.it,https://www.forlitoday.it/rss,FC,Forlì,sito_locale,Citynews,it,no,200,
-si,nordest,Il Resto del Carlino Ferrara,https://www.ilrestodelcarlino.it/ferrara,https://www.ilrestodelcarlino.it/ferrara/rss,FE,Ferrara,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,La Nuova Ferrara,https://www.lanuovaferrara.it,,FE,Ferrara,quotidiano_locale,SAE,it,misto,200,senza feed
-si,nordest,Estense.com,https://www.estense.com,https://www.estense.com/feed/,FE,Ferrara,sito_locale,indipendente,it,no,200,
-si,nordest,FerraraToday,https://www.ferraratoday.it,https://www.ferraratoday.it/rss,FE,Ferrara,sito_locale,Citynews,it,no,200,feed /rss risponde 403 allo script (anti-bot)
-si,nordest,Telestense,https://www.telestense.it,,FE,Ferrara,tv_locale,indipendente,it,no,200,feed WordPress contaminato da spam casino: usare homepage; senza feed
-si,sud,l'Attacco,https://www.lattacco.it/it/,https://www.lattacco.it/it/?format=feed&type=rss,FG,Foggia,quotidiano_locale,indipendente,it,no,200,
-si,sud,FoggiaToday,https://www.foggiatoday.it/,https://www.foggiatoday.it/rss,FG,Foggia,sito_locale,Citynews,it,no,200,
-si,sud,l'Immediato,https://www.immediato.net/,https://www.immediato.net/feed/,FG,Foggia,sito_locale,indipendente,it,no,200,forte su mafia foggiana e giudiziaria
-si,sud,Stato Quotidiano,https://www.statoquotidiano.it/,https://www.statoquotidiano.it/feed/,FG,Manfredonia,sito_locale,indipendente,it,no,200,Capitanata e Gargano
-si,centro,Corriere Fiorentino,https://corrierefiorentino.corriere.it/,,FI,Firenze,edizione_locale,RCS,it,misto,200,senza feed (feed vecchi fermi al 2014/2022)
-si,centro,La Nazione - Empoli,https://www.lanazione.it/empoli,https://www.lanazione.it/empoli/rss,FI,Empoli,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,la Repubblica Firenze,https://firenze.repubblica.it/,,FI,Firenze,edizione_locale,GEDI,it,misto,200,senza feed (rss locale fermo al 2023)
-si,centro,Il Tirreno,https://www.iltirreno.it/,,FI,Livorno,quotidiano_locale,SAE,it,misto,200,"regionale Toscana costiera (Livorno, Pisa, Lucca, Grosseto, Massa, Prato, Pistoia); senza feed"
-si,centro,La Nazione - Firenze,https://www.lanazione.it/firenze,https://www.lanazione.it/firenze/rss,FI,Firenze,quotidiano_locale,Monrif (QN),it,misto,200,
-si,centro,Toscana Oggi,https://www.toscanaoggi.it/,https://www.toscanaoggi.it/feed/,FI,Firenze,settimanale,altro (diocesano),it,misto,200,"regionale Toscana, settimanale cattolico"
-si,centro,Firenze Post,https://www.firenzepost.it/,https://www.firenzepost.it/feed/,FI,Firenze,sito_locale,indipendente,it,no,200,mescola notizie nazionali
-si,centro,FirenzeToday,https://www.firenzetoday.it/,https://www.firenzetoday.it/rss,FI,Firenze,sito_locale,Citynews,it,no,200,
-si,centro,gonews.it,https://www.gonews.it/,https://www.gonews.it/feed/,FI,Empoli,sito_locale,indipendente,it,no,200,Empolese Valdelsa e Toscana centrale
-si,centro,QUI News Toscana,https://www.toscanamedianews.it/,,FI,Firenze,sito_locale,altro (Toscana Media Channel),it,no,200,"regionale Toscana, rete di edizioni provinciali; senza feed"
-si,centro,TGR Toscana,https://www.rainews.it/tgr/toscana,https://www.rainews.it/tgr/toscana/rss/tutti,FI,Firenze,tv_locale,Rai,it,no,200,regionale Toscana
-si,centro,il Resto del Carlino - Fermo,https://www.ilrestodelcarlino.it/fermo,https://www.ilrestodelcarlino.it/fermo/rss,FM,Fermo,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Cronache Fermane,https://www.cronachefermane.it/,https://www.cronachefermane.it/feed/,FM,Fermo,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,
-si,centro,Il Messaggero - Frosinone,https://www.ilmessaggero.it/frosinone/,,FR,Frosinone,edizione_locale,Caltagirone,it,misto,418,anti-bot 418; senza feed verificato
-si,centro,Ciociaria Oggi,https://www.ciociariaoggi.it/,,FR,Frosinone,quotidiano_locale,altro (Editoriale Oggi),it,misto,200,senza feed (rss sezioni vuoti)
-si,centro,Alessioporcu.it,https://alessioporcu.it/,https://alessioporcu.it/feed/,FR,Frosinone,sito_locale,indipendente,it,no,,"forte su politica ciociara; homepage a volte non risponde (ConnectionError), feed ok"
-si,centro,FrosinoneToday,https://www.frosinonetoday.it/,https://www.frosinonetoday.it/rss,FR,Frosinone,sito_locale,Citynews,it,no,200,
-si,nordovest,Repubblica Genova,https://genova.repubblica.it,,GE,Genova,edizione_locale,GEDI,it,misto,200,senza feed (feed locale fermo al 2023)
-si,nordovest,Il Secolo XIX,https://www.ilsecoloxix.it,https://www.ilsecoloxix.it/rss,GE,Genova,quotidiano_locale,altro (Blue Media / MSC),it,misto,429,"regionale Liguria; 429 anti-bot, feed non verificabile; ha edizioni Savona/Imperia/Spezia"
-si,nordovest,Genova24,https://www.genova24.it,https://www.genova24.it/feed/,GE,Genova,sito_locale,altro (rete 24 Liguria),it,no,403,403 anti-bot anche sul feed
-si,nordovest,GenovaToday,https://www.genovatoday.it,https://www.genovatoday.it/rss,GE,Genova,sito_locale,Citynews,it,no,200,
-si,nordovest,Levante News,https://www.levantenews.it,https://www.levantenews.it/feed/,GE,Lavagna,sito_locale,indipendente,it,no,200,Tigullio
-si,nordovest,Primocanale,https://www.primocanale.it,,GE,Genova,tv_locale,indipendente,it,no,200,regionale Liguria; senza feed
-si,nordovest,TGR Liguria,https://www.rainews.it/tgr/liguria,https://www.rainews.it/tgr/liguria/rss/tutti,GE,Genova,tv_locale,Rai,it,no,200,regionale Liguria
-si,nordest,Il Goriziano,https://www.ilgoriziano.it,,GO,Gorizia,sito_locale,indipendente,it,no,200,senza feed
-si,centro,La Nazione - Grosseto,https://www.lanazione.it/grosseto,https://www.lanazione.it/grosseto/rss,GR,Grosseto,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Grosseto Notizie,https://www.grossetonotizie.com/,https://www.grossetonotizie.com/feed/,GR,Grosseto,sito_locale,indipendente,it,no,200,
-si,centro,Il Giunco,https://www.ilgiunco.net/,https://www.ilgiunco.net/feed/,GR,Grosseto,sito_locale,indipendente,it,no,200,
-si,nordovest,La Stampa Imperia-Sanremo,https://www.lastampa.it/imperia-sanremo,https://www.lastampa.it/imperia-sanremo/rss,IM,Imperia,edizione_locale,GEDI,it,misto,200,
-si,nordovest,ImperiaPost,https://imperiapost.it,https://imperiapost.it/feed,IM,Imperia,sito_locale,indipendente,it,no,200,feed con pochi elementi (4)
-si,nordovest,Riviera24,https://www.riviera24.it,https://www.riviera24.it/feed/,IM,Sanremo,sito_locale,altro (rete 24 Liguria),it,no,200,
-si,nordovest,SanremoNews,https://www.sanremonews.it,https://www.sanremonews.it/rss.xml,IM,Sanremo,sito_locale,altro (Morenews),it,no,200,
-si,centro,isNews,https://www.isnews.it/,,IS,Isernia,sito_locale,indipendente,it,no,500,homepage in errore database (500) al 27/9/2026: da ricontrollare
-si,centro,Molise Network,https://www.molisenetwork.net/,https://www.molisenetwork.net/feed/,IS,Isernia,sito_locale,indipendente,it,no,200,"regionale Molise, forte su Isernia"
-si,sud,Il Crotonese,https://www.ilcrotonese.it/,https://www.ilcrotonese.it/feed/,KR,Crotone,quotidiano_locale,indipendente,it,no,200,
-si,sud,CrotoneOK,https://www.crotoneok.it/,https://www.crotoneok.it/feed.xml,KR,Crotone,sito_locale,indipendente,it,no,200,
-si,nordovest,La Provincia Unica Tv (Lecco-Sondrio),https://www.laprovinciaunicatv.it,,LC,Lecco,quotidiano_locale,Sesaab,it,misto,200,senza feed; ha assorbito i siti La Provincia di Lecco e di Sondrio
-si,nordovest,LeccoToday,https://www.leccotoday.it,https://www.leccotoday.it/rss,LC,Lecco,sito_locale,Citynews,it,no,200,
-si,sud,Nuovo Quotidiano di Puglia,https://www.quotidianodipuglia.it/,https://www.quotidianodipuglia.it/rss/home.xml,LE,Lecce,quotidiano_locale,Caltagirone,it,misto,200,"edizioni Lecce, Brindisi, Taranto"
-si,sud,Leccenews24,https://www.leccenews24.it/,https://www.leccenews24.it/feed,LE,Lecce,sito_locale,indipendente,it,no,200,
-si,sud,LeccePrima,https://www.lecceprima.it/,https://www.lecceprima.it/rss,LE,Lecce,sito_locale,Citynews,it,no,200,
-si,centro,Il Telegrafo Livorno,https://www.iltelegrafolivorno.it/,https://www.iltelegrafolivorno.it/rss,LI,Livorno,quotidiano_locale,Monrif (QN),it,misto,200,edizione livornese de La Nazione (lanazione.it/livorno reindirizza qui)
-si,centro,LivornoToday,https://www.livornotoday.it/,https://www.livornotoday.it/rss,LI,Livorno,sito_locale,Citynews,it,no,200,
-si,centro,QuiLivorno,https://www.quilivorno.it/,https://www.quilivorno.it/feed/,LI,Livorno,sito_locale,indipendente,it,no,200,
-si,nordovest,Il Cittadino di Lodi,https://www.ilcittadino.it,,LO,Lodi,quotidiano_locale,altro (Diocesi di Lodi),it,misto,200,senza feed
-si,nordovest,Il Giorno Lodi,https://www.ilgiorno.it/lodi,https://www.ilgiorno.it/lodi/rss,LO,Lodi,quotidiano_locale,Monrifs (QN),it,misto,200,
-si,centro,Il Messaggero - Latina,https://www.ilmessaggero.it/latina/,,LT,Latina,edizione_locale,Caltagirone,it,misto,418,anti-bot 418; senza feed verificato
-si,centro,Latina Oggi,https://www.latinaoggi.eu/,,LT,Latina,quotidiano_locale,altro (Editoriale Oggi),it,misto,200,senza feed (rss sezioni vuoti)
-si,centro,H24 Notizie,https://h24notizie.com/,https://h24notizie.com/feed/,LT,Latina,sito_locale,indipendente,it,no,200,"provincia di Latina e sud pontino; www non risponde, usare dominio senza www"
-si,centro,LatinaToday,https://www.latinatoday.it/,https://www.latinatoday.it/rss,LT,Latina,sito_locale,Citynews,it,no,200,
-si,centro,La Nazione - Lucca,https://www.lanazione.it/lucca,https://www.lanazione.it/lucca/rss,LU,Lucca,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Lucca in Diretta,https://www.luccaindiretta.it/,https://www.luccaindiretta.it/feed/,LU,Lucca,sito_locale,indipendente,it,no,200,
-si,centro,Noi TV,https://www.noitv.it/,https://www.noitv.it/feed/,LU,Lucca,tv_locale,indipendente,it,no,200,Lucca e Versilia
-si,nordovest,Il Cittadino di Monza e Brianza,https://www.ilcittadinomb.it,https://www.ilcittadinomb.it/feed/,MB,Monza,quotidiano_locale,Sesaab,it,misto,200,
-si,nordovest,Il Giorno Monza Brianza,https://www.ilgiorno.it/monza-brianza,https://www.ilgiorno.it/monza-brianza/rss,MB,Monza,quotidiano_locale,Monrifs (QN),it,misto,200,
-si,nordovest,MBNews,https://www.mbnews.it,https://cdn.mbnews.it/?feed=news-news24,MB,Monza,sito_locale,indipendente,it,no,200,
-si,nordovest,MonzaToday,https://www.monzatoday.it,https://www.monzatoday.it/rss,MB,Monza,sito_locale,Citynews,it,no,200,
-si,centro,il Resto del Carlino - Macerata,https://www.ilrestodelcarlino.it/macerata,https://www.ilrestodelcarlino.it/macerata/rss,MC,Macerata,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Cronache Maceratesi,https://www.cronachemaceratesi.it/,https://www.cronachemaceratesi.it/feed/,MC,Macerata,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,molto prolifico
-si,centro,Picchio News,https://picchionews.it/,https://picchionews.it/feed/,MC,Macerata,sito_locale,indipendente,it,no,200,
-si,isole,Gazzetta del Sud - Messina,https://gazzettadelsud.it/messina/,https://gazzettadelsud.it/upload/assets/rss/producer-messina-homepage.xml,ME,Messina,quotidiano_locale,altro (SES - Società Editrice Siciliana),it,misto,200,edizione Messina; feed Messina contiene anche pezzi calabresi; stesso gruppo del GdS
-si,isole,MessinaToday,https://www.messinatoday.it,https://www.messinatoday.it/rss,ME,Messina,sito_locale,Citynews,it,no,200,
-si,isole,Tempostretto,https://www.tempostretto.it,https://www.tempostretto.it/feed/,ME,Messina,sito_locale,indipendente,it,no,200,Messina e area dello Stretto
-si,nordovest,Corriere della Sera Milano,https://milano.corriere.it,,MI,Milano,edizione_locale,RCS,it,misto,200,senza feed (feed xml2.corriereobjects fermi al 2022)
-si,nordovest,Repubblica Milano,https://milano.repubblica.it,,MI,Milano,edizione_locale,GEDI,it,misto,200,senza feed (feed locale fermo al 2023)
-si,nordovest,Il Giorno Milano,https://www.ilgiorno.it/milano,https://www.ilgiorno.it/milano/rss,MI,Milano,quotidiano_locale,Monrifs (QN),it,misto,200,quotidiano regionale Lombardia; sezioni provinciali
-si,nordovest,MilanoToday,https://www.milanotoday.it,https://www.milanotoday.it/rss,MI,Milano,sito_locale,Citynews,it,no,200,
-si,nordovest,Telelombardia,https://www.mediapason.it/telelombardia/,https://www.mediapason.it/feed/,MI,Milano,tv_locale,altro (Mediapason),it,no,200,"regionale; feed comune gruppo Mediapason, poco frequente"
-si,nordovest,TGR Lombardia,https://www.rainews.it/tgr/lombardia,https://www.rainews.it/tgr/lombardia/rss/tutti,MI,Milano,tv_locale,Rai,it,no,200,regionale Lombardia
-si,nordovest,Gazzetta di Mantova,https://www.gazzettadimantova.it,,MN,Mantova,quotidiano_locale,altro (ex GEDI),it,misto,200,senza feed; proprietà da verificare dopo cessione GEDI
-si,nordovest,La Voce di Mantova,https://vocedimantova.it,https://vocedimantova.it/feed/,MN,Mantova,quotidiano_locale,indipendente,it,misto,200,
-si,nordovest,MantovaUno,https://mantovauno.it,https://mantovauno.it/feed/,MN,Mantova,sito_locale,indipendente,it,no,200,
-si,nordest,Il Resto del Carlino Modena,https://www.ilrestodelcarlino.it/modena,https://www.ilrestodelcarlino.it/modena/rss,MO,Modena,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,Gazzetta di Modena,https://www.gazzettadimodena.it,,MO,Modena,quotidiano_locale,SAE,it,misto,200,senza feed
-si,nordest,La Pressa,https://www.lapressa.it,https://www.lapressa.it/rss.xml,MO,Modena,sito_locale,indipendente,it,no,200,
-si,nordest,ModenaToday,https://www.modenatoday.it,https://www.modenatoday.it/rss,MO,Modena,sito_locale,Citynews,it,no,200,
-si,nordest,Sassuolo2000,https://www.sassuolo2000.it,https://www.sassuolo2000.it/feed/,MO,Sassuolo,sito_locale,indipendente,it,no,200,
-si,nordest,SulPanaro,https://www.sulpanaro.net,https://www.sulpanaro.net/feed/,MO,Mirandola,sito_locale,indipendente,it,no,200,Bassa modenese
-si,centro,La Nazione - Massa Carrara,https://www.lanazione.it/massa-carrara,https://www.lanazione.it/massa-carrara/rss,MS,Massa,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,La Voce Apuana,https://www.voceapuana.com/,https://www.voceapuana.com/feed/,MS,Massa,sito_locale,indipendente,it,no,200,Massa-Carrara e Lunigiana
-si,sud,La Siritide,https://www.lasiritide.it/,,MT,Policoro,sito_locale,indipendente,it,no,200,senza feed; metapontino e Val d'Agri
-si,sud,SassiLive,https://www.sassilive.it/,https://www.sassilive.it/feed/,MT,Matera,sito_locale,indipendente,it,no,200,
-si,sud,TRM h24,https://www.trmtv.it/,https://www.trmtv.it/feed,MT,Matera,tv_locale,indipendente,it,no,200,regionale Basilicata
-si,sud,Corriere del Mezzogiorno (Campania),https://napoli.corriere.it/,http://xml2.corriereobjects.it/rss/homepage_napoli.xml,NA,Napoli,edizione_locale,RCS,it,misto,200,regionale Campania
-si,sud,Repubblica Napoli,https://napoli.repubblica.it/,https://napoli.repubblica.it/rss/rss2.0.xml,NA,Napoli,edizione_locale,GEDI,it,misto,200,
-si,sud,Cronache di Napoli,https://cronachedinapoli.it/,,NA,Napoli,quotidiano_locale,altro (Libra Editrice),it,no,200,senza feed; forte su cronaca nera e camorra
-si,sud,Il Dispari,http://www.ildispari.it/,http://www.ildispari.it/feed/,NA,Ischia,quotidiano_locale,indipendente,it,no,,"Ischia e Procida; HTTPS con errore SSL, usare http"
-si,sud,Il Mattino,https://www.ilmattino.it/,https://www.ilmattino.it/rss/home.xml,NA,Napoli,quotidiano_locale,Caltagirone,it,misto,200,regionale Campania; feed a volte 418 anti-bot
-si,sud,Il Roma,https://www.ilroma.net/,https://www.ilroma.net/feed/,NA,Napoli,quotidiano_locale,altro (Nuove Edizioni Roma),it,no,200,
-si,sud,Metropolis,https://www.metropolisweb.it/,https://www.metropolisweb.it/feed/,NA,Castellammare di Stabia,quotidiano_locale,indipendente,it,no,200,area vesuviana e stabiese
-si,sud,Il Meridiano News,https://www.ilmeridianonews.it/,https://www.ilmeridianonews.it/feed/,NA,Aversa,sito_locale,indipendente,it,no,200,area nord Napoli e agro aversano
-si,sud,Internapoli,https://internapoli.it/,https://internapoli.it/feed/,NA,Napoli,sito_locale,indipendente,it,no,200,"area nord Napoli, cronaca"
-si,sud,NapoliToday,https://www.napolitoday.it/,https://www.napolitoday.it/rss,NA,Napoli,sito_locale,Citynews,it,no,200,
-si,sud,Canale 21,https://www.canale21.it/,https://www.canale21.it/feed/,NA,Napoli,tv_locale,indipendente,it,no,200,
-si,sud,TGR Campania,https://www.rainews.it/tgr/campania,https://www.rainews.it/tgr/campania/rss/tutti,NA,Napoli,tv_locale,Rai,it,no,200,regionale Campania
-si,nordovest,La Stampa Novara,https://www.lastampa.it/novara,https://www.lastampa.it/novara/rss,NO,Novara,edizione_locale,GEDI,it,misto,200,
-si,nordovest,Corriere di Novara,https://corrieredinovara.it,https://corrieredinovara.it/feed/,NO,Novara,settimanale,altro (Netweek),it,no,200,
-si,nordovest,La Voce di Novara,https://www.lavocedinovara.com,https://www.lavocedinovara.com/feed/,NO,Novara,sito_locale,indipendente,it,no,200,
-si,nordovest,NovaraToday,https://www.novaratoday.it,https://www.novaratoday.it/rss,NO,Novara,sito_locale,Citynews,it,no,200,
-si,isole,L'Ortobene,https://www.ortobene.net,https://www.ortobene.net/feed/,NU,Nuoro,settimanale,altro (diocesi di Nuoro),it,no,301,"settimanale diocesano; script: errore connessione, feed ok"
-si,isole,Cronache Nuoresi,https://www.cronachenuoresi.it,https://www.cronachenuoresi.it/feed/,NU,Nuoro,sito_locale,indipendente,it,no,200,
-si,isole,Vistanet Ogliastra,https://www.vistanet.it/ogliastra/,https://www.vistanet.it/ogliastra/feed/,NU,Tortolì,sito_locale,indipendente,it,no,200,"Ogliastra (nuova provincia di Ogliastra, sigla legacy NU)"
-si,isole,LinkOristano,https://www.linkoristano.it,https://www.linkoristano.it/feed/,OR,Oristano,sito_locale,indipendente,it,no,200,
-si,isole,OristanoNoi,https://www.oristanonoi.it,https://www.oristanonoi.it/feed/,OR,Oristano,sito_locale,indipendente,it,no,200,
-si,isole,Repubblica Palermo,https://palermo.repubblica.it,https://palermo.repubblica.it/rss/cronaca/rss2.0.xml,PA,Palermo,edizione_locale,GEDI,it,misto,200,feed solo sezione cronaca (la homepage espone il feed nazionale)
-si,isole,Giornale di Sicilia,https://gds.it,https://gds.it/upload/assets/rss/producer-sicilia-homepage.xml,PA,Palermo,quotidiano_locale,altro (SES - Società Editrice Siciliana),it,misto,200,regionale Sicilia; feed provinciali: producer-palermo/catania/trapani/agrigento-homepage.xml
-si,isole,BlogSicilia,https://www.blogsicilia.it,https://www.blogsicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,regionale Sicilia
-si,isole,ilSicilia.it,https://ilsicilia.it,https://ilsicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,regionale Sicilia
-si,isole,LiveSicilia,https://livesicilia.it,https://livesicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,regionale Sicilia; forte su politica e giudiziaria; feed espone 1 solo elemento: meglio homepage
-si,isole,PalermoToday,https://www.palermotoday.it,https://www.palermotoday.it/rss,PA,Palermo,sito_locale,Citynews,it,no,200,
-si,isole,TGR Sicilia,https://www.rainews.it/tgr/sicilia,https://www.rainews.it/tgr/sicilia/rss/tutti,PA,Palermo,tv_locale,Rai,it,no,200,regionale Sicilia
-si,isole,TGS - Telegiornale di Sicilia,https://tgs.gds.it,,PA,Palermo,tv_locale,altro (SES - Società Editrice Siciliana),it,no,200,"senza feed proprio; tgs.it non risolve, sito ora su tgs.gds.it (stesso gruppo del GdS)"
-si,nordest,Libertà,https://www.liberta.it,,PC,Piacenza,quotidiano_locale,altro (Editoriale Libertà),it,misto,200,senza feed (google-news-sitemap.xml)
-si,nordest,IlPiacenza,https://www.ilpiacenza.it,https://www.ilpiacenza.it/rss,PC,Piacenza,sito_locale,Citynews,it,no,200,
-si,nordest,PiacenzaSera,https://www.piacenzasera.it,https://www.piacenzasera.it/feed/,PC,Piacenza,sito_locale,indipendente,it,no,200,
-si,nordest,Il Mattino di Padova,https://www.mattinopadova.it,https://www.mattinopadova.it/sitemap_rss_feed.xml,PD,Padova,quotidiano_locale,NEM,it,misto,200,
-si,nordest,PadovaOggi,https://www.padovaoggi.it,https://www.padovaoggi.it/rss,PD,Padova,sito_locale,Citynews,it,no,200,
-si,centro,Il Germe,https://www.ilgerme.it/,https://www.ilgerme.it/feed/,PE,Pescara,sito_locale,indipendente,it,no,200,"approfondimento e inchieste, meno di un pezzo al giorno"
-si,centro,Il Pescara,https://www.ilpescara.it/,https://www.ilpescara.it/rss,PE,Pescara,sito_locale,Citynews,it,no,200,
-si,centro,La Nazione - Umbria,https://www.lanazione.it/umbria,https://www.lanazione.it/umbria/rss,PG,Perugia,edizione_locale,Monrif (QN),it,misto,200,regionale Umbria
-si,centro,Corriere dell'Umbria,https://www.corrieredellumbria.it/,,PG,Perugia,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,regionale Umbria; senza feed
-si,centro,PerugiaToday,https://www.perugiatoday.it/,https://www.perugiatoday.it/rss,PG,Perugia,sito_locale,Citynews,it,no,200,
-si,centro,TuttOggi,https://tuttoggi.info/,https://tuttoggi.info/feed/,PG,Foligno,sito_locale,indipendente,it,no,,"Foligno, Spoleto, Valnerina; homepage ConnectionError allo script, feed ok (include anche notizie nazionali)"
-si,centro,Umbria Journal,https://www.umbriajournal.com/,https://www.umbriajournal.com/feed/,PG,Perugia,sito_locale,indipendente,it,no,200,
-si,centro,Umbria24,https://www.umbria24.it/,https://www.umbria24.it/feed/,PG,Perugia,sito_locale,indipendente,it,no,200,regionale Umbria
-si,centro,TGR Umbria,https://www.rainews.it/tgr/umbria,https://www.rainews.it/tgr/umbria/rss/tutti,PG,Perugia,tv_locale,Rai,it,no,200,regionale Umbria
-si,centro,La Nazione - Pisa,https://www.lanazione.it/pisa,https://www.lanazione.it/pisa/rss,PI,Pisa,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,PisaToday,https://www.pisatoday.it/,https://www.pisatoday.it/rss,PI,Pisa,sito_locale,Citynews,it,no,200,
-si,nordest,Il Popolo,https://ilpopolopordenone.it,https://ilpopolopordenone.it/feed/,PN,Pordenone,settimanale,altro (diocesano),it,no,200,settimanale diocesano Concordia-Pordenone
-si,nordest,Nordest24,https://www.nordest24.it,https://www.nordest24.it/feed/,PN,Pordenone,sito_locale,indipendente,it,no,200,
-si,nordest,PordenoneToday,https://www.pordenonetoday.it,https://www.pordenonetoday.it/rss,PN,Pordenone,sito_locale,Citynews,it,no,200,feed /rss risponde 403 allo script (anti-bot)
-si,centro,La Nazione - Prato,https://www.lanazione.it/prato,https://www.lanazione.it/prato/rss,PO,Prato,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Notizie di Prato,https://www.notiziediprato.it/,https://www.notiziediprato.it/feed/,PO,Prato,sito_locale,indipendente,it,no,200,
-si,centro,TV Prato,https://www.tvprato.it/,https://www.tvprato.it/feed/,PO,Prato,tv_locale,indipendente,it,no,,"homepage ConnectionError allo script, feed ok"
-si,nordest,Gazzetta di Parma,https://www.gazzettadiparma.it,https://www.gazzettadiparma.it/rss.jsp,PR,Parma,quotidiano_locale,altro (Gazzetta di Parma Editore/UPI),it,misto,200,
-si,nordest,ParmaDaily,https://www.parmadaily.it,https://www.parmadaily.it/feed/,PR,Parma,sito_locale,indipendente,it,no,403,homepage 403 allo script
-si,nordest,ParmaToday,https://www.parmatoday.it,https://www.parmatoday.it/rss,PR,Parma,sito_locale,Citynews,it,no,200,
-si,centro,La Nazione - Pistoia,https://www.lanazione.it/pistoia,https://www.lanazione.it/pistoia/rss,PT,Pistoia,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Report Pistoia,https://www.reportpistoia.com/,https://www.reportpistoia.com/feed/,PT,Pistoia,sito_locale,indipendente,it,no,200,
-si,centro,TVL Pistoia,https://www.tvl.it/,https://www.tvl.it/feed/,PT,Pistoia,tv_locale,indipendente,it,no,,"homepage SSLError allo script, feed ok"
-si,centro,il Resto del Carlino - Pesaro,https://www.ilrestodelcarlino.it/pesaro,https://www.ilrestodelcarlino.it/pesaro/rss,PU,Pesaro,edizione_locale,Monrif (QN),it,misto,200,anche Fano e Urbino
-si,centro,Vivere Pesaro,https://www.viverepesaro.it/,https://www.viverepesaro.it/rss,PU,Pesaro,sito_locale,altro (rete Vivere),it,no,200,
-si,nordovest,La Provincia Pavese,https://laprovinciapavese.gelocal.it/pavia/,https://laprovinciapavese.gelocal.it/rss/finegil/laprovinciapavese/feed.rss,PV,Pavia,quotidiano_locale,altro (ex GEDI),it,misto,200,proprietà da verificare dopo cessione GEDI
-si,nordovest,Vigevano24,https://www.vigevano24.it,https://www.vigevano24.it/rss.xml,PV,Vigevano,sito_locale,altro (Morenews),it,no,200,Lomellina
-si,sud,Il Quotidiano del Sud - Basilicata,https://www.quotidianodelsud.it/basilicata,https://www.quotidianodelsud.it/feed,PZ,Potenza,quotidiano_locale,altro (Quotidiano del Sud),it,misto,200,regionale Basilicata; feed unico del giornale (tutte le edizioni)
-si,sud,La Nuova del Sud,https://www.lanuova.net/,,PZ,Potenza,quotidiano_locale,altro (editore locale),it,?,200,regionale Basilicata; senza feed
-si,sud,Basilicata24,https://www.basilicata24.it/,https://www.basilicata24.it/feed/,PZ,Potenza,sito_locale,indipendente,it,no,200,"regionale Basilicata, inchieste (petrolio)"
-si,sud,Potenza News,https://www.potenzanews.net/,https://www.potenzanews.net/feed/,PZ,Potenza,sito_locale,indipendente,it,no,200,
-si,sud,TGR Basilicata,https://www.rainews.it/tgr/basilicata,https://www.rainews.it/tgr/basilicata/rss/tutti,PZ,Potenza,tv_locale,Rai,it,no,200,regionale Basilicata
-si,nordest,Il Resto del Carlino Ravenna,https://www.ilrestodelcarlino.it/ravenna,https://www.ilrestodelcarlino.it/ravenna/rss,RA,Ravenna,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,Ravenna&Dintorni,https://www.ravennaedintorni.it,https://www.ravennaedintorni.it/feed/,RA,Ravenna,sito_locale,indipendente,it,no,403,"403 allo script (anti-bot), feed da verificare"
-si,nordest,RavennaNotizie,https://www.ravennanotizie.it,https://www.ravennanotizie.it/feed/,RA,Ravenna,sito_locale,indipendente,it,no,200,
-si,nordest,RavennaToday,https://www.ravennatoday.it,https://www.ravennatoday.it/rss,RA,Ravenna,sito_locale,Citynews,it,no,200,
-si,sud,Gazzetta del Sud - Reggio,https://reggio.gazzettadelsud.it/,https://feedpress.me/gsud_hp_reggio,RC,Reggio Calabria,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,
-si,sud,CityNow,https://www.citynow.it/,https://www.citynow.it/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,
-si,sud,Il Dispaccio,https://ildispaccio.it/,https://ildispaccio.it/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,
-si,sud,Il Reggino,https://www.ilreggino.it/,https://www.ilreggino.it/sitemaps/reggino/rss,RC,Reggio Calabria,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,
-si,sud,L'Eco della Locride,https://www.ecodellalocride.it/,https://www.ecodellalocride.it/feed/,RC,Siderno,sito_locale,indipendente,it,no,200,Locride
-si,sud,ReggioToday,https://www.reggiotoday.it/,https://www.reggiotoday.it/rss,RC,Reggio Calabria,sito_locale,Citynews,it,no,200,
-si,sud,StrettoWeb,https://www.strettoweb.com/,https://www.strettoweb.com/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,anche Messina
-si,nordest,Il Resto del Carlino Reggio Emilia,https://www.ilrestodelcarlino.it/reggio-emilia,https://www.ilrestodelcarlino.it/reggio-emilia/rss,RE,Reggio Emilia,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,Gazzetta di Reggio,https://www.gazzettadireggio.it,,RE,Reggio Emilia,quotidiano_locale,SAE,it,misto,200,senza feed
-si,nordest,Reggio Sera,https://www.reggiosera.it,https://www.reggiosera.it/feed/,RE,Reggio Emilia,sito_locale,indipendente,it,no,200,
-si,nordest,Reggionline (Telereggio),https://www.reggionline.com,https://www.reggionline.com/feed/,RE,Reggio Emilia,tv_locale,altro (Telereggio),it,no,200,
-si,isole,Corriere di Ragusa,https://corrierediragusa.it,https://corrierediragusa.it/feed/,RG,Ragusa,sito_locale,indipendente,it,no,200,
-si,isole,RagusaNews,https://www.ragusanews.com,https://ragusanews.com/rss_feed.xml,RG,Ragusa,sito_locale,indipendente,it,no,200,
-si,isole,RagusaOggi,https://www.ragusaoggi.it,https://www.ragusaoggi.it/feed/,RG,Ragusa,sito_locale,indipendente,it,no,200,
-si,centro,Il Messaggero - Rieti,https://www.ilmessaggero.it/rieti/,,RI,Rieti,edizione_locale,Caltagirone,it,misto,200,anti-bot 418 sui feed; senza feed verificato
-si,centro,RietiLife,https://www.rietilife.com/,https://www.rietilife.com/feed/,RI,Rieti,sito_locale,indipendente,it,no,200,
-si,centro,Corriere della Sera - Roma,https://roma.corriere.it/,,RM,Roma,edizione_locale,RCS,it,misto,200,senza feed (xml2.corriereobjects fermo al 2022)
-si,centro,Il Messaggero - Roma,https://www.ilmessaggero.it/roma/,,RM,Roma,edizione_locale,Caltagirone,it,misto,200,anti-bot (418) sui feed; feed probabile https://www.ilmessaggero.it/rss/roma.xml non verificabile
-si,centro,la Repubblica Roma,https://roma.repubblica.it/,,RM,Roma,edizione_locale,GEDI,it,misto,200,senza feed (rss locale fermo al 2023)
-si,centro,Il Tempo - Roma Capitale,https://www.iltempo.it/roma-capitale/,https://www.iltempo.it/arc/outboundfeeds/rss/category/roma-capitale/?outputType=xml,RM,Roma,quotidiano_locale,altro (Angelucci),it,misto,200,feed della sezione Roma
-si,centro,Abitare a Roma,https://abitarearoma.it/,https://abitarearoma.it/feed/,RM,Roma,sito_locale,indipendente,it,no,200,iperlocale quartieri e municipi
-si,centro,Castelli Notizie,https://www.castellinotizie.it/,https://www.castellinotizie.it/feed/,RM,Castelli Romani,sito_locale,indipendente,it,no,200,Castelli Romani
-si,centro,Il Faro online,https://www.ilfaroonline.it/,https://www.ilfaroonline.it/feed/,RM,Fiumicino,sito_locale,indipendente,it,no,200,"litorale romano: Ostia, Fiumicino, Anzio"
-si,centro,Il Mamilio,https://www.ilmamilio.it/wp/,https://www.ilmamilio.it/wp/feed/,RM,Castelli Romani,sito_locale,indipendente,it,no,200,Castelli Romani
-si,centro,RomaIT,https://www.romait.it/,https://www.romait.it/feed/,RM,Roma,sito_locale,indipendente,it,no,200,
-si,centro,RomaToday,https://www.romatoday.it/,https://www.romatoday.it/rss,RM,Roma,sito_locale,Citynews,it,no,200,
-si,centro,TGR Lazio,https://www.rainews.it/tgr/lazio,https://www.rainews.it/tgr/lazio/rss/tutti,RM,Roma,tv_locale,Rai,it,no,200,regionale Lazio
-si,nordest,Il Resto del Carlino Rimini,https://www.ilrestodelcarlino.it/rimini,https://www.ilrestodelcarlino.it/rimini/rss,RN,Rimini,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordest,altarimini,https://altarimini.it,https://altarimini.it/feed/,RN,Rimini,sito_locale,indipendente,it,no,200,
-si,nordest,Chiamami Città,https://www.chiamamicitta.it,https://www.chiamamicitta.it/feed/,RN,Rimini,sito_locale,indipendente,it,no,200,
-si,nordest,NewsRimini,https://www.newsrimini.it,https://www.newsrimini.it/feed/rss,RN,Rimini,sito_locale,indipendente,it,no,200,
-si,nordest,RiminiToday,https://www.riminitoday.it,https://www.riminitoday.it/rss,RN,Rimini,sito_locale,Citynews,it,no,200,
-si,nordest,Il Resto del Carlino Rovigo,https://www.ilrestodelcarlino.it/rovigo,https://www.ilrestodelcarlino.it/veneto/rss,RO,Rovigo,edizione_locale,Monrifs (QN),it,misto,200,/rovigo reindirizza a /veneto
-si,nordest,Polesine24,https://www.polesine24.it,https://www.polesine24.it/rss.jsp,RO,Rovigo,quotidiano_locale,altro,it,misto,200,ex La Voce di Rovigo
-si,nordest,RovigoOggi (Rovigo.News),https://www.rovigooggi.it,https://www.rovigo.news/feed/,RO,Rovigo,sito_locale,indipendente,it,no,200,ora brand Rovigo.News; il vecchio /rss.xml è fermo al 2022
-si,sud,Il Mattino - Salerno,https://www.ilmattino.it/salerno/,,SA,Salerno,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
-si,sud,La Città di Salerno,https://www.lacittadisalerno.it/,,SA,Salerno,quotidiano_locale,altro (editore locale),it,misto,403,"senza feed; 403 anti-bot, attiva nel 2026"
-si,sud,Le Cronache,https://www.lecronache.info/,https://www.lecronache.info/feed/,SA,Salerno,quotidiano_locale,indipendente,it,no,200,quotidiano di Salerno
-si,sud,InfoCilento,https://www.infocilento.it/,https://www.infocilento.it/feed/,SA,Agropoli,sito_locale,indipendente,it,no,200,Cilento e Vallo di Diano
-si,sud,Positanonews,https://www.positanonews.it/,https://www.positanonews.it/feed/,SA,Positano,sito_locale,indipendente,it,no,200,Costiera amalfitana e sorrentina
-si,sud,Salernonotizie,https://www.salernonotizie.it/,https://www.salernonotizie.it/feed/,SA,Salerno,sito_locale,indipendente,it,no,200,
-si,sud,SalernoToday,https://www.salernotoday.it/,https://www.salernotoday.it/rss,SA,Salerno,sito_locale,Citynews,it,no,200,
-si,sud,Zerottonove,https://www.zerottonove.it/,,SA,Salerno,sito_locale,indipendente,it,no,,"senza feed; errore SSL allo script, sito attivo"
-si,sud,Telecolore,https://www.telecolore.it/,https://www.telecolore.it/feed/,SA,Salerno,tv_locale,indipendente,it,no,200,
-si,centro,La Nazione - Siena,https://www.lanazione.it/siena,https://www.lanazione.it/siena/rss,SI,Siena,edizione_locale,Monrif (QN),it,misto,200,
-si,centro,Il Cittadino Online,https://www.ilcittadinoonline.it/,https://www.ilcittadinoonline.it/feed/,SI,Siena,sito_locale,indipendente,it,no,200,feed dichiarato ma risponde 400 allo script (probabile anti-bot)
-si,centro,Siena Free,https://sienafree.it/,https://sienafree.it/feed,SI,Siena,sito_locale,indipendente,it,no,200,
-si,centro,Siena News,https://sienanews.it/,https://sienanews.it/feed/,SI,Siena,sito_locale,indipendente,it,no,200,usare dominio senza www (www da errore SSL)
-si,nordovest,SondrioToday,https://www.sondriotoday.it,https://www.sondriotoday.it/rss,SO,Sondrio,sito_locale,Citynews,it,no,200,
-si,nordovest,Valtellina News,https://www.valtellinanews.it,,SO,Sondrio,sito_locale,indipendente,it,no,200,senza feed
-si,nordovest,La Nazione La Spezia,https://www.lanazione.it/la-spezia,https://www.lanazione.it/la-spezia/rss,SP,La Spezia,edizione_locale,Monrifs (QN),it,misto,200,
-si,nordovest,Città della Spezia,https://www.cittadellaspezia.com,https://www.cittadellaspezia.com/feed/,SP,La Spezia,sito_locale,indipendente,it,no,200,
-si,isole,SiracusaNews,https://www.siracusanews.it,https://www.siracusanews.it/feed/,SR,Siracusa,sito_locale,indipendente,it,no,200,
-si,isole,SiracusaOggi,https://www.siracusaoggi.it,https://www.siracusaoggi.it/feed/,SR,Siracusa,sito_locale,indipendente,it,no,200,feed con 5 elementi
-si,isole,WebMarte,https://www.webmarte.tv,https://www.webmarte.tv/feed/,SR,Siracusa,tv_locale,indipendente,it,no,200,web tv siracusana
-si,isole,La Nuova Sardegna,https://www.lanuovasardegna.it,https://www.lanuovasardegna.it/rss/newsstand/finegil/lanuovasardegna/feed.rss,SS,Sassari,quotidiano_locale,SAE,it,misto,200,"regionale Sardegna; feed storico restituisce 403 allo script, probabilmente non piu attivo: usare homepage"
-si,isole,AlgheroEco,https://www.algheroeco.com,https://www.algheroeco.com/feed/,SS,Alghero,sito_locale,indipendente,it,no,200,
-si,isole,Alguer.it,https://www.alguer.it,https://www.alguer.it/notizie/rss.php,SS,Alghero,sito_locale,indipendente,it,no,200,
-si,isole,Gallura Oggi,https://www.galluraoggi.it,https://www.galluraoggi.it/feed/,SS,Olbia,sito_locale,indipendente,it,no,200,"Gallura (provincia Nord-Est Sardegna, sigla legacy SS)"
-si,isole,Olbia.it,https://www.olbia.it,https://www.olbia.it/rss,SS,Olbia,sito_locale,indipendente,it,no,200,"Gallura (provincia Nord-Est Sardegna, sigla legacy SS)"
-si,isole,SassariNotizie,https://www.sassarinotizie.com,https://www.sassarinotizie.com/feed/,SS,Sassari,sito_locale,indipendente,it,no,200,
-si,isole,La Provincia del Sulcis Iglesiente,https://www.laprovinciadelsulcisiglesiente.com,https://www.laprovinciadelsulcisiglesiente.com/feed/,SU,Carbonia,sito_locale,indipendente,it,no,errore SSL,attivo (articoli 27/9/2026 via WebFetch) ma script e curl falliscono per SSL; feed non verificato
-si,nordovest,La Stampa Savona,https://www.lastampa.it/savona,https://www.lastampa.it/savona/rss,SV,Savona,edizione_locale,GEDI,it,misto,200,
-si,nordovest,IVG - Il Vostro Giornale,https://www.ivg.it,https://www.ivg.it/feed/,SV,Savona,sito_locale,altro (rete 24 Liguria),it,no,403,403 anti-bot anche sul feed
-si,nordovest,SavonaNews,https://www.savonanews.it,https://www.savonanews.it/rss.xml,SV,Savona,sito_locale,altro (Morenews),it,no,200,
-si,sud,Buonasera24 (Taranto Buonasera),https://www.buonasera24.it/,,TA,Taranto,quotidiano_locale,indipendente,it,no,200,senza feed funzionante; ex tarantobuonasera.it
-si,sud,Corriere di Taranto,https://www.corriereditaranto.it/,https://www.corriereditaranto.it/feed/,TA,Taranto,sito_locale,indipendente,it,no,200,"ex Ilva, ambiente"
-si,sud,ManduriaOggi,https://www.manduriaoggi.it/,https://www.manduriaoggi.it/rss,TA,Manduria,sito_locale,indipendente,it,no,200,provincia orientale di Taranto
-si,centro,Certastampa,https://www.certastampa.it/,https://www.certastampa.it/?format=feed&type=rss,TE,Teramo,sito_locale,indipendente,it,no,200,
-si,centro,Ekuonews,https://www.ekuonews.it/,https://www.ekuonews.it/feed/,TE,Teramo,sito_locale,indipendente,it,no,200,
-si,nordest,Corriere del Trentino,https://corrieredeltrentino.corriere.it,,TN,Trento,edizione_locale,RCS,it,misto,200,senza feed; include Alto Adige (corrierealtoadige non risolve)
-si,nordest,il T quotidiano,https://www.iltquotidiano.it,,TN,Trento,quotidiano_locale,altro (indipendente trentino),it,misto,200,feed WordPress vuoto; senza feed
-si,nordest,l'Adige,https://www.ladige.it,https://www.ladige.it/sitemaps/ladige/rss,TN,Trento,quotidiano_locale,altro (Athesia),it,misto,200,
-si,nordest,Vita Trentina,https://www.vitatrentina.it,https://www.vitatrentina.it/feed/,TN,Trento,settimanale,altro (diocesano),it,no,200,settimanale diocesano
-si,nordest,il Dolomiti,https://www.ildolomiti.it,https://www.ildolomiti.it/rss.xml,TN,Trento,sito_locale,indipendente,it,no,200,copre anche Alto Adige e Belluno
-si,nordest,TrentoToday,https://www.trentotoday.it,https://www.trentotoday.it/rss,TN,Trento,sito_locale,Citynews,it,no,200,
-si,nordest,TGR Trento,https://www.rainews.it/tgr/trento,https://www.rainews.it/tgr/trento/rss/tutti,TN,Trento,tv_locale,Rai,it,no,200,
-si,nordovest,Corriere Torino,https://torino.corriere.it,,TO,Torino,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2022)
-si,nordovest,La Stampa Torino,https://www.lastampa.it/torino,https://www.lastampa.it/torino/rss,TO,Torino,edizione_locale,GEDI,it,misto,200,
-si,nordovest,Repubblica Torino,https://torino.repubblica.it,https://torino.repubblica.it/rss/rss2.0.xml,TO,Torino,edizione_locale,GEDI,it,misto,200,
-si,nordovest,Cronaca Qui Torino,https://www.torinocronaca.it,,TO,Torino,quotidiano_locale,indipendente,it,misto,200,senza feed; ex cronacaqui.it
-si,nordovest,La Sentinella del Canavese,https://lasentinella.it,https://www.lasentinella.it/feed/,TO,Ivrea,quotidiano_locale,altro (ex GEDI),it,misto,200,Canavese; proprietà da verificare dopo cessione GEDI
-si,nordovest,L'Eco del Chisone,https://www.ecodelchisone.it,https://www.ecodelchisone.it/rss.xml,TO,Pinerolo,settimanale,altro (editore diocesano),it,misto,200,Pinerolese
-si,nordovest,Prima il Canavese,https://primailcanavese.it,https://primailcanavese.it/feed/,TO,Ivrea,settimanale,altro (Netweek),it,no,200,
-si,nordovest,Quotidiano Piemontese,https://www.quotidianopiemontese.it,https://www.quotidianopiemontese.it/feed/,TO,Torino,sito_locale,indipendente,it,no,200,regionale Piemonte
-si,nordovest,Torino Oggi,https://www.torinoggi.it,https://www.torinoggi.it/rss.xml,TO,Torino,sito_locale,altro (Morenews),it,no,200,
-si,nordovest,TorinoToday,https://www.torinotoday.it,https://www.torinotoday.it/rss,TO,Torino,sito_locale,Citynews,it,no,200,
-si,nordovest,GRP Televisione,https://www.grp.it,,TO,Torino,tv_locale,indipendente,it,no,200,regionale Piemonte; senza feed
-si,nordovest,Primantenna,https://www.primantenna.tv,https://www.primantenna.tv/feed/,TO,Torino,tv_locale,indipendente,it,no,200,regionale Piemonte
-si,nordovest,TGR Piemonte,https://www.rainews.it/tgr/piemonte,https://www.rainews.it/tgr/piemonte/rss/tutti,TO,Torino,tv_locale,Rai,it,no,200,regionale Piemonte
-si,isole,Alqamah,https://www.alqamah.it,https://www.alqamah.it/feed/,TP,Alcamo,sito_locale,indipendente,it,no,200,Alcamo e provincia di Trapani
-si,isole,Marsala News,https://www.marsalanews.it,https://www.marsalanews.it/feed/,TP,Marsala,sito_locale,indipendente,it,no,200,"script: errore connessione su www, homepage raggiungibile via curl"
-si,isole,TP24,https://www.tp24.it,https://www.tp24.it/rss/news.xml,TP,Marsala,sito_locale,indipendente,it,no,200,provincia di Trapani; forte su mafia e giudiziaria
-si,isole,TrapaniSì,https://www.trapanisi.it,https://www.trapanisi.it/feed/,TP,Trapani,sito_locale,indipendente,it,no,200,
-si,centro,TerniToday,https://www.ternitoday.it/,https://www.ternitoday.it/rss,TR,Terni,sito_locale,Citynews,it,no,200,
-si,centro,UmbriaOn,https://www.umbriaon.it/,https://www.umbriaon.it/feed/,TR,Terni,sito_locale,indipendente,it,no,200,forte su Terni
-si,nordest,Il Piccolo,https://www.ilpiccolo.it,https://www.ilpiccolo.it/sitemap_rss_feed.xml,TS,Trieste,quotidiano_locale,NEM,it,misto,200,anche Gorizia e Monfalcone
-si,nordest,Primorski dnevnik,https://www.primorski.eu,https://www.primorski.eu/rss/trzaska,TS,Trieste,quotidiano_locale,altro (minoranza slovena),sl,no,200,quotidiano sloveno; anche feed /rss/goriska
-si,nordest,Trieste Cafe,https://www.triestecafe.it,https://www.triestecafe.it/rss.xml,TS,Trieste,sito_locale,indipendente,it,no,200,
-si,nordest,TriestePrima,https://www.triesteprima.it,https://www.triesteprima.it/rss,TS,Trieste,sito_locale,Citynews,it,no,200,
-si,nordest,Telequattro,https://telequattro.medianordest.it,https://telequattro.medianordest.it/feed/,TS,Trieste,tv_locale,altro (Medianordest),it,no,200,
-si,nordest,TGR Friuli Venezia Giulia,https://www.rainews.it/tgr/fvg,https://www.rainews.it/tgr/fvg/rss/tutti,TS,Trieste,tv_locale,Rai,it,no,200,regionale FVG
-si,nordest,La Tribuna di Treviso,https://www.tribunatreviso.it,https://www.tribunatreviso.it/sitemap_rss_feed.xml,TV,Treviso,quotidiano_locale,NEM,it,misto,200,
-si,nordest,Il Piave,https://www.ilpiave.it,,TV,Treviso,settimanale,indipendente,it,no,200,senza feed; mensile/online
-si,nordest,OggiTreviso,https://www.oggitreviso.it,https://www.oggitreviso.it/rss.xml,TV,Treviso,sito_locale,indipendente,it,no,200,
-si,nordest,Qdpnews,https://www.qdpnews.it,https://www.qdpnews.it/feed/,TV,Pieve di Soligo,sito_locale,indipendente,it,no,200,"Quartier del Piave, Sinistra Piave"
-si,nordest,TrevisoToday,https://www.trevisotoday.it,https://www.trevisotoday.it/rss,TV,Treviso,sito_locale,Citynews,it,no,200,
-si,nordest,Antenna Tre Nordest,https://antennatre.medianordest.it,https://antennatre.medianordest.it/feed/,TV,Treviso,tv_locale,altro (Medianordest),it,no,200,regionale Veneto
-si,nordest,Messaggero Veneto,https://www.messaggeroveneto.it,https://www.messaggeroveneto.it/sitemap_rss_feed.xml,UD,Udine,quotidiano_locale,NEM,it,misto,200,regionale Friuli
-si,nordest,Il Friuli,https://www.ilfriuli.it,https://www.ilfriuli.it/feed/,UD,Udine,settimanale,indipendente,it,no,200,
-si,nordest,La Vita Cattolica,https://www.lavitacattolica.it,https://www.lavitacattolica.it/feed/,UD,Udine,settimanale,altro (diocesano),it,no,200,settimanale diocesano
-si,nordest,Diario FVG,https://www.diariofvg.it,https://www.diariofvg.it/feed/,UD,Udine,sito_locale,indipendente,it,no,200,regionale FVG
-si,nordest,Friulioggi,https://www.friulioggi.it,https://www.friulioggi.it/feed/,UD,Udine,sito_locale,indipendente,it,no,200,include GoriziaOggi
-si,nordest,UdineToday,https://www.udinetoday.it,https://www.udinetoday.it/rss,UD,Udine,sito_locale,Citynews,it,no,200,
-si,nordest,Telefriuli,https://www.telefriuli.it,https://www.telefriuli.it/feed/,UD,Udine,tv_locale,indipendente,it,no,200,
-si,nordovest,La Provincia di Varese,https://www.laprovinciadivarese.it,https://www.laprovinciadivarese.it/feed/,VA,Varese,quotidiano_locale,altro (editore locale),it,misto,200,
-si,nordovest,Varese News,https://www.varesenews.it,https://www.varesenews.it/feed/,VA,Varese,sito_locale,indipendente,it,no,200,
-si,nordovest,La Stampa Verbania,https://www.lastampa.it/verbano-cusio-ossola,https://www.lastampa.it/verbano-cusio-ossola/rss,VB,Verbania,edizione_locale,GEDI,it,misto,200,
-si,nordovest,Eco Risveglio,https://www.ecorisveglio.it,https://www.ecorisveglio.it/feed/,VB,Domodossola,settimanale,indipendente,it,misto,200,
-si,nordovest,Ossola News,https://www.ossolanews.it,https://www.ossolanews.it/rss.xml,VB,Domodossola,sito_locale,altro (Morenews),it,no,200,
-si,nordovest,VCO News,https://www.vconews.it,https://www.vconews.it/rss.xml,VB,Verbania,sito_locale,altro (Morenews),it,no,200,
-si,nordovest,Notizia Oggi Vercelli,https://notiziaoggi.it,https://notiziaoggi.it/feed/,VC,Vercelli,settimanale,altro (Netweek),it,no,200,
-si,nordovest,InfoVercelli24,https://www.infovercelli24.it,https://www.infovercelli24.it/rss.xml,VC,Vercelli,sito_locale,altro (Morenews),it,no,200,
-si,nordest,Corriere del Veneto,https://corrieredelveneto.corriere.it,,VE,Venezia,edizione_locale,RCS,it,misto,200,regionale Veneto; senza feed
-si,nordest,Il Gazzettino,https://www.ilgazzettino.it,https://www.ilgazzettino.it/rss/home.xml,VE,Venezia,quotidiano_locale,Caltagirone,it,misto,200,regionale Veneto e Friuli; redazioni in tutte le province; feed e homepage a volte 418 (anti-bot)
-si,nordest,La Nuova Venezia,https://www.nuovavenezia.it,https://www.nuovavenezia.it/sitemap_rss_feed.xml,VE,Mestre,quotidiano_locale,NEM,it,misto,200,
-si,nordest,Il Nuovo Terraglio,https://ilnuovoterraglio.it,https://ilnuovoterraglio.it/feed/,VE,Mestre,sito_locale,indipendente,it,no,200,Mestre e terraferma
-si,nordest,VeneziaToday,https://www.veneziatoday.it,https://www.veneziatoday.it/rss,VE,Venezia,sito_locale,Citynews,it,no,200,
-si,nordest,TGR Veneto,https://www.rainews.it/tgr/veneto,https://www.rainews.it/tgr/veneto/rss/tutti,VE,Venezia,tv_locale,Rai,it,no,200,regionale Veneto
-si,nordest,Il Giornale di Vicenza,https://www.ilgiornaledivicenza.it,,VI,Vicenza,quotidiano_locale,Athesis,it,misto,200,senza feed
-si,nordest,Bassanonet,https://www.bassanonet.it,,VI,Bassano del Grappa,sito_locale,indipendente,it,no,200,senza feed funzionante
-si,nordest,VicenzaReport,https://www.vicenzareport.it,https://www.vicenzareport.it/feed/,VI,Vicenza,sito_locale,indipendente,it,no,200,
-si,nordest,VicenzaToday,https://www.vicenzatoday.it,https://www.vicenzatoday.it/rss,VI,Vicenza,sito_locale,Citynews,it,no,200,feed risponde 403 allo script (anti-bot)
-si,nordest,Rete Veneta,https://reteveneta.medianordest.it,https://reteveneta.medianordest.it/feed/,VI,Vicenza,tv_locale,altro (Medianordest),it,no,200,regionale Veneto
-si,nordest,TVA Vicenza,https://tvavicenza.gruppovideomedia.it,,VI,Vicenza,tv_locale,altro (Videomedia),it,no,200,senza feed
-si,nordest,L'Arena,https://www.larena.it,,VR,Verona,quotidiano_locale,Athesis,it,misto,200,senza feed (sitemap.xml)
-si,nordest,Verona Network,https://www.veronanetwork.it,https://www.veronanetwork.it/feed/,VR,Verona,sito_locale,indipendente,it,no,200,
-si,nordest,Verona Oggi,https://www.veronaoggi.it,https://www.veronaoggi.it/feed/,VR,Verona,sito_locale,indipendente,it,no,200,
-si,nordest,VeronaSera,https://www.veronasera.it,https://www.veronasera.it/rss,VR,Verona,sito_locale,Citynews,it,no,200,
-si,nordest,Telearena,https://www.telearena.it,,VR,Verona,tv_locale,Athesis,it,no,200,senza feed
-si,centro,Il Messaggero - Viterbo,https://www.ilmessaggero.it/viterbo/,,VT,Viterbo,edizione_locale,Caltagirone,it,misto,418,anti-bot 418; senza feed verificato
-si,centro,Corriere di Viterbo,https://www.corrierediviterbo.it/,https://www.corrierediviterbo.it/feed/,VT,Viterbo,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,
-si,centro,Tusciaweb,https://www.tusciaweb.eu/,https://www.tusciaweb.eu/feed/,VT,Viterbo,sito_locale,indipendente,it,no,200,molto prolifico
-si,centro,ViterboToday,https://www.viterbotoday.it/,https://www.viterbotoday.it/rss,VT,Viterbo,sito_locale,Citynews,it,no,200,
-si,sud,Il Vibonese,https://www.ilvibonese.it/,https://www.ilvibonese.it/sitemaps/vibonese/rss,VV,Vibo Valentia,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,
-si,sud,LaC News24,https://www.lacnews24.it/,https://www.lacnews24.it/sitemaps/lacnews24/rss,VV,Vibo Valentia,tv_locale,altro (Diemmecom - gruppo LaC),it,no,200,regionale Calabria
+includi,regione,nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note,metodo,status_usa,feed_ok,elementi,sitemap_news
+si,isole,AgrigentoNotizie,https://www.agrigentonotizie.it,https://www.agrigentonotizie.it/rss,AG,Agrigento,sito_locale,Citynews,it,no,200,,feed,200,https://www.agrigentonotizie.it/rss,25,https://www.agrigentonotizie.it/sitemaps/sitemap_news.xml
+si,isole,AgrigentoOggi,https://www.agrigentooggi.it,https://www.agrigentooggi.it/feed/,AG,Agrigento,sito_locale,indipendente,it,no,200,,feed,200,https://www.agrigentooggi.it/feed/,10,
+si,isole,Grandangolo Agrigento,https://www.grandangoloagrigento.it,https://www.grandangoloagrigento.it/feed/,AG,Agrigento,sito_locale,indipendente,it,no,200,anche settimanale cartaceo,feed,200,https://www.grandangoloagrigento.it/feed/,10,https://www.grandangoloagrigento.it/sitemap-news.xml
+si,nordovest,La Stampa Alessandria,https://www.lastampa.it/alessandria,https://www.lastampa.it/alessandria/rss,AL,Alessandria,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/alessandria/rss,100,
+si,nordovest,Il Piccolo di Alessandria,https://www.ilpiccolo.net,https://www.ilpiccolo.net/feed/,AL,Alessandria,quotidiano_locale,indipendente,it,misto,200,,feed,200,https://www.ilpiccolo.net/feed/,68,
+si,nordovest,Radio Gold,https://radiogold.it,https://radiogold.it/feed/,AL,Alessandria,sito_locale,indipendente,it,no,200,radio con redazione news,feed,200,https://radiogold.it/feed/,15,
+si,centro,il Resto del Carlino - Ancona,https://www.ilrestodelcarlino.it/ancona,https://www.ilrestodelcarlino.it/ancona/rss,AN,Ancona,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/ancona/rss,100,
+si,centro,Corriere Adriatico,https://www.corriereadriatico.it/,https://www.corriereadriatico.it/rss/home.xml,AN,Ancona,quotidiano_locale,Caltagirone,it,misto,200,regionale Marche; feed a volte bloccato (418 anti-bot),feed,200,https://www.corriereadriatico.it/rss/home.xml,20,http://www.corriereadriatico.it/?sez=XML&p=MapNews
+si,centro,AnconaToday,https://www.anconatoday.it/,https://www.anconatoday.it/rss,AN,Ancona,sito_locale,Citynews,it,no,200,,feed,200,https://www.anconatoday.it/rss,25,https://www.anconatoday.it/sitemaps/sitemap_news.xml
+si,centro,Centropagina,https://www.centropagina.it/,https://www.centropagina.it/feed/,AN,Ancona,sito_locale,indipendente,it,no,200,,feed,200,https://www.centropagina.it/feed/,100,
+si,centro,Cronache Ancona,https://www.cronacheancona.it/,https://www.cronacheancona.it/feed/,AN,Ancona,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,,feed,200,https://www.cronacheancona.it/feed/,25,
+si,centro,Vivere Ancona,https://www.vivereancona.it/,https://www.vivereancona.it/rss,AN,Ancona,sito_locale,altro (rete Vivere),it,no,200,,feed,200,https://www.vivereancona.it/rss,20,
+si,centro,TGR Marche,https://www.rainews.it/tgr/marche,https://www.rainews.it/tgr/marche/rss/tutti,AN,Ancona,tv_locale,Rai,it,no,200,regionale Marche,feed,200,https://www.rainews.it/tgr/marche/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,centro,èTV Marche,https://etvmarche.it/,https://etvmarche.it/feed/,AN,Ancona,tv_locale,altro (Rete7),it,no,200,regionale Marche,feed,200,https://etvmarche.it/feed/,10,
+si,nordovest,La Stampa Aosta,https://www.lastampa.it/aosta,https://www.lastampa.it/aosta/rss,AO,Aosta,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/aosta/rss,100,
+si,nordovest,Gazzetta Matin,https://www.gazzettamatin.com,https://www.gazzettamatin.com/rss,AO,Aosta,settimanale,indipendente,it,misto,200,"feed con 1 solo elemento, usare homepage",feed,200,https://www.gazzettamatin.com/rss,1,
+si,nordovest,AostaOggi,https://www.aostaoggi.it,,AO,Aosta,sito_locale,indipendente,it,no,200,"regionale; feed Joomla vuoto, senza feed",homepage,200,,,
+si,nordovest,Aostasera,https://aostasera.it,https://aostasera.it/feed/,AO,Aosta,sito_locale,indipendente,it,no,200,regionale Valle d'Aosta,feed,200,https://aostasera.it/feed/,50,
+si,nordovest,Valle d'Aosta Glocal,https://www.valledaostaglocal.it,https://www.valledaostaglocal.it/rss.xml,AO,Aosta,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.valledaostaglocal.it/rss.xml,20,
+si,nordovest,TGR Valle d'Aosta,https://www.rainews.it/tgr/vda,https://www.rainews.it/tgr/vda/rss/tutti,AO,Aosta,tv_locale,Rai,it,no,200,regionale; anche programmi in francese,feed,200,https://www.rainews.it/tgr/vda/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,centro,il Resto del Carlino - Ascoli,https://www.ilrestodelcarlino.it/ascoli,https://www.ilrestodelcarlino.it/ascoli/rss,AP,Ascoli Piceno,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/ascoli/rss,55,
+si,centro,Cronache Picene,https://www.cronachepicene.it/,https://www.cronachepicene.it/feed/,AP,Ascoli Piceno,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,,feed,200,https://www.cronachepicene.it/feed/,30,
+si,centro,Riviera Oggi,https://www.rivieraoggi.it/,https://www.rivieraoggi.it/feed/,AP,San Benedetto del Tronto,sito_locale,indipendente,it,no,200,,feed,403,https://www.rivieraoggi.it/feed/,20,
+si,centro,Il Centro,https://www.ilcentro.it/,,AQ,Pescara,quotidiano_locale,altro (Il Centro SpA),it,misto,200,regionale Abruzzo; senza feed,homepage,200,,,
+si,centro,AbruzzoWeb,https://www.abruzzoweb.it/,,AQ,L'Aquila,sito_locale,indipendente,it,no,200,"regionale Abruzzo, forte su politica; senza feed (feed in errore 500)",homepage,200,,,
+si,centro,Il Capoluogo,https://www.ilcapoluogo.it/,https://www.ilcapoluogo.it/?feed=news-news24,AQ,L'Aquila,sito_locale,indipendente,it,no,200,,feed,200,https://www.ilcapoluogo.it/?feed=news-news24,17,
+si,centro,Rete8,https://www.rete8.it/,https://www.rete8.it/feed/,AQ,Chieti,tv_locale,indipendente,it,no,200,regionale Abruzzo,feed,200,https://www.rete8.it/feed/,10,
+si,centro,TGR Abruzzo,https://www.rainews.it/tgr/abruzzo,https://www.rainews.it/tgr/abruzzo/rss/tutti,AQ,Pescara,tv_locale,Rai,it,no,200,regionale Abruzzo,feed,200,https://www.rainews.it/tgr/abruzzo/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,centro,La Nazione - Arezzo,https://www.lanazione.it/arezzo,https://www.lanazione.it/arezzo/rss,AR,Arezzo,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/arezzo/rss,100,
+si,centro,Corriere di Arezzo,https://www.corrierediarezzo.it/,,AR,Arezzo,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,senza feed,sitemap,200,,28,https://www.corrierediarezzo.it/siteMapNews.jsp
+si,centro,ArezzoNotizie,https://www.arezzonotizie.it/,https://www.arezzonotizie.it/rss,AR,Arezzo,sito_locale,Citynews,it,no,200,,feed,200,https://www.arezzonotizie.it/rss,25,https://www.arezzonotizie.it/sitemaps/sitemap_news.xml
+si,nordovest,La Stampa Asti,https://www.lastampa.it/asti,https://www.lastampa.it/asti/rss,AT,Asti,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/asti/rss,100,
+si,nordovest,ATnews,https://www.atnews.it,https://www.atnews.it/feed/,AT,Asti,sito_locale,indipendente,it,no,200,,feed,200,https://www.atnews.it/feed/,10,
+si,nordovest,La Voce di Asti,https://www.lavocediasti.it,https://www.lavocediasti.it/rss.xml,AT,Asti,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.lavocediasti.it/rss.xml,20,
+si,sud,Il Mattino - Avellino,https://www.ilmattino.it/avellino/,,AV,Avellino,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418),sitemap,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews
+si,sud,AvellinoToday,https://www.avellinotoday.it/,https://www.avellinotoday.it/rss,AV,Avellino,sito_locale,Citynews,it,no,200,,feed,200,https://www.avellinotoday.it/rss,25,https://www.avellinotoday.it/sitemaps/sitemap_news.xml
+si,sud,Irpinia News,https://www.irpinianews.it/,https://www.irpinianews.it/feed/,AV,Avellino,sito_locale,indipendente,it,no,200,,feed,200,https://www.irpinianews.it/feed/,15,http://www.irpinianews.it/sitemap_index.xml
+si,sud,Ottopagine,https://www.ottopagine.it/,,AV,Avellino,sito_locale,indipendente,it,no,200,"senza feed; Irpinia e Sannio (anche BN, SA, NA)",sitemap,200,,250,https://www.ottopagine.it/sitemap_news.xml
+si,sud,Corriere del Mezzogiorno (Puglia),https://bari.corriere.it/,https://xml2.corriereobjects.it/rss/homepage_bari.xml,BA,Bari,edizione_locale,RCS,it,misto,200,regionale Puglia,feed,200,https://xml2.corriereobjects.it/rss/homepage_bari.xml,62,
+si,sud,Repubblica Bari,https://bari.repubblica.it/,https://bari.repubblica.it/rss/rss2.0.xml,BA,Bari,edizione_locale,GEDI,it,misto,200,regionale Puglia,feed,200,https://bari.repubblica.it/rss/rss2.0.xml,100,
+si,sud,La Gazzetta del Mezzogiorno,https://www.lagazzettadelmezzogiorno.it/,https://feeds.feedburner.com/lagazzettadelmezzogiorno/zrqvznptfkd,BA,Bari,quotidiano_locale,altro (Ledi),it,misto,200,regionale Puglia e Basilicata; altro feed: feedburner viyi6z8dkwu,feed,200,https://feeds.feedburner.com/lagazzettadelmezzogiorno/zrqvznptfkd,50,https://www.lagazzettadelmezzogiorno.it/siteMapNews.jsp
+si,sud,BariToday,https://www.baritoday.it/,https://www.baritoday.it/rss,BA,Bari,sito_locale,Citynews,it,no,200,,feed,200,https://www.baritoday.it/rss,25,https://www.baritoday.it/sitemaps/sitemap_news.xml
+si,sud,Borderline24,https://www.borderline24.com/,https://www.borderline24.com/feed/,BA,Bari,sito_locale,indipendente,it,no,200,,feed,200,https://www.borderline24.com/feed/,30,
+si,sud,Antenna Sud,https://www.antennasud.com/,https://www.antennasud.com/rsslatest.xml,BA,Bari,tv_locale,altro (editore locale),it,no,200,regionale Puglia,feed,200,https://www.antennasud.com/rsslatest.xml,30,
+si,sud,TeleNorba,https://telenorba.it/,https://telenorba.it/feed/,BA,Conversano,tv_locale,altro (Gruppo Norba),it,no,200,regionale Puglia,feed,200,https://telenorba.it/feed/,29,
+si,sud,TGR Puglia,https://www.rainews.it/tgr/puglia,https://www.rainews.it/tgr/puglia/rss/tutti,BA,Bari,tv_locale,Rai,it,no,200,regionale Puglia,feed,200,https://www.rainews.it/tgr/puglia/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordovest,Corriere Bergamo,https://bergamo.corriere.it,,BG,Bergamo,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2023),homepage,200,,,
+si,nordovest,L'Eco di Bergamo,https://www.ecodibergamo.it,https://www.ecodibergamo.it/feeds/latesthp/268/,BG,Bergamo,quotidiano_locale,Sesaab,it,misto,200,,feed,200,https://www.ecodibergamo.it/feeds/latesthp/268/,20,
+si,nordovest,Bergamonews,https://www.bergamonews.it,https://www.bergamonews.it/feed/,BG,Bergamo,sito_locale,indipendente,it,no,200,,feed,200,https://www.bergamonews.it/feed/,10,
+si,nordovest,La Provincia di Biella,https://laprovinciadibiella.it,https://laprovinciadibiella.it/feed/,BI,Biella,quotidiano_locale,indipendente,it,misto,200,,feed,200,https://laprovinciadibiella.it/feed/,30,https://laprovinciadibiella.it/sitemap-news.xml
+si,nordovest,NewsBiella,https://www.newsbiella.it,https://www.newsbiella.it/rss.xml,BI,Biella,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.newsbiella.it/rss.xml,20,
+si,nordest,Corriere delle Alpi,https://www.corrierealpi.it,https://www.corrierealpi.it/sitemap_rss_feed.xml,BL,Belluno,quotidiano_locale,NEM,it,misto,200,,feed,200,https://www.corrierealpi.it/sitemap_rss_feed.xml,21,https://www.corrierealpi.it/xml/news/sitemap.xml
+si,nordest,L'Amico del Popolo,https://www.amicodelpopolo.it,https://www.amicodelpopolo.it/feed/,BL,Belluno,settimanale,altro (diocesano),it,no,200,settimanale diocesano,feed,200,https://www.amicodelpopolo.it/feed/,10,
+si,nordest,Bellunopress,https://www.bellunopress.it,https://www.bellunopress.it/feed/,BL,Belluno,sito_locale,indipendente,it,no,200,,feed,200,https://www.bellunopress.it/feed/,15,
+si,nordest,Telebelluno,https://www.telebelluno.it,https://www.telebelluno.it/feed/,BL,Belluno,tv_locale,indipendente,it,no,200,,feed,200,https://www.telebelluno.it/feed/,42,
+si,sud,Il Mattino - Benevento,https://www.ilmattino.it/benevento/,,BN,Benevento,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418),sitemap,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews
+si,sud,Il Sannio Quotidiano,https://www.ilsannioquotidiano.it/,https://www.ilsannioquotidiano.it/feed/,BN,Benevento,quotidiano_locale,indipendente,it,no,200,,feed,200,https://www.ilsannioquotidiano.it/feed/,16,
+si,sud,Anteprima24,https://www.anteprima24.it/,https://www.anteprima24.it/feed/,BN,Benevento,sito_locale,indipendente,it,no,200,"copre anche Caserta, Avellino, Salerno",feed,200,https://www.anteprima24.it/feed/,10,
+si,sud,InfoSannio,https://www.infosannionews.it/,https://www.infosannionews.it/feed,BN,Benevento,sito_locale,indipendente,it,no,200,,google_news,403,,,
+si,sud,Ntr24,https://www.ntr24.tv/,https://www.ntr24.tv/feed/,BN,Benevento,tv_locale,indipendente,it,no,200,,feed,200,https://www.ntr24.tv/feed/,10,
+si,nordest,Corriere di Bologna,https://corrieredibologna.corriere.it,,BO,Bologna,edizione_locale,RCS,it,misto,200,senza feed,homepage,200,,,
+si,nordest,Il Resto del Carlino Imola,https://www.ilrestodelcarlino.it/imola,https://www.ilrestodelcarlino.it/imola/rss,BO,Imola,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/imola/rss,46,
+si,nordest,la Repubblica Bologna,https://bologna.repubblica.it,https://bologna.repubblica.it/rss/cronaca/rss2.0.xml,BO,Bologna,edizione_locale,GEDI,it,misto,200,,feed,200,https://bologna.repubblica.it/rss/cronaca/rss2.0.xml,25,
+si,nordest,Il Resto del Carlino Bologna,https://www.ilrestodelcarlino.it/bologna,https://www.ilrestodelcarlino.it/bologna/rss,BO,Bologna,quotidiano_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/bologna/rss,100,
+si,nordest,Sabato Sera,https://www.sabatosera.it,https://www.sabatosera.it/feed/,BO,Imola,settimanale,indipendente,it,no,200,,feed,200,https://www.sabatosera.it/feed/,20,
+si,nordest,Bologna2000,https://www.bologna2000.com,https://www.bologna2000.com/feed/,BO,Bologna,sito_locale,indipendente,it,no,200,,feed,200,https://www.bologna2000.com/feed/,10,
+si,nordest,BolognaToday,https://www.bolognatoday.it,https://www.bolognatoday.it/rss,BO,Bologna,sito_locale,Citynews,it,no,200,,feed,200,https://www.bolognatoday.it/rss,25,https://www.bolognatoday.it/sitemaps/sitemap_news.xml
+si,nordest,TGR Emilia-Romagna,https://www.rainews.it/tgr/emiliaromagna,https://www.rainews.it/tgr/emiliaromagna/rss/tutti,BO,Bologna,tv_locale,Rai,it,no,200,regionale Emilia-Romagna,feed,200,https://www.rainews.it/tgr/emiliaromagna/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,sud,Senzacolonne,https://www.senzacolonnenews.it/,https://www.senzacolonnenews.it/feed/,BR,Brindisi,quotidiano_locale,indipendente,it,no,200,,feed,200,https://www.senzacolonnenews.it/feed/,10,https://www.senzacolonnenews.it/sitemap_index.xml
+si,sud,BrindisiReport,https://www.brindisireport.it/,https://www.brindisireport.it/rss,BR,Brindisi,sito_locale,Citynews,it,no,200,,feed,200,https://www.brindisireport.it/rss,25,https://www.brindisireport.it/sitemaps/sitemap_news.xml
+si,sud,Noi Notizie,https://www.noinotizie.it/,https://www.noinotizie.it/feed/,BR,Brindisi,sito_locale,indipendente,it,no,200,"Brindisi, Taranto, Salento",feed,200,https://www.noinotizie.it/feed/,10,
+si,nordovest,Corriere Brescia,https://brescia.corriere.it,,BS,Brescia,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2023),homepage,200,,,
+si,nordovest,Bresciaoggi,https://www.bresciaoggi.it,,BS,Brescia,quotidiano_locale,Athesis,it,misto,200,senza feed,homepage,200,,,
+si,nordovest,Giornale di Brescia,https://www.giornaledibrescia.it,,BS,Brescia,quotidiano_locale,Editoriale Bresciana,it,misto,200,senza feed,sitemap,200,,327,https://www.giornaledibrescia.it/sitemap/news/sitemap.xml
+si,nordovest,BresciaToday,https://www.bresciatoday.it,https://www.bresciatoday.it/rss,BS,Brescia,sito_locale,Citynews,it,no,200,,feed,200,https://www.bresciatoday.it/rss,25,https://www.bresciatoday.it/sitemaps/sitemap_news.xml
+si,nordovest,QuiBrescia,https://www.quibrescia.it,https://www.quibrescia.it/feed/,BS,Brescia,sito_locale,indipendente,it,no,200,,feed,200,https://www.quibrescia.it/feed/,10,
+si,nordovest,Teletutto,https://www.teletutto.it,,BS,Brescia,tv_locale,Editoriale Bresciana,it,no,200,senza feed,homepage,200,,,
+si,sud,AndriaViva,https://www.andriaviva.it/,https://www.andriaviva.it/rss/,BT,Andria,sito_locale,altro (rete Viva),it,no,200,,feed,200,https://www.andriaviva.it/rss/,10,
+si,sud,BarlettaViva,https://www.barlettaviva.it/,https://www.barlettaviva.it/rss/,BT,Barletta,sito_locale,altro (rete Viva),it,no,200,,feed,200,https://www.barlettaviva.it/rss/,10,
+si,sud,TraniViva,https://www.traniviva.it/,https://www.traniviva.it/rss/,BT,Trani,sito_locale,altro (rete Viva),it,no,200,,feed,200,https://www.traniviva.it/rss/,10,
+si,nordest,Alto Adige,https://www.altoadige.it,https://www.altoadige.it/sitemaps/altoadige/rss,BZ,Bolzano,quotidiano_locale,altro (Athesia),it,misto,200,,feed,200,https://www.altoadige.it/sitemaps/altoadige/rss,100,
+si,nordest,Dolomiten,https://dolomiten.it/de/,,BZ,Bolzano,quotidiano_locale,altro (Athesia),de,si,200,notizie online su stol.it; senza feed,homepage,200,,,
+si,nordest,Neue Südtiroler Tageszeitung,https://www.tageszeitung.it,https://www.tageszeitung.it/feed/,BZ,Bolzano,quotidiano_locale,indipendente,de,misto,200,homepage aggiornata ma feed fermo ad aprile 2026: usare homepage,feed,200,https://www.tageszeitung.it/feed/,30,https://www.tageszeitung.it/sitemap-news.xml
+si,nordest,Salto.bz,https://salto.bz,https://salto.bz/rss.xml,BZ,Bolzano,sito_locale,indipendente,de,no,200,bilingue it/de,feed,200,https://salto.bz/rss.xml,10,
+si,nordest,Stol.it,https://www.stol.it,https://www.stol.it/feed/,BZ,Bolzano,sito_locale,altro (Athesia),de,misto,200,portale di Dolomiten,feed,200,https://www.stol.it/feed/,50,
+si,nordest,Südtirol News,https://www.suedtirolnews.it,https://www.suedtirolnews.it/feed,BZ,Bolzano,sito_locale,indipendente,de,no,200,,feed,200,https://www.suedtirolnews.it/feed,10,https://www.suedtirolnews.it/sitemap.xml
+si,nordest,Unser Tirol 24,https://www.unsertirol24.com,https://www.unsertirol24.com/feed/,BZ,Bolzano,sito_locale,indipendente,de,no,200,area Tirolo/Südtirol,feed,200,https://www.unsertirol24.com/feed/,20,
+si,nordest,Rai Südtirol Tagesschau,https://www.rainews.it/tgr/tagesschau,https://www.rainews.it/tgr/tagesschau/rss/tutti,BZ,Bolzano,tv_locale,Rai,de,no,200,Rai Südtirol in tedesco,feed,200,https://www.rainews.it/tgr/tagesschau/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordest,TGR Bolzano,https://www.rainews.it/tgr/bolzano,https://www.rainews.it/tgr/bolzano/rss/tutti,BZ,Bolzano,tv_locale,Rai,it,no,200,,feed,200,https://www.rainews.it/tgr/bolzano/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,isole,L'Unione Sarda,https://www.unionesarda.it,https://www.unionesarda.it/sitemaps/rss,CA,Cagliari,quotidiano_locale,altro (L'Unione Editoriale - gruppo Zuncheddu),it,misto,200,regionale Sardegna; stesso gruppo di Videolina e Radiolina,feed,200,https://www.unionesarda.it/sitemaps/rss,100,
+si,isole,CagliariPad,https://www.cagliaripad.it,https://www.cagliaripad.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,homepage aggiornata ma feed restituisce 502: usare homepage,homepage,200,,,
+si,isole,CagliariToday,https://www.cagliaritoday.it,https://www.cagliaritoday.it/rss,CA,Cagliari,sito_locale,Citynews,it,no,200,,feed,200,https://www.cagliaritoday.it/rss,25,https://www.cagliaritoday.it/sitemaps/sitemap_news.xml
+si,isole,Casteddu Online,https://www.castedduonline.it,https://www.castedduonline.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,,feed,200,https://www.castedduonline.it/feed/,8,
+si,isole,Sardegna Live,https://www.sardegnalive.net,https://www.sardegnalive.net/sitemaps/rss,CA,Cagliari,sito_locale,indipendente,it,no,200,regionale Sardegna,feed,200,https://www.sardegnalive.net/sitemaps/rss,100,
+si,isole,Sardinia Post,https://www.sardiniapost.it,https://www.sardiniapost.it/rss,CA,Cagliari,sito_locale,indipendente,it,no,200,regionale Sardegna; feed senza date,feed,200,https://www.sardiniapost.it/rss,10,
+si,isole,Vistanet,https://www.vistanet.it,https://www.vistanet.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,regionale Sardegna con sezioni locali (/cagliari/feed/ ecc.),feed,200,https://www.vistanet.it/feed/,10,
+si,isole,TGR Sardegna,https://www.rainews.it/tgr/sardegna,https://www.rainews.it/tgr/sardegna/rss/tutti,CA,Cagliari,tv_locale,Rai,it,no,200,regionale Sardegna,feed,200,https://www.rainews.it/tgr/sardegna/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,isole,Videolina,https://www.videolina.it,,CA,Cagliari,tv_locale,altro (L'Unione Editoriale - gruppo Zuncheddu),it,no,200,senza feed; stesso gruppo de L'Unione Sarda,homepage,200,,,
+si,centro,Quotidiano del Molise,https://www.quotidianomolise.com/,,CB,Campobasso,quotidiano_locale,indipendente,it,?,200,regionale Molise; senza feed; il vecchio dominio ilquotidianodelmolise.it non risponde,homepage,200,,,
+si,centro,Il Giornale del Molise,https://www.ilgiornaledelmolise.it/,https://www.ilgiornaledelmolise.it/feed/,CB,Campobasso,sito_locale,altro (Editoria Innovazioni Sviluppo),it,no,200,regionale Molise,feed,200,https://www.ilgiornaledelmolise.it/feed/,12,
+si,centro,Primonumero,https://www.primonumero.it/,https://www.primonumero.it/?feed=news-news24,CB,Termoli,sito_locale,indipendente,it,no,200,"Basso Molise, giornalismo originale",feed,200,https://www.primonumero.it/?feed=news-news24,12,
+si,centro,Termolionline,https://www.termolionline.it/,,CB,Termoli,sito_locale,indipendente,it,no,403,403 anti-bot; feed non verificabile,google_news,403,,,
+si,centro,TGR Molise,https://www.rainews.it/tgr/molise,https://www.rainews.it/tgr/molise/rss/tutti,CB,Campobasso,tv_locale,Rai,it,no,200,regionale Molise,feed,200,https://www.rainews.it/tgr/molise/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,sud,Cronache di Caserta,https://cronachedi.it/,https://cronachedi.it/feed/,CE,Caserta,quotidiano_locale,altro (Libra Editrice),it,no,200,dominio cronachedi.it (rete Cronache),feed,200,https://cronachedi.it/feed/,10,https://cronachedi.it/news-sitemap.xml
+si,sud,Il Mattino - Caserta,https://www.ilmattino.it/caserta/,,CE,Caserta,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418),sitemap,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews
+si,sud,CasertaCE,https://casertace.net/,https://casertace.net/feed/,CE,Caserta,sito_locale,indipendente,it,no,200,forte su politica e giudiziaria,feed,200,https://casertace.net/feed/,9,
+si,sud,CasertaNews,https://www.casertanews.it/,https://www.casertanews.it/rss,CE,Caserta,sito_locale,Citynews,it,no,200,,feed,200,https://www.casertanews.it/rss,25,https://www.casertanews.it/sitemaps/sitemap.xml
+si,sud,Edizione Caserta,https://edizionecaserta.net/,https://edizionecaserta.net/feed/,CE,Caserta,sito_locale,indipendente,it,no,200,,feed,200,https://edizionecaserta.net/feed/,10,https://edizionecaserta.net/sitemap-news.xml
+si,centro,ChietiToday,https://www.chietitoday.it/,https://www.chietitoday.it/rss,CH,Chieti,sito_locale,Citynews,it,no,200,,feed,200,https://www.chietitoday.it/rss,25,https://www.chietitoday.it/sitemaps/sitemap_news.xml
+si,centro,Zonalocale,https://www.zonalocale.it/,https://www.zonalocale.it/feed/,CH,Vasto,sito_locale,indipendente,it,no,200,"Vasto, San Salvo, Trigno-Sinello",feed,200,https://www.zonalocale.it/feed/,10,
+si,isole,Il Fatto Nisseno,https://www.ilfattonisseno.it,https://www.ilfattonisseno.it/feed/,CL,Caltanissetta,sito_locale,indipendente,it,no,200,ripubblica anche lanci Italpress,feed,200,https://www.ilfattonisseno.it/feed/,15,
+si,isole,Quotidiano di Gela,https://quotidianodigela.it,https://quotidianodigela.it/feed/,CL,Gela,sito_locale,indipendente,it,no,200,,feed,200,https://quotidianodigela.it/feed/,20,https://quotidianodigela.it/gnews/quotidianodigela.it.xml
+si,isole,Seguonews,https://seguonews.it,,CL,Caltanissetta,sito_locale,indipendente,it,no,200,senza feed; usare dominio senza www (certificato SSL non valido su www),homepage,200,,,
+si,nordovest,La Stampa Cuneo,https://www.lastampa.it/cuneo,https://www.lastampa.it/cuneo/rss,CN,Cuneo,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/cuneo/rss,100,
+si,nordovest,La Guida,https://laguida.it,https://laguida.it/rss.xml,CN,Cuneo,settimanale,altro (editore diocesano),it,misto,200,,feed,200,https://laguida.it/rss.xml,30,
+si,nordovest,Cuneodice,https://www.cuneodice.it,https://www.cuneodice.it/rss/prima-pagina/rss2.0.xml,CN,Cuneo,sito_locale,indipendente,it,no,200,,feed,200,https://www.cuneodice.it/rss/prima-pagina/rss2.0.xml,29,
+si,nordovest,La Voce di Alba,https://www.lavocedialba.it,https://www.lavocedialba.it/rss.xml,CN,Alba,sito_locale,altro (Morenews),it,no,200,Langhe e Roero,feed,200,https://www.lavocedialba.it/rss.xml,20,
+si,nordovest,Targatocn,https://www.targatocn.it,https://www.targatocn.it/rss.xml,CN,Cuneo,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.targatocn.it/rss.xml,20,
+si,nordovest,La Provincia di Como,https://www.laprovinciadicomo.it,,CO,Como,quotidiano_locale,Sesaab,it,misto,200,senza feed,homepage,200,,,
+si,nordovest,CiaoComo,https://www.ciaocomo.it,https://www.ciaocomo.it/feed/,CO,Como,sito_locale,indipendente,it,no,200,,feed,200,https://www.ciaocomo.it/feed/,10,
+si,nordovest,QuiComo,https://www.quicomo.it,https://www.quicomo.it/rss,CO,Como,sito_locale,Citynews,it,no,200,,feed,200,https://www.quicomo.it/rss,25,https://www.quicomo.it/sitemaps/sitemap_news.xml
+si,nordovest,La Provincia di Cremona,https://www.laprovinciacr.it,,CR,Cremona,quotidiano_locale,altro (Società Editoriale Cremonese),it,misto,200,senza feed,sitemap,200,,228,https://www.laprovinciacr.it/siteMapNews.jsp
+si,nordovest,CremonaOggi,https://www.cremonaoggi.it,https://www.cremonaoggi.it/feed/,CR,Cremona,sito_locale,indipendente,it,no,200,,feed,200,https://www.cremonaoggi.it/feed/,50,
+si,nordovest,OglioPoNews,https://www.oglioponews.it,https://www.oglioponews.it/feed/,CR,Casalmaggiore,sito_locale,indipendente,it,no,200,Casalasco e Oglio Po,feed,200,https://www.oglioponews.it/feed/,50,https://www.oglioponews.it/sitemap_index.xml
+si,sud,Gazzetta del Sud - Cosenza,https://cosenza.gazzettadelsud.it/,https://feedpress.me/gsud_hp_cosenza,CS,Cosenza,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,,feed,200,https://feedpress.me/gsud_hp_cosenza,120,https://cosenza.gazzettadelsud.it/sitemap-news.xml
+si,sud,Il Quotidiano del Sud,https://www.quotidianodelsud.it/,,CS,Cosenza,quotidiano_locale,altro (Quotidiano del Sud),it,misto,200,regionale Calabria; edizioni anche Basilicata e Irpinia; feed condiviso con un'altra edizione,feed_scoperto,200,https://www.quotidianodelsud.it/feed,75,
+si,sud,CosenzaChannel,https://www.cosenzachannel.it/,https://www.cosenzachannel.it/sitemaps/cosenza/rss,CS,Cosenza,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,,feed,200,https://www.cosenzachannel.it/sitemaps/cosenza/rss,100,
+si,sud,QuiCosenza,https://quicosenza.it/,https://quicosenza.it/news/feed/,CS,Cosenza,sito_locale,indipendente,it,no,200,,feed,200,https://quicosenza.it/news/feed/,10,https://www.quicosenza.it/news/sitemap_index.xml
+si,isole,La Sicilia,https://www.lasicilia.it,,CT,Catania,quotidiano_locale,altro (Domenico Sanfilippo Editore),it,misto,200,senza feed; primo quotidiano della Sicilia orientale; stesso gruppo di Antenna Sicilia,sitemap,200,,307,https://www.lasicilia.it/siteMapNews.jsp
+si,isole,Quotidiano di Sicilia (QdS),https://qds.it,https://qds.it/feed/,CT,Catania,quotidiano_locale,altro (Ediservice),it,misto,200,regionale Sicilia; forte su economia e PA,feed,200,https://qds.it/feed/,5,
+si,isole,CataniaToday,https://www.cataniatoday.it,https://www.cataniatoday.it/rss,CT,Catania,sito_locale,Citynews,it,no,200,,feed,200,https://www.cataniatoday.it/rss,25,https://www.cataniatoday.it/sitemaps/sitemap_news.xml
+si,isole,MeridioNews,https://meridionews.it,https://meridionews.it/feed/,CT,Catania,sito_locale,indipendente,it,no,200,attivo nel 2026; inchieste e cronaca Sicilia orientale,feed,200,https://meridionews.it/feed/,10,https://meridionews.it/sitemap_index.xml
+si,isole,Newsicilia,https://newsicilia.it,https://newsicilia.it/feed/,CT,Catania,sito_locale,indipendente,it,no,200,,feed,200,https://newsicilia.it/feed/,10,https://newsicilia.it/sitemap-news.xml
+si,isole,Telecolor / Antenna Sicilia (SiciliaWeb),https://siciliaweb.it,,CT,Catania,tv_locale,altro (Domenico Sanfilippo Editore),it,no,200,senza feed; telecolor.it reindirizza a siciliaweb.it; stesso gruppo de La Sicilia,homepage,200,,,
+si,sud,Gazzetta del Sud - Calabria,https://calabria.gazzettadelsud.it/,https://feedpress.me/gsud_hp_calabria,CZ,Catanzaro,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,regionale Calabria,feed,200,https://feedpress.me/gsud_hp_calabria,120,https://calabria.gazzettadelsud.it/sitemap-news.xml
+si,sud,Gazzetta del Sud - Catanzaro,https://catanzaro.gazzettadelsud.it/,https://feedpress.me/gsud_hp_catanzaro,CZ,Catanzaro,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,copre anche Crotone e Vibo,feed,200,https://feedpress.me/gsud_hp_catanzaro,120,https://catanzaro.gazzettadelsud.it/sitemap-news.xml
+si,sud,Calabria7,https://calabria7.news/,https://calabria7.news/feed/,CZ,Catanzaro,sito_locale,indipendente,it,no,200,regionale; dominio calabria7.news,feed,200,https://calabria7.news/feed/,10,https://calabria7.news/sitemap_index.xml
+si,sud,CatanzaroInforma,https://www.catanzaroinforma.it/,https://www.catanzaroinforma.it/feed/,CZ,Catanzaro,sito_locale,indipendente,it,no,200,,feed,200,https://www.catanzaroinforma.it/feed/,10,
+si,sud,Corriere della Calabria,https://www.corrieredellacalabria.it/,https://www.corrieredellacalabria.it/feed/,CZ,Lamezia Terme,sito_locale,indipendente,it,no,200,regionale Calabria; forte su 'ndrangheta e giudiziaria,feed,200,https://www.corrieredellacalabria.it/feed/,10,
+si,sud,LameziaInforma,https://www.lameziainforma.it/,https://www.lameziainforma.it/feed/,CZ,Lamezia Terme,sito_locale,indipendente,it,no,200,,feed,200,https://www.lameziainforma.it/feed/,10,
+si,sud,TGR Calabria,https://www.rainews.it/tgr/calabria,https://www.rainews.it/tgr/calabria/rss/tutti,CZ,Cosenza,tv_locale,Rai,it,no,200,regionale Calabria,feed,200,https://www.rainews.it/tgr/calabria/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,isole,EnnaPress,https://ennapress.it,https://ennapress.it/feed/,EN,Enna,sito_locale,indipendente,it,no,200,,feed,200,https://ennapress.it/feed/,10,
+si,isole,ViviEnna,https://www.vivienna.it,https://www.vivienna.it/feed/,EN,Enna,sito_locale,indipendente,it,no,200,,feed,200,https://www.vivienna.it/feed/,30,https://www.vivienna.it/sitemap-news.xml
+si,nordest,Il Resto del Carlino Cesena,https://www.ilrestodelcarlino.it/cesena,https://www.ilrestodelcarlino.it/cesena/rss,FC,Cesena,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/cesena/rss,82,
+si,nordest,Il Resto del Carlino Forlì,https://www.ilrestodelcarlino.it/forli,https://www.ilrestodelcarlino.it/forli/rss,FC,Forlì,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/forli/rss,72,
+si,nordest,Corriere Romagna,https://www.corriereromagna.it,https://www.corriereromagna.it/rss/home.xml,FC,Cesena,quotidiano_locale,altro (Edizioni Romagna),it,misto,200,"regionale Romagna (RA, FC, RN)",feed,200,https://www.corriereromagna.it/rss/home.xml,100,
+si,nordest,CesenaNotizie,https://www.cesenanotizie.net,https://www.cesenanotizie.net/feed/,FC,Cesena,sito_locale,indipendente,it,no,200,,feed,200,https://www.cesenanotizie.net/feed/,10,
+si,nordest,CesenaToday,https://www.cesenatoday.it,https://www.cesenatoday.it/rss,FC,Cesena,sito_locale,Citynews,it,no,200,,feed,200,https://www.cesenatoday.it/rss,25,https://www.cesenatoday.it/sitemaps/sitemap_news.xml
+si,nordest,Forlinotizie,https://www.forlinotizie.net,https://www.forlinotizie.net/feed/,FC,Forlì,sito_locale,indipendente,it,no,200,,feed,200,https://www.forlinotizie.net/feed/,10,
+si,nordest,ForlìToday,https://www.forlitoday.it,https://www.forlitoday.it/rss,FC,Forlì,sito_locale,Citynews,it,no,200,,feed,200,https://www.forlitoday.it/rss,25,https://www.forlitoday.it/sitemaps/sitemap_news.xml
+si,nordest,Il Resto del Carlino Ferrara,https://www.ilrestodelcarlino.it/ferrara,https://www.ilrestodelcarlino.it/ferrara/rss,FE,Ferrara,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/ferrara/rss,100,
+si,nordest,La Nuova Ferrara,https://www.lanuovaferrara.it,,FE,Ferrara,quotidiano_locale,SAE,it,misto,200,senza feed,homepage,200,,,
+si,nordest,Estense.com,https://www.estense.com,https://www.estense.com/feed/,FE,Ferrara,sito_locale,indipendente,it,no,200,,feed,200,https://www.estense.com/feed/,22,
+si,nordest,FerraraToday,https://www.ferraratoday.it,https://www.ferraratoday.it/rss,FE,Ferrara,sito_locale,Citynews,it,no,200,feed /rss risponde 403 allo script (anti-bot),feed,200,https://www.ferraratoday.it/rss,25,https://www.ferraratoday.it/sitemaps/sitemap_news.xml
+si,nordest,Telestense,https://www.telestense.it,,FE,Ferrara,tv_locale,indipendente,it,no,200,feed WordPress contaminato da spam casino: usare homepage; senza feed,feed_scoperto,200,https://www.telestense.it/feed/,15,
+si,sud,l'Attacco,https://www.lattacco.it/it/,https://www.lattacco.it/it/?format=feed&type=rss,FG,Foggia,quotidiano_locale,indipendente,it,no,200,,feed,200,https://www.lattacco.it/it/?format=feed&type=rss,13,
+si,sud,FoggiaToday,https://www.foggiatoday.it/,https://www.foggiatoday.it/rss,FG,Foggia,sito_locale,Citynews,it,no,200,,feed,200,https://www.foggiatoday.it/rss,25,https://www.foggiatoday.it/sitemaps/sitemap_news.xml
+si,sud,l'Immediato,https://www.immediato.net/,https://www.immediato.net/feed/,FG,Foggia,sito_locale,indipendente,it,no,200,forte su mafia foggiana e giudiziaria,feed,403,https://www.immediato.net/feed/,10,
+si,sud,Stato Quotidiano,https://www.statoquotidiano.it/,https://www.statoquotidiano.it/feed/,FG,Manfredonia,sito_locale,indipendente,it,no,200,Capitanata e Gargano,feed,200,https://www.statoquotidiano.it/feed/,10,https://www.statoquotidiano.it/news-sitemap.xml
+si,centro,Corriere Fiorentino,https://corrierefiorentino.corriere.it/,,FI,Firenze,edizione_locale,RCS,it,misto,200,senza feed (feed vecchi fermi al 2014/2022),homepage,200,,,
+si,centro,La Nazione - Empoli,https://www.lanazione.it/empoli,https://www.lanazione.it/empoli/rss,FI,Empoli,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/empoli/rss,29,
+si,centro,la Repubblica Firenze,https://firenze.repubblica.it/,,FI,Firenze,edizione_locale,GEDI,it,misto,200,senza feed (rss locale fermo al 2023),feed_scoperto,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,
+si,centro,Il Tirreno,https://www.iltirreno.it/,,FI,Livorno,quotidiano_locale,SAE,it,misto,200,"regionale Toscana costiera (Livorno, Pisa, Lucca, Grosseto, Massa, Prato, Pistoia); senza feed",homepage,200,,,
+si,centro,La Nazione - Firenze,https://www.lanazione.it/firenze,https://www.lanazione.it/firenze/rss,FI,Firenze,quotidiano_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/firenze/rss,100,
+si,centro,Toscana Oggi,https://www.toscanaoggi.it/,https://www.toscanaoggi.it/feed/,FI,Firenze,settimanale,altro (diocesano),it,misto,200,"regionale Toscana, settimanale cattolico",feed,200,https://www.toscanaoggi.it/feed/,12,
+si,centro,Firenze Post,https://www.firenzepost.it/,https://www.firenzepost.it/feed/,FI,Firenze,sito_locale,indipendente,it,no,200,mescola notizie nazionali,feed,200,https://www.firenzepost.it/feed/,9,
+si,centro,FirenzeToday,https://www.firenzetoday.it/,https://www.firenzetoday.it/rss,FI,Firenze,sito_locale,Citynews,it,no,200,,feed,200,https://www.firenzetoday.it/rss,25,https://www.firenzetoday.it/sitemaps/sitemap_news.xml
+si,centro,gonews.it,https://www.gonews.it/,https://www.gonews.it/feed/,FI,Empoli,sito_locale,indipendente,it,no,200,Empolese Valdelsa e Toscana centrale,feed,200,https://www.gonews.it/feed/,20,
+si,centro,QUI News Toscana,https://www.toscanamedianews.it/,,FI,Firenze,sito_locale,altro (Toscana Media Channel),it,no,200,"regionale Toscana, rete di edizioni provinciali; senza feed",homepage,200,,,
+si,centro,TGR Toscana,https://www.rainews.it/tgr/toscana,https://www.rainews.it/tgr/toscana/rss/tutti,FI,Firenze,tv_locale,Rai,it,no,200,regionale Toscana,feed,200,https://www.rainews.it/tgr/toscana/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,centro,il Resto del Carlino - Fermo,https://www.ilrestodelcarlino.it/fermo,https://www.ilrestodelcarlino.it/fermo/rss,FM,Fermo,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/fermo/rss,51,
+si,centro,Cronache Fermane,https://www.cronachefermane.it/,https://www.cronachefermane.it/feed/,FM,Fermo,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,,feed,200,https://www.cronachefermane.it/feed/,30,
+si,centro,Il Messaggero - Frosinone,https://www.ilmessaggero.it/frosinone/,,FR,Frosinone,edizione_locale,Caltagirone,it,misto,418,anti-bot 418; senza feed verificato,sitemap,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews
+si,centro,Ciociaria Oggi,https://www.ciociariaoggi.it/,,FR,Frosinone,quotidiano_locale,altro (Editoriale Oggi),it,misto,200,senza feed (rss sezioni vuoti),sitemap,200,,43,https://www.ciociariaoggi.it/siteMapNews.jsp
+si,centro,Alessioporcu.it,https://alessioporcu.it/,https://alessioporcu.it/feed/,FR,Frosinone,sito_locale,indipendente,it,no,,"forte su politica ciociara; homepage a volte non risponde (ConnectionError), feed ok",feed,403,https://alessioporcu.it/feed/,20,
+si,centro,FrosinoneToday,https://www.frosinonetoday.it/,https://www.frosinonetoday.it/rss,FR,Frosinone,sito_locale,Citynews,it,no,200,,feed,200,https://www.frosinonetoday.it/rss,25,https://www.frosinonetoday.it/sitemaps/sitemap_news.xml
+si,nordovest,Repubblica Genova,https://genova.repubblica.it,,GE,Genova,edizione_locale,GEDI,it,misto,200,senza feed (feed locale fermo al 2023),feed_scoperto,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,
+si,nordovest,Il Secolo XIX,https://www.ilsecoloxix.it,https://www.ilsecoloxix.it/rss,GE,Genova,quotidiano_locale,altro (Blue Media / MSC),it,misto,429,"regionale Liguria; 429 anti-bot, feed non verificabile; ha edizioni Savona/Imperia/Spezia",google_news,429,,,
+si,nordovest,Genova24,https://www.genova24.it,https://www.genova24.it/feed/,GE,Genova,sito_locale,altro (rete 24 Liguria),it,no,403,403 anti-bot anche sul feed,google_news,403,,,
+si,nordovest,GenovaToday,https://www.genovatoday.it,https://www.genovatoday.it/rss,GE,Genova,sito_locale,Citynews,it,no,200,,feed,200,https://www.genovatoday.it/rss,25,https://www.genovatoday.it/sitemaps/sitemap_news.xml
+si,nordovest,Levante News,https://www.levantenews.it,https://www.levantenews.it/feed/,GE,Lavagna,sito_locale,indipendente,it,no,200,Tigullio,feed,200,https://www.levantenews.it/feed/,10,
+si,nordovest,Primocanale,https://www.primocanale.it,,GE,Genova,tv_locale,indipendente,it,no,200,regionale Liguria; senza feed,sitemap,200,,91,https://www.primocanale.it/index.php?option=com_schuweb_sitemap&view=xml&tmpl=component&news=1&id=1
+si,nordovest,TGR Liguria,https://www.rainews.it/tgr/liguria,https://www.rainews.it/tgr/liguria/rss/tutti,GE,Genova,tv_locale,Rai,it,no,200,regionale Liguria,feed,200,https://www.rainews.it/tgr/liguria/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordest,Il Goriziano,https://www.ilgoriziano.it,,GO,Gorizia,sito_locale,indipendente,it,no,200,senza feed,homepage,200,,,
+si,centro,La Nazione - Grosseto,https://www.lanazione.it/grosseto,https://www.lanazione.it/grosseto/rss,GR,Grosseto,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/grosseto/rss,55,
+si,centro,Grosseto Notizie,https://www.grossetonotizie.com/,https://www.grossetonotizie.com/feed/,GR,Grosseto,sito_locale,indipendente,it,no,200,,feed,200,https://www.grossetonotizie.com/feed/,10,
+si,centro,Il Giunco,https://www.ilgiunco.net/,https://www.ilgiunco.net/feed/,GR,Grosseto,sito_locale,indipendente,it,no,200,,feed,200,https://www.ilgiunco.net/feed/,10,
+si,nordovest,La Stampa Imperia-Sanremo,https://www.lastampa.it/imperia-sanremo,https://www.lastampa.it/imperia-sanremo/rss,IM,Imperia,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/imperia-sanremo/rss,100,
+si,nordovest,ImperiaPost,https://imperiapost.it,https://imperiapost.it/feed,IM,Imperia,sito_locale,indipendente,it,no,200,feed con pochi elementi (4),feed,200,https://imperiapost.it/feed,4,
+si,nordovest,Riviera24,https://www.riviera24.it,https://www.riviera24.it/feed/,IM,Sanremo,sito_locale,altro (rete 24 Liguria),it,no,200,,feed,200,https://www.riviera24.it/feed/,10,
+si,nordovest,SanremoNews,https://www.sanremonews.it,https://www.sanremonews.it/rss.xml,IM,Sanremo,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.sanremonews.it/rss.xml,20,
+si,centro,isNews,https://www.isnews.it/,,IS,Isernia,sito_locale,indipendente,it,no,500,homepage in errore database (500) al 27/9/2026: da ricontrollare,feed_scoperto,200,https://www.isnews.it/feed/,10,https://www.isnews.it/sitemap_index.xml
+si,centro,Molise Network,https://www.molisenetwork.net/,https://www.molisenetwork.net/feed/,IS,Isernia,sito_locale,indipendente,it,no,200,"regionale Molise, forte su Isernia",feed,200,https://www.molisenetwork.net/feed/,100,
+si,sud,Il Crotonese,https://www.ilcrotonese.it/,https://www.ilcrotonese.it/feed/,KR,Crotone,quotidiano_locale,indipendente,it,no,200,,feed,200,https://www.ilcrotonese.it/feed/,10,
+si,sud,CrotoneOK,https://www.crotoneok.it/,https://www.crotoneok.it/feed.xml,KR,Crotone,sito_locale,indipendente,it,no,200,,feed,200,https://www.crotoneok.it/feed.xml,20,https://www.crotoneok.it/gnews/www.crotoneok.it.xml
+si,nordovest,La Provincia Unica Tv (Lecco-Sondrio),https://www.laprovinciaunicatv.it,,LC,Lecco,quotidiano_locale,Sesaab,it,misto,200,senza feed; ha assorbito i siti La Provincia di Lecco e di Sondrio,homepage,200,,,
+si,nordovest,LeccoToday,https://www.leccotoday.it,https://www.leccotoday.it/rss,LC,Lecco,sito_locale,Citynews,it,no,200,,feed,200,https://www.leccotoday.it/rss,25,https://www.leccotoday.it/sitemaps/sitemap_news.xml
+si,sud,Nuovo Quotidiano di Puglia,https://www.quotidianodipuglia.it/,https://www.quotidianodipuglia.it/rss/home.xml,LE,Lecce,quotidiano_locale,Caltagirone,it,misto,200,"edizioni Lecce, Brindisi, Taranto",feed,200,https://www.quotidianodipuglia.it/rss/home.xml,20,http://www.quotidianodipuglia.it/?sez=XML&p=MapNews
+si,sud,Leccenews24,https://www.leccenews24.it/,https://www.leccenews24.it/feed,LE,Lecce,sito_locale,indipendente,it,no,200,,feed,200,https://www.leccenews24.it/feed,10,https://www.leccenews24.it/sitemap_index.xml
+si,sud,LeccePrima,https://www.lecceprima.it/,https://www.lecceprima.it/rss,LE,Lecce,sito_locale,Citynews,it,no,200,,feed,200,https://www.lecceprima.it/rss,25,https://www.lecceprima.it/sitemaps/sitemap_news.xml
+si,centro,Il Telegrafo Livorno,https://www.iltelegrafolivorno.it/,https://www.iltelegrafolivorno.it/rss,LI,Livorno,quotidiano_locale,Monrif (QN),it,misto,200,edizione livornese de La Nazione (lanazione.it/livorno reindirizza qui),feed,200,https://www.iltelegrafolivorno.it/rss,66,
+si,centro,LivornoToday,https://www.livornotoday.it/,https://www.livornotoday.it/rss,LI,Livorno,sito_locale,Citynews,it,no,200,,feed,200,https://www.livornotoday.it/rss,25,https://www.livornotoday.it/sitemaps/sitemap_news.xml
+si,centro,QuiLivorno,https://www.quilivorno.it/,https://www.quilivorno.it/feed/,LI,Livorno,sito_locale,indipendente,it,no,200,,feed,200,https://www.quilivorno.it/feed/,10,https://www.quilivorno.it/sitemap-google-news/
+si,nordovest,Il Cittadino di Lodi,https://www.ilcittadino.it,,LO,Lodi,quotidiano_locale,altro (Diocesi di Lodi),it,misto,200,senza feed,homepage,200,,,
+si,nordovest,Il Giorno Lodi,https://www.ilgiorno.it/lodi,https://www.ilgiorno.it/lodi/rss,LO,Lodi,quotidiano_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilgiorno.it/lodi/rss,20,
+si,centro,Il Messaggero - Latina,https://www.ilmessaggero.it/latina/,,LT,Latina,edizione_locale,Caltagirone,it,misto,418,anti-bot 418; senza feed verificato,sitemap,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews
+si,centro,Latina Oggi,https://www.latinaoggi.eu/,,LT,Latina,quotidiano_locale,altro (Editoriale Oggi),it,misto,200,senza feed (rss sezioni vuoti),sitemap,200,,69,https://www.latinaoggi.eu/siteMapNews.jsp
+si,centro,H24 Notizie,https://h24notizie.com/,https://h24notizie.com/feed/,LT,Latina,sito_locale,indipendente,it,no,200,"provincia di Latina e sud pontino; www non risponde, usare dominio senza www",google_news,403,,,
+si,centro,LatinaToday,https://www.latinatoday.it/,https://www.latinatoday.it/rss,LT,Latina,sito_locale,Citynews,it,no,200,,feed,200,https://www.latinatoday.it/rss,25,https://www.latinatoday.it/sitemaps/sitemap_news.xml
+si,centro,La Nazione - Lucca,https://www.lanazione.it/lucca,https://www.lanazione.it/lucca/rss,LU,Lucca,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/lucca/rss,92,
+si,centro,Lucca in Diretta,https://www.luccaindiretta.it/,https://www.luccaindiretta.it/feed/,LU,Lucca,sito_locale,indipendente,it,no,200,,feed,200,https://www.luccaindiretta.it/feed/,30,
+si,centro,Noi TV,https://www.noitv.it/,https://www.noitv.it/feed/,LU,Lucca,tv_locale,indipendente,it,no,200,Lucca e Versilia,feed,200,https://www.noitv.it/feed/,20,
+si,nordovest,Il Cittadino di Monza e Brianza,https://www.ilcittadinomb.it,https://www.ilcittadinomb.it/feed/,MB,Monza,quotidiano_locale,Sesaab,it,misto,200,,feed,200,https://www.ilcittadinomb.it/feed/,10,
+si,nordovest,Il Giorno Monza Brianza,https://www.ilgiorno.it/monza-brianza,https://www.ilgiorno.it/monza-brianza/rss,MB,Monza,quotidiano_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilgiorno.it/monza-brianza/rss,57,
+si,nordovest,MBNews,https://www.mbnews.it,https://cdn.mbnews.it/?feed=news-news24,MB,Monza,sito_locale,indipendente,it,no,200,,feed,200,https://cdn.mbnews.it/?feed=news-news24,5,
+si,nordovest,MonzaToday,https://www.monzatoday.it,https://www.monzatoday.it/rss,MB,Monza,sito_locale,Citynews,it,no,200,,feed,200,https://www.monzatoday.it/rss,25,https://www.monzatoday.it/sitemaps/sitemap_news.xml
+si,centro,il Resto del Carlino - Macerata,https://www.ilrestodelcarlino.it/macerata,https://www.ilrestodelcarlino.it/macerata/rss,MC,Macerata,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/macerata/rss,50,
+si,centro,Cronache Maceratesi,https://www.cronachemaceratesi.it/,https://www.cronachemaceratesi.it/feed/,MC,Macerata,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,molto prolifico,feed,200,https://www.cronachemaceratesi.it/feed/,60,
+si,centro,Picchio News,https://picchionews.it/,https://picchionews.it/feed/,MC,Macerata,sito_locale,indipendente,it,no,200,,feed,200,https://picchionews.it/feed/,20,
+si,isole,Gazzetta del Sud - Messina,https://gazzettadelsud.it/messina/,https://gazzettadelsud.it/upload/assets/rss/producer-messina-homepage.xml,ME,Messina,quotidiano_locale,altro (SES - Società Editrice Siciliana),it,misto,200,edizione Messina; feed Messina contiene anche pezzi calabresi; stesso gruppo del GdS,feed,404,https://gazzettadelsud.it/upload/assets/rss/producer-messina-homepage.xml,120,https://gazzettadelsud.it/sitemap-news.xml
+si,isole,MessinaToday,https://www.messinatoday.it,https://www.messinatoday.it/rss,ME,Messina,sito_locale,Citynews,it,no,200,,feed,200,https://www.messinatoday.it/rss,25,https://www.messinatoday.it/sitemaps/sitemap_news.xml
+si,isole,Tempostretto,https://www.tempostretto.it,https://www.tempostretto.it/feed/,ME,Messina,sito_locale,indipendente,it,no,200,Messina e area dello Stretto,feed,200,https://www.tempostretto.it/feed/,10,https://www.tempostretto.it/sitemap-news.xml
+si,nordovest,Corriere della Sera Milano,https://milano.corriere.it,,MI,Milano,edizione_locale,RCS,it,misto,200,senza feed (feed xml2.corriereobjects fermi al 2022),homepage,200,,,
+si,nordovest,Repubblica Milano,https://milano.repubblica.it,,MI,Milano,edizione_locale,GEDI,it,misto,200,senza feed (feed locale fermo al 2023),feed_scoperto,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,
+si,nordovest,Il Giorno Milano,https://www.ilgiorno.it/milano,https://www.ilgiorno.it/milano/rss,MI,Milano,quotidiano_locale,Monrifs (QN),it,misto,200,quotidiano regionale Lombardia; sezioni provinciali,feed,200,https://www.ilgiorno.it/milano/rss,100,
+si,nordovest,MilanoToday,https://www.milanotoday.it,https://www.milanotoday.it/rss,MI,Milano,sito_locale,Citynews,it,no,200,,feed,200,https://www.milanotoday.it/rss,25,https://www.milanotoday.it/sitemaps/sitemap_news.xml
+si,nordovest,Telelombardia,https://www.mediapason.it/telelombardia/,https://www.mediapason.it/feed/,MI,Milano,tv_locale,altro (Mediapason),it,no,200,"regionale; feed comune gruppo Mediapason, poco frequente",feed,200,https://www.mediapason.it/feed/,10,
+si,nordovest,TGR Lombardia,https://www.rainews.it/tgr/lombardia,https://www.rainews.it/tgr/lombardia/rss/tutti,MI,Milano,tv_locale,Rai,it,no,200,regionale Lombardia,feed,200,https://www.rainews.it/tgr/lombardia/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordovest,Gazzetta di Mantova,https://www.gazzettadimantova.it,,MN,Mantova,quotidiano_locale,altro (ex GEDI),it,misto,200,senza feed; proprietà da verificare dopo cessione GEDI,homepage,200,,,
+si,nordovest,La Voce di Mantova,https://vocedimantova.it,https://vocedimantova.it/feed/,MN,Mantova,quotidiano_locale,indipendente,it,misto,200,,feed,200,https://vocedimantova.it/feed/,10,
+si,nordovest,MantovaUno,https://mantovauno.it,https://mantovauno.it/feed/,MN,Mantova,sito_locale,indipendente,it,no,200,,feed,200,https://mantovauno.it/feed/,10,
+si,nordest,Il Resto del Carlino Modena,https://www.ilrestodelcarlino.it/modena,https://www.ilrestodelcarlino.it/modena/rss,MO,Modena,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/modena/rss,100,
+si,nordest,Gazzetta di Modena,https://www.gazzettadimodena.it,,MO,Modena,quotidiano_locale,SAE,it,misto,200,senza feed,homepage,200,,,
+si,nordest,La Pressa,https://www.lapressa.it,https://www.lapressa.it/rss.xml,MO,Modena,sito_locale,indipendente,it,no,200,,feed,200,https://www.lapressa.it/rss.xml,20,https://www.lapressa.it/sitemap_news.xml
+si,nordest,ModenaToday,https://www.modenatoday.it,https://www.modenatoday.it/rss,MO,Modena,sito_locale,Citynews,it,no,200,,feed,200,https://www.modenatoday.it/rss,25,https://www.modenatoday.it/sitemaps/sitemap_news.xml
+si,nordest,Sassuolo2000,https://www.sassuolo2000.it,https://www.sassuolo2000.it/feed/,MO,Sassuolo,sito_locale,indipendente,it,no,200,,feed,200,https://www.sassuolo2000.it/feed/,50,
+si,nordest,SulPanaro,https://www.sulpanaro.net,https://www.sulpanaro.net/feed/,MO,Mirandola,sito_locale,indipendente,it,no,200,Bassa modenese,feed,200,https://www.sulpanaro.net/feed/,10,https://www.sulpanaro.net/news-sitemap.xml
+si,centro,La Nazione - Massa Carrara,https://www.lanazione.it/massa-carrara,https://www.lanazione.it/massa-carrara/rss,MS,Massa,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/massa-carrara/rss,67,
+si,centro,La Voce Apuana,https://www.voceapuana.com/,https://www.voceapuana.com/feed/,MS,Massa,sito_locale,indipendente,it,no,200,Massa-Carrara e Lunigiana,feed,200,https://www.voceapuana.com/feed/,10,
+si,sud,La Siritide,https://www.lasiritide.it/,,MT,Policoro,sito_locale,indipendente,it,no,200,senza feed; metapontino e Val d'Agri,homepage,200,,,
+si,sud,SassiLive,https://www.sassilive.it/,https://www.sassilive.it/feed/,MT,Matera,sito_locale,indipendente,it,no,200,,feed,200,https://www.sassilive.it/feed/,10,
+si,sud,TRM h24,https://www.trmtv.it/,https://www.trmtv.it/feed,MT,Matera,tv_locale,indipendente,it,no,200,regionale Basilicata,feed,200,https://www.trmtv.it/feed,10,
+si,sud,Corriere del Mezzogiorno (Campania),https://napoli.corriere.it/,http://xml2.corriereobjects.it/rss/homepage_napoli.xml,NA,Napoli,edizione_locale,RCS,it,misto,200,regionale Campania,feed,200,http://xml2.corriereobjects.it/rss/homepage_napoli.xml,47,
+si,sud,Repubblica Napoli,https://napoli.repubblica.it/,https://napoli.repubblica.it/rss/rss2.0.xml,NA,Napoli,edizione_locale,GEDI,it,misto,200,,feed,200,https://napoli.repubblica.it/rss/rss2.0.xml,100,
+si,sud,Cronache di Napoli,https://cronachedinapoli.it/,,NA,Napoli,quotidiano_locale,altro (Libra Editrice),it,no,200,senza feed; forte su cronaca nera e camorra,homepage,200,,,
+si,sud,Il Dispari,http://www.ildispari.it/,http://www.ildispari.it/feed/,NA,Ischia,quotidiano_locale,indipendente,it,no,,"Ischia e Procida; HTTPS con errore SSL, usare http",feed_scoperto,200,https://www.ildispariquotidiano.it/it/feed/,10,https://www.ildispariquotidiano.it/it/news-sitemap.xml
+si,sud,Il Mattino,https://www.ilmattino.it/,https://www.ilmattino.it/rss/home.xml,NA,Napoli,quotidiano_locale,Caltagirone,it,misto,200,regionale Campania; feed a volte 418 anti-bot,feed,200,https://www.ilmattino.it/rss/home.xml,20,https://www.ilmattino.it/?sez=XML&p=MapNews
+si,sud,Il Roma,https://www.ilroma.net/,https://www.ilroma.net/feed/,NA,Napoli,quotidiano_locale,altro (Nuove Edizioni Roma),it,no,200,,feed,200,https://www.ilroma.net/feed/,20,https://www.ilroma.net/siteMapNews.jsp
+si,sud,Metropolis,https://www.metropolisweb.it/,https://www.metropolisweb.it/feed/,NA,Castellammare di Stabia,quotidiano_locale,indipendente,it,no,200,area vesuviana e stabiese,feed,200,https://www.metropolisweb.it/feed/,76,
+si,sud,Il Meridiano News,https://www.ilmeridianonews.it/,https://www.ilmeridianonews.it/feed/,NA,Aversa,sito_locale,indipendente,it,no,200,area nord Napoli e agro aversano,feed,200,https://www.ilmeridianonews.it/feed/,10,https://www.ilmeridianonews.it/sitemap_index.xml
+si,sud,Internapoli,https://internapoli.it/,https://internapoli.it/feed/,NA,Napoli,sito_locale,indipendente,it,no,200,"area nord Napoli, cronaca",feed,200,https://internapoli.it/feed/,30,
+si,sud,NapoliToday,https://www.napolitoday.it/,https://www.napolitoday.it/rss,NA,Napoli,sito_locale,Citynews,it,no,200,,feed,200,https://www.napolitoday.it/rss,25,https://www.napolitoday.it/sitemaps/sitemap_news.xml
+si,sud,Canale 21,https://www.canale21.it/,https://www.canale21.it/feed/,NA,Napoli,tv_locale,indipendente,it,no,200,,feed,200,https://www.canale21.it/feed/,10,https://www.canale21.it/sitemap-news.xml
+si,sud,TGR Campania,https://www.rainews.it/tgr/campania,https://www.rainews.it/tgr/campania/rss/tutti,NA,Napoli,tv_locale,Rai,it,no,200,regionale Campania,feed,200,https://www.rainews.it/tgr/campania/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordovest,La Stampa Novara,https://www.lastampa.it/novara,https://www.lastampa.it/novara/rss,NO,Novara,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/novara/rss,100,
+si,nordovest,Corriere di Novara,https://corrieredinovara.it,https://corrieredinovara.it/feed/,NO,Novara,settimanale,altro (Netweek),it,no,200,,feed,200,https://corrieredinovara.it/feed/,25,
+si,nordovest,La Voce di Novara,https://www.lavocedinovara.com,https://www.lavocedinovara.com/feed/,NO,Novara,sito_locale,indipendente,it,no,200,,feed,200,https://www.lavocedinovara.com/feed/,10,
+si,nordovest,NovaraToday,https://www.novaratoday.it,https://www.novaratoday.it/rss,NO,Novara,sito_locale,Citynews,it,no,200,,feed,200,https://www.novaratoday.it/rss,25,https://www.novaratoday.it/sitemaps/sitemap_news.xml
+si,isole,L'Ortobene,https://www.ortobene.net,https://www.ortobene.net/feed/,NU,Nuoro,settimanale,altro (diocesi di Nuoro),it,no,301,"settimanale diocesano; script: errore connessione, feed ok",feed,200,https://www.ortobene.net/feed/,10,
+si,isole,Cronache Nuoresi,https://www.cronachenuoresi.it,https://www.cronachenuoresi.it/feed/,NU,Nuoro,sito_locale,indipendente,it,no,200,,feed,200,https://www.cronachenuoresi.it/feed/,10,
+si,isole,Vistanet Ogliastra,https://www.vistanet.it/ogliastra/,https://www.vistanet.it/ogliastra/feed/,NU,Tortolì,sito_locale,indipendente,it,no,200,"Ogliastra (nuova provincia di Ogliastra, sigla legacy NU)",feed,200,https://www.vistanet.it/ogliastra/feed/,10,
+si,isole,LinkOristano,https://www.linkoristano.it,https://www.linkoristano.it/feed/,OR,Oristano,sito_locale,indipendente,it,no,200,,feed,200,https://www.linkoristano.it/feed/,10,
+si,isole,OristanoNoi,https://www.oristanonoi.it,https://www.oristanonoi.it/feed/,OR,Oristano,sito_locale,indipendente,it,no,200,,feed,200,https://www.oristanonoi.it/feed/,10,
+si,isole,Repubblica Palermo,https://palermo.repubblica.it,https://palermo.repubblica.it/rss/cronaca/rss2.0.xml,PA,Palermo,edizione_locale,GEDI,it,misto,200,feed solo sezione cronaca (la homepage espone il feed nazionale),feed,200,https://palermo.repubblica.it/rss/cronaca/rss2.0.xml,25,
+si,isole,Giornale di Sicilia,https://gds.it,https://gds.it/upload/assets/rss/producer-sicilia-homepage.xml,PA,Palermo,quotidiano_locale,altro (SES - Società Editrice Siciliana),it,misto,200,regionale Sicilia; feed provinciali: producer-palermo/catania/trapani/agrigento-homepage.xml,feed,200,https://gds.it/upload/assets/rss/producer-sicilia-homepage.xml,120,https://gds.it/sitemap-news.xml
+si,isole,BlogSicilia,https://www.blogsicilia.it,https://www.blogsicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,regionale Sicilia,feed,200,https://www.blogsicilia.it/feed/,20,https://www.blogsicilia.it/sitemap-news.xml
+si,isole,ilSicilia.it,https://ilsicilia.it,https://ilsicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,regionale Sicilia,feed,200,https://ilsicilia.it/feed/,10,
+si,isole,LiveSicilia,https://livesicilia.it,https://livesicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,regionale Sicilia; forte su politica e giudiziaria; feed espone 1 solo elemento: meglio homepage,feed,200,https://livesicilia.it/feed/,1,
+si,isole,PalermoToday,https://www.palermotoday.it,https://www.palermotoday.it/rss,PA,Palermo,sito_locale,Citynews,it,no,200,,feed,200,https://www.palermotoday.it/rss,25,https://www.palermotoday.it/sitemaps/sitemap_news.xml
+si,isole,TGR Sicilia,https://www.rainews.it/tgr/sicilia,https://www.rainews.it/tgr/sicilia/rss/tutti,PA,Palermo,tv_locale,Rai,it,no,200,regionale Sicilia,feed,200,https://www.rainews.it/tgr/sicilia/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,isole,TGS - Telegiornale di Sicilia,https://tgs.gds.it,,PA,Palermo,tv_locale,altro (SES - Società Editrice Siciliana),it,no,200,"senza feed proprio; tgs.it non risolve, sito ora su tgs.gds.it (stesso gruppo del GdS)",homepage,200,,,
+si,nordest,Libertà,https://www.liberta.it,,PC,Piacenza,quotidiano_locale,altro (Editoriale Libertà),it,misto,200,senza feed (google-news-sitemap.xml),sitemap,200,,83,https://www.liberta.it/google-news-sitemap.xml
+si,nordest,IlPiacenza,https://www.ilpiacenza.it,https://www.ilpiacenza.it/rss,PC,Piacenza,sito_locale,Citynews,it,no,200,,feed,200,https://www.ilpiacenza.it/rss,25,https://www.ilpiacenza.it/sitemaps/sitemap_news.xml
+si,nordest,PiacenzaSera,https://www.piacenzasera.it,https://www.piacenzasera.it/feed/,PC,Piacenza,sito_locale,indipendente,it,no,200,,feed,200,https://www.piacenzasera.it/feed/,10,
+si,nordest,Il Mattino di Padova,https://www.mattinopadova.it,https://www.mattinopadova.it/sitemap_rss_feed.xml,PD,Padova,quotidiano_locale,NEM,it,misto,200,,feed,200,https://www.mattinopadova.it/sitemap_rss_feed.xml,47,https://www.mattinopadova.it/xml/news/sitemap.xml
+si,nordest,PadovaOggi,https://www.padovaoggi.it,https://www.padovaoggi.it/rss,PD,Padova,sito_locale,Citynews,it,no,200,,feed,200,https://www.padovaoggi.it/rss,25,https://www.padovaoggi.it/sitemaps/sitemap_news.xml
+si,centro,Il Germe,https://www.ilgerme.it/,https://www.ilgerme.it/feed/,PE,Pescara,sito_locale,indipendente,it,no,200,"approfondimento e inchieste, meno di un pezzo al giorno",feed,200,https://www.ilgerme.it/feed/,10,
+si,centro,Il Pescara,https://www.ilpescara.it/,https://www.ilpescara.it/rss,PE,Pescara,sito_locale,Citynews,it,no,200,,feed,200,https://www.ilpescara.it/rss,25,https://www.ilpescara.it/sitemaps/sitemap_news.xml
+si,centro,La Nazione - Umbria,https://www.lanazione.it/umbria,https://www.lanazione.it/umbria/rss,PG,Perugia,edizione_locale,Monrif (QN),it,misto,200,regionale Umbria,feed,200,https://www.lanazione.it/umbria/rss,100,
+si,centro,Corriere dell'Umbria,https://www.corrieredellumbria.it/,,PG,Perugia,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,regionale Umbria; senza feed,sitemap,200,,118,https://www.corrieredellumbria.it/siteMapNews.jsp
+si,centro,PerugiaToday,https://www.perugiatoday.it/,https://www.perugiatoday.it/rss,PG,Perugia,sito_locale,Citynews,it,no,200,,feed,200,https://www.perugiatoday.it/rss,25,https://www.perugiatoday.it/sitemaps/sitemap_news.xml
+si,centro,TuttOggi,https://tuttoggi.info/,https://tuttoggi.info/feed/,PG,Foligno,sito_locale,indipendente,it,no,,"Foligno, Spoleto, Valnerina; homepage ConnectionError allo script, feed ok (include anche notizie nazionali)",feed,200,https://tuttoggi.info/feed/,10,https://news-umbria.tuttoggi.info/sitemap_index.xml
+si,centro,Umbria Journal,https://www.umbriajournal.com/,https://www.umbriajournal.com/feed/,PG,Perugia,sito_locale,indipendente,it,no,200,,feed,200,https://www.umbriajournal.com/feed/,7,
+si,centro,Umbria24,https://www.umbria24.it/,https://www.umbria24.it/feed/,PG,Perugia,sito_locale,indipendente,it,no,200,regionale Umbria,feed,200,https://www.umbria24.it/feed/,10,https://www.umbria24.it/news-sitemap.xml
+si,centro,TGR Umbria,https://www.rainews.it/tgr/umbria,https://www.rainews.it/tgr/umbria/rss/tutti,PG,Perugia,tv_locale,Rai,it,no,200,regionale Umbria,feed,200,https://www.rainews.it/tgr/umbria/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,centro,La Nazione - Pisa,https://www.lanazione.it/pisa,https://www.lanazione.it/pisa/rss,PI,Pisa,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/pisa/rss,61,
+si,centro,PisaToday,https://www.pisatoday.it/,https://www.pisatoday.it/rss,PI,Pisa,sito_locale,Citynews,it,no,200,,feed,200,https://www.pisatoday.it/rss,25,https://www.pisatoday.it/sitemaps/sitemap_news.xml
+si,nordest,Il Popolo,https://ilpopolopordenone.it,https://ilpopolopordenone.it/feed/,PN,Pordenone,settimanale,altro (diocesano),it,no,200,settimanale diocesano Concordia-Pordenone,feed,200,https://ilpopolopordenone.it/feed/,9,
+si,nordest,Nordest24,https://www.nordest24.it,https://www.nordest24.it/feed/,PN,Pordenone,sito_locale,indipendente,it,no,200,,feed,200,https://www.nordest24.it/feed/,20,https://www.nordest24.it/gnews/www.nordest24.it.xml
+si,nordest,PordenoneToday,https://www.pordenonetoday.it,https://www.pordenonetoday.it/rss,PN,Pordenone,sito_locale,Citynews,it,no,200,feed /rss risponde 403 allo script (anti-bot),feed,200,https://www.pordenonetoday.it/rss,25,https://www.pordenonetoday.it/sitemaps/sitemap_news.xml
+si,centro,La Nazione - Prato,https://www.lanazione.it/prato,https://www.lanazione.it/prato/rss,PO,Prato,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/prato/rss,86,
+si,centro,Notizie di Prato,https://www.notiziediprato.it/,https://www.notiziediprato.it/feed/,PO,Prato,sito_locale,indipendente,it,no,200,,feed,200,https://www.notiziediprato.it/feed/,15,
+si,centro,TV Prato,https://www.tvprato.it/,https://www.tvprato.it/feed/,PO,Prato,tv_locale,indipendente,it,no,,"homepage ConnectionError allo script, feed ok",feed,200,https://www.tvprato.it/feed/,10,
+si,nordest,Gazzetta di Parma,https://www.gazzettadiparma.it,https://www.gazzettadiparma.it/rss.jsp,PR,Parma,quotidiano_locale,altro (Gazzetta di Parma Editore/UPI),it,misto,200,,feed,200,https://www.gazzettadiparma.it/rss.jsp,20,https://www.gazzettadiparma.it/siteMapNews.jsp
+si,nordest,ParmaDaily,https://www.parmadaily.it,https://www.parmadaily.it/feed/,PR,Parma,sito_locale,indipendente,it,no,403,homepage 403 allo script,feed,200,https://www.parmadaily.it/feed/,20,
+si,nordest,ParmaToday,https://www.parmatoday.it,https://www.parmatoday.it/rss,PR,Parma,sito_locale,Citynews,it,no,200,,feed,200,https://www.parmatoday.it/rss,25,https://www.parmatoday.it/sitemaps/sitemap_news.xml
+si,centro,La Nazione - Pistoia,https://www.lanazione.it/pistoia,https://www.lanazione.it/pistoia/rss,PT,Pistoia,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/pistoia/rss,47,
+si,centro,Report Pistoia,https://www.reportpistoia.com/,https://www.reportpistoia.com/feed/,PT,Pistoia,sito_locale,indipendente,it,no,200,,feed,200,https://www.reportpistoia.com/feed/,10,
+si,centro,TVL Pistoia,https://www.tvl.it/,https://www.tvl.it/feed/,PT,Pistoia,tv_locale,indipendente,it,no,,"homepage SSLError allo script, feed ok",google_news,SSLError,,,
+si,centro,il Resto del Carlino - Pesaro,https://www.ilrestodelcarlino.it/pesaro,https://www.ilrestodelcarlino.it/pesaro/rss,PU,Pesaro,edizione_locale,Monrif (QN),it,misto,200,anche Fano e Urbino,feed,200,https://www.ilrestodelcarlino.it/pesaro/rss,93,
+si,centro,Vivere Pesaro,https://www.viverepesaro.it/,https://www.viverepesaro.it/rss,PU,Pesaro,sito_locale,altro (rete Vivere),it,no,200,,feed,200,https://www.viverepesaro.it/rss,20,
+si,nordovest,La Provincia Pavese,https://laprovinciapavese.gelocal.it/pavia/,https://laprovinciapavese.gelocal.it/rss/finegil/laprovinciapavese/feed.rss,PV,Pavia,quotidiano_locale,altro (ex GEDI),it,misto,200,proprietà da verificare dopo cessione GEDI,feed,200,https://laprovinciapavese.gelocal.it/rss/finegil/laprovinciapavese/feed.rss,39,
+si,nordovest,Vigevano24,https://www.vigevano24.it,https://www.vigevano24.it/rss.xml,PV,Vigevano,sito_locale,altro (Morenews),it,no,200,Lomellina,feed,200,https://www.vigevano24.it/rss.xml,20,
+si,sud,Il Quotidiano del Sud - Basilicata,https://www.quotidianodelsud.it/basilicata,https://www.quotidianodelsud.it/feed,PZ,Potenza,quotidiano_locale,altro (Quotidiano del Sud),it,misto,200,regionale Basilicata; feed unico del giornale (tutte le edizioni),feed,200,https://www.quotidianodelsud.it/feed,75,
+si,sud,La Nuova del Sud,https://www.lanuova.net/,,PZ,Potenza,quotidiano_locale,altro (editore locale),it,?,200,regionale Basilicata; senza feed,sitemap,200,,17,https://www.lanuova.net/google-news-sitemap.xml
+si,sud,Basilicata24,https://www.basilicata24.it/,https://www.basilicata24.it/feed/,PZ,Potenza,sito_locale,indipendente,it,no,200,"regionale Basilicata, inchieste (petrolio)",feed,200,https://www.basilicata24.it/feed/,10,
+si,sud,Potenza News,https://www.potenzanews.net/,https://www.potenzanews.net/feed/,PZ,Potenza,sito_locale,indipendente,it,no,200,,feed,200,https://www.potenzanews.net/feed/,10,https://www.potenzanews.net/sitemap_index.xml
+si,sud,TGR Basilicata,https://www.rainews.it/tgr/basilicata,https://www.rainews.it/tgr/basilicata/rss/tutti,PZ,Potenza,tv_locale,Rai,it,no,200,regionale Basilicata,feed,200,https://www.rainews.it/tgr/basilicata/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordest,Il Resto del Carlino Ravenna,https://www.ilrestodelcarlino.it/ravenna,https://www.ilrestodelcarlino.it/ravenna/rss,RA,Ravenna,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/ravenna/rss,97,
+si,nordest,Ravenna&Dintorni,https://www.ravennaedintorni.it,https://www.ravennaedintorni.it/feed/,RA,Ravenna,sito_locale,indipendente,it,no,403,"403 allo script (anti-bot), feed da verificare",google_news,403,,,
+si,nordest,RavennaNotizie,https://www.ravennanotizie.it,https://www.ravennanotizie.it/feed/,RA,Ravenna,sito_locale,indipendente,it,no,200,,feed,200,https://www.ravennanotizie.it/feed/,10,
+si,nordest,RavennaToday,https://www.ravennatoday.it,https://www.ravennatoday.it/rss,RA,Ravenna,sito_locale,Citynews,it,no,200,,feed,200,https://www.ravennatoday.it/rss,25,https://www.ravennatoday.it/sitemaps/sitemap_news.xml
+si,sud,Gazzetta del Sud - Reggio,https://reggio.gazzettadelsud.it/,https://feedpress.me/gsud_hp_reggio,RC,Reggio Calabria,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,,feed,200,https://feedpress.me/gsud_hp_reggio,120,https://reggio.gazzettadelsud.it/sitemap-news.xml
+si,sud,CityNow,https://www.citynow.it/,https://www.citynow.it/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,,feed,200,https://www.citynow.it/feed/,16,https://www.citynow.it/news-sitemap.xml
+si,sud,Il Dispaccio,https://ildispaccio.it/,https://ildispaccio.it/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,,feed,200,https://ildispaccio.it/feed/,10,
+si,sud,Il Reggino,https://www.ilreggino.it/,https://www.ilreggino.it/sitemaps/reggino/rss,RC,Reggio Calabria,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,,feed,200,https://www.ilreggino.it/sitemaps/reggino/rss,100,
+si,sud,L'Eco della Locride,https://www.ecodellalocride.it/,https://www.ecodellalocride.it/feed/,RC,Siderno,sito_locale,indipendente,it,no,200,Locride,feed,200,https://www.ecodellalocride.it/feed/,10,
+si,sud,ReggioToday,https://www.reggiotoday.it/,https://www.reggiotoday.it/rss,RC,Reggio Calabria,sito_locale,Citynews,it,no,200,,feed,200,https://www.reggiotoday.it/rss,25,https://www.reggiotoday.it/sitemaps/sitemap_news.xml
+si,sud,StrettoWeb,https://www.strettoweb.com/,https://www.strettoweb.com/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,anche Messina,feed,200,https://www.strettoweb.com/feed/,30,https://www.strettoweb.com/sitemaps/sitemap-news.xml
+si,nordest,Il Resto del Carlino Reggio Emilia,https://www.ilrestodelcarlino.it/reggio-emilia,https://www.ilrestodelcarlino.it/reggio-emilia/rss,RE,Reggio Emilia,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/reggio-emilia/rss,100,
+si,nordest,Gazzetta di Reggio,https://www.gazzettadireggio.it,,RE,Reggio Emilia,quotidiano_locale,SAE,it,misto,200,senza feed,homepage,200,,,
+si,nordest,Reggio Sera,https://www.reggiosera.it,https://www.reggiosera.it/feed/,RE,Reggio Emilia,sito_locale,indipendente,it,no,200,,feed,200,https://www.reggiosera.it/feed/,10,
+si,nordest,Reggionline (Telereggio),https://www.reggionline.com,https://www.reggionline.com/feed/,RE,Reggio Emilia,tv_locale,altro (Telereggio),it,no,200,,feed,200,https://www.reggionline.com/feed/,10,
+si,isole,Corriere di Ragusa,https://corrierediragusa.it,https://corrierediragusa.it/feed/,RG,Ragusa,sito_locale,indipendente,it,no,200,,feed,200,https://corrierediragusa.it/feed/,15,
+si,isole,RagusaNews,https://www.ragusanews.com,https://ragusanews.com/rss_feed.xml,RG,Ragusa,sito_locale,indipendente,it,no,200,,feed,200,https://ragusanews.com/rss_feed.xml,40,https://www.ragusanews.com/sitemap_index.xml
+si,isole,RagusaOggi,https://www.ragusaoggi.it,https://www.ragusaoggi.it/feed/,RG,Ragusa,sito_locale,indipendente,it,no,200,,feed,200,https://www.ragusaoggi.it/feed/,10,https://www.ragusaoggi.it/sitemap-news.xml
+si,centro,Il Messaggero - Rieti,https://www.ilmessaggero.it/rieti/,,RI,Rieti,edizione_locale,Caltagirone,it,misto,200,anti-bot 418 sui feed; senza feed verificato,sitemap,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews
+si,centro,RietiLife,https://www.rietilife.com/,https://www.rietilife.com/feed/,RI,Rieti,sito_locale,indipendente,it,no,200,,google_news,403,,,
+si,centro,Corriere della Sera - Roma,https://roma.corriere.it/,,RM,Roma,edizione_locale,RCS,it,misto,200,senza feed (xml2.corriereobjects fermo al 2022),homepage,200,,,
+si,centro,Il Messaggero - Roma,https://www.ilmessaggero.it/roma/,,RM,Roma,edizione_locale,Caltagirone,it,misto,200,anti-bot (418) sui feed; feed probabile https://www.ilmessaggero.it/rss/roma.xml non verificabile,sitemap,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews
+si,centro,la Repubblica Roma,https://roma.repubblica.it/,,RM,Roma,edizione_locale,GEDI,it,misto,200,senza feed (rss locale fermo al 2023),feed_scoperto,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,
+si,centro,Il Tempo - Roma Capitale,https://www.iltempo.it/roma-capitale/,https://www.iltempo.it/arc/outboundfeeds/rss/category/roma-capitale/?outputType=xml,RM,Roma,quotidiano_locale,altro (Angelucci),it,misto,200,feed della sezione Roma,feed,200,https://www.iltempo.it/arc/outboundfeeds/rss/category/roma-capitale/?outputType=xml,20,https://www.iltempo.it/arc/outboundfeeds/sitemap-news-index/?outputType=xml
+si,centro,Abitare a Roma,https://abitarearoma.it/,https://abitarearoma.it/feed/,RM,Roma,sito_locale,indipendente,it,no,200,iperlocale quartieri e municipi,feed,200,https://abitarearoma.it/feed/,15,https://abitarearoma.it/sitemap-news.xml
+si,centro,Castelli Notizie,https://www.castellinotizie.it/,https://www.castellinotizie.it/feed/,RM,Castelli Romani,sito_locale,indipendente,it,no,200,Castelli Romani,feed,200,https://www.castellinotizie.it/feed/,10,
+si,centro,Il Faro online,https://www.ilfaroonline.it/,https://www.ilfaroonline.it/feed/,RM,Fiumicino,sito_locale,indipendente,it,no,200,"litorale romano: Ostia, Fiumicino, Anzio",feed,200,https://www.ilfaroonline.it/feed/,10,
+si,centro,Il Mamilio,https://www.ilmamilio.it/wp/,https://www.ilmamilio.it/wp/feed/,RM,Castelli Romani,sito_locale,indipendente,it,no,200,Castelli Romani,feed,200,https://www.ilmamilio.it/wp/feed/,10,
+si,centro,RomaIT,https://www.romait.it/,https://www.romait.it/feed/,RM,Roma,sito_locale,indipendente,it,no,200,,feed,200,https://www.romait.it/feed/,10,https://www.romait.it/sitemap-news.xml
+si,centro,RomaToday,https://www.romatoday.it/,https://www.romatoday.it/rss,RM,Roma,sito_locale,Citynews,it,no,200,,feed,200,https://www.romatoday.it/rss,25,https://www.romatoday.it/sitemaps/sitemap_news.xml
+si,centro,TGR Lazio,https://www.rainews.it/tgr/lazio,https://www.rainews.it/tgr/lazio/rss/tutti,RM,Roma,tv_locale,Rai,it,no,200,regionale Lazio,feed,200,https://www.rainews.it/tgr/lazio/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordest,Il Resto del Carlino Rimini,https://www.ilrestodelcarlino.it/rimini,https://www.ilrestodelcarlino.it/rimini/rss,RN,Rimini,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.ilrestodelcarlino.it/rimini/rss,89,
+si,nordest,altarimini,https://altarimini.it,https://altarimini.it/feed/,RN,Rimini,sito_locale,indipendente,it,no,200,,feed,200,https://altarimini.it/feed/,20,https://altarimini.it/gnews/altarimini.it.xml
+si,nordest,Chiamami Città,https://www.chiamamicitta.it,https://www.chiamamicitta.it/feed/,RN,Rimini,sito_locale,indipendente,it,no,200,,feed,200,https://www.chiamamicitta.it/feed/,10,
+si,nordest,NewsRimini,https://www.newsrimini.it,https://www.newsrimini.it/feed/rss,RN,Rimini,sito_locale,indipendente,it,no,200,,feed,200,https://www.newsrimini.it/feed/rss,20,https://www.newsrimini.it/sitemap.xml
+si,nordest,RiminiToday,https://www.riminitoday.it,https://www.riminitoday.it/rss,RN,Rimini,sito_locale,Citynews,it,no,200,,feed,200,https://www.riminitoday.it/rss,25,https://www.riminitoday.it/sitemaps/sitemap_news.xml
+si,nordest,Il Resto del Carlino Rovigo,https://www.ilrestodelcarlino.it/rovigo,https://www.ilrestodelcarlino.it/veneto/rss,RO,Rovigo,edizione_locale,Monrifs (QN),it,misto,200,/rovigo reindirizza a /veneto,feed,200,https://www.ilrestodelcarlino.it/veneto/rss,6,
+si,nordest,Polesine24,https://www.polesine24.it,https://www.polesine24.it/rss.jsp,RO,Rovigo,quotidiano_locale,altro,it,misto,200,ex La Voce di Rovigo,feed,200,https://www.polesine24.it/rss.jsp,20,https://www.polesine24.it/siteMapNews.jsp
+si,nordest,RovigoOggi (Rovigo.News),https://www.rovigooggi.it,https://www.rovigo.news/feed/,RO,Rovigo,sito_locale,indipendente,it,no,200,ora brand Rovigo.News; il vecchio /rss.xml è fermo al 2022,feed,SSLError,https://www.rovigo.news/feed/,14,
+si,sud,Il Mattino - Salerno,https://www.ilmattino.it/salerno/,,SA,Salerno,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418),sitemap,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews
+si,sud,La Città di Salerno,https://www.lacittadisalerno.it/,,SA,Salerno,quotidiano_locale,altro (editore locale),it,misto,403,"senza feed; 403 anti-bot, attiva nel 2026",google_news,403,,,
+si,sud,Le Cronache,https://www.lecronache.info/,https://www.lecronache.info/feed/,SA,Salerno,quotidiano_locale,indipendente,it,no,200,quotidiano di Salerno,feed,200,https://www.lecronache.info/feed/,15,
+si,sud,InfoCilento,https://www.infocilento.it/,https://www.infocilento.it/feed/,SA,Agropoli,sito_locale,indipendente,it,no,200,Cilento e Vallo di Diano,feed,200,https://www.infocilento.it/feed/,18,
+si,sud,Positanonews,https://www.positanonews.it/,https://www.positanonews.it/feed/,SA,Positano,sito_locale,indipendente,it,no,200,Costiera amalfitana e sorrentina,feed,200,https://www.positanonews.it/feed/,10,
+si,sud,Salernonotizie,https://www.salernonotizie.it/,https://www.salernonotizie.it/feed/,SA,Salerno,sito_locale,indipendente,it,no,200,,feed,200,https://www.salernonotizie.it/feed/,20,
+si,sud,SalernoToday,https://www.salernotoday.it/,https://www.salernotoday.it/rss,SA,Salerno,sito_locale,Citynews,it,no,200,,feed,200,https://www.salernotoday.it/rss,25,https://www.salernotoday.it/sitemaps/sitemap_news.xml
+si,sud,Zerottonove,https://www.zerottonove.it/,,SA,Salerno,sito_locale,indipendente,it,no,,"senza feed; errore SSL allo script, sito attivo",google_news,SSLError,,,
+si,sud,Telecolore,https://www.telecolore.it/,https://www.telecolore.it/feed/,SA,Salerno,tv_locale,indipendente,it,no,200,,feed,200,https://www.telecolore.it/feed/,10,
+si,centro,La Nazione - Siena,https://www.lanazione.it/siena,https://www.lanazione.it/siena/rss,SI,Siena,edizione_locale,Monrif (QN),it,misto,200,,feed,200,https://www.lanazione.it/siena/rss,81,
+si,centro,Il Cittadino Online,https://www.ilcittadinoonline.it/,https://www.ilcittadinoonline.it/feed/,SI,Siena,sito_locale,indipendente,it,no,200,feed dichiarato ma risponde 400 allo script (probabile anti-bot),homepage,200,,,
+si,centro,Siena Free,https://sienafree.it/,https://sienafree.it/feed,SI,Siena,sito_locale,indipendente,it,no,200,,feed,200,https://sienafree.it/feed,20,
+si,centro,Siena News,https://sienanews.it/,https://sienanews.it/feed/,SI,Siena,sito_locale,indipendente,it,no,200,usare dominio senza www (www da errore SSL),feed,200,https://sienanews.it/feed/,15,https://sienanews.it/sitemap_index.xml
+si,nordovest,SondrioToday,https://www.sondriotoday.it,https://www.sondriotoday.it/rss,SO,Sondrio,sito_locale,Citynews,it,no,200,,feed,200,https://www.sondriotoday.it/rss,25,https://www.sondriotoday.it/sitemaps/sitemap_news.xml
+si,nordovest,Valtellina News,https://www.valtellinanews.it,,SO,Sondrio,sito_locale,indipendente,it,no,200,senza feed,sitemap,200,,23,https://www.valtellinanews.it/sitemap_index.xml
+si,nordovest,La Nazione La Spezia,https://www.lanazione.it/la-spezia,https://www.lanazione.it/la-spezia/rss,SP,La Spezia,edizione_locale,Monrifs (QN),it,misto,200,,feed,200,https://www.lanazione.it/la-spezia/rss,42,
+si,nordovest,Città della Spezia,https://www.cittadellaspezia.com,https://www.cittadellaspezia.com/feed/,SP,La Spezia,sito_locale,indipendente,it,no,200,,feed,200,https://www.cittadellaspezia.com/feed/,30,
+si,isole,SiracusaNews,https://www.siracusanews.it,https://www.siracusanews.it/feed/,SR,Siracusa,sito_locale,indipendente,it,no,200,,feed,200,https://www.siracusanews.it/feed/,20,https://www.siracusanews.it/sitemap_index.xml
+si,isole,SiracusaOggi,https://www.siracusaoggi.it,https://www.siracusaoggi.it/feed/,SR,Siracusa,sito_locale,indipendente,it,no,200,feed con 5 elementi,feed,200,https://www.siracusaoggi.it/feed/,5,
+si,isole,WebMarte,https://www.webmarte.tv,https://www.webmarte.tv/feed/,SR,Siracusa,tv_locale,indipendente,it,no,200,web tv siracusana,feed,200,https://www.webmarte.tv/feed/,10,https://www.webmarte.tv/sitemap-news.xml
+si,isole,La Nuova Sardegna,https://www.lanuovasardegna.it,https://www.lanuovasardegna.it/rss/newsstand/finegil/lanuovasardegna/feed.rss,SS,Sassari,quotidiano_locale,SAE,it,misto,200,"regionale Sardegna; feed storico restituisce 403 allo script, probabilmente non piu attivo: usare homepage",homepage,200,,,
+si,isole,AlgheroEco,https://www.algheroeco.com,https://www.algheroeco.com/feed/,SS,Alghero,sito_locale,indipendente,it,no,200,,feed,200,https://www.algheroeco.com/feed/,10,
+si,isole,Alguer.it,https://www.alguer.it,https://www.alguer.it/notizie/rss.php,SS,Alghero,sito_locale,indipendente,it,no,200,,feed,200,https://www.alguer.it/notizie/rss.php,10,
+si,isole,Gallura Oggi,https://www.galluraoggi.it,https://www.galluraoggi.it/feed/,SS,Olbia,sito_locale,indipendente,it,no,200,"Gallura (provincia Nord-Est Sardegna, sigla legacy SS)",feed,200,https://www.galluraoggi.it/feed/,10,
+si,isole,Olbia.it,https://www.olbia.it,https://www.olbia.it/rss,SS,Olbia,sito_locale,indipendente,it,no,200,"Gallura (provincia Nord-Est Sardegna, sigla legacy SS)",feed,200,https://www.olbia.it/rss,100,
+si,isole,SassariNotizie,https://www.sassarinotizie.com,https://www.sassarinotizie.com/feed/,SS,Sassari,sito_locale,indipendente,it,no,200,,feed,200,https://www.sassarinotizie.com/feed/,10,
+si,isole,La Provincia del Sulcis Iglesiente,https://www.laprovinciadelsulcisiglesiente.com,https://www.laprovinciadelsulcisiglesiente.com/feed/,SU,Carbonia,sito_locale,indipendente,it,no,errore SSL,attivo (articoli 27/9/2026 via WebFetch) ma script e curl falliscono per SSL; feed non verificato,feed,200,https://www.laprovinciadelsulcisiglesiente.com/feed/,10,
+si,nordovest,La Stampa Savona,https://www.lastampa.it/savona,https://www.lastampa.it/savona/rss,SV,Savona,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/savona/rss,100,
+si,nordovest,IVG - Il Vostro Giornale,https://www.ivg.it,https://www.ivg.it/feed/,SV,Savona,sito_locale,altro (rete 24 Liguria),it,no,403,403 anti-bot anche sul feed,google_news,403,,,
+si,nordovest,SavonaNews,https://www.savonanews.it,https://www.savonanews.it/rss.xml,SV,Savona,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.savonanews.it/rss.xml,20,
+si,sud,Buonasera24 (Taranto Buonasera),https://www.buonasera24.it/,,TA,Taranto,quotidiano_locale,indipendente,it,no,200,senza feed funzionante; ex tarantobuonasera.it,sitemap,200,,117,https://www.buonasera24.it/siteMapNews.jsp
+si,sud,Corriere di Taranto,https://www.corriereditaranto.it/,https://www.corriereditaranto.it/feed/,TA,Taranto,sito_locale,indipendente,it,no,200,"ex Ilva, ambiente",google_news,403,,,
+si,sud,ManduriaOggi,https://www.manduriaoggi.it/,https://www.manduriaoggi.it/rss,TA,Manduria,sito_locale,indipendente,it,no,200,provincia orientale di Taranto,feed,200,https://www.manduriaoggi.it/rss,20,
+si,centro,Certastampa,https://www.certastampa.it/,https://www.certastampa.it/?format=feed&type=rss,TE,Teramo,sito_locale,indipendente,it,no,200,,feed,200,https://www.certastampa.it/?format=feed&type=rss,10,
+si,centro,Ekuonews,https://www.ekuonews.it/,https://www.ekuonews.it/feed/,TE,Teramo,sito_locale,indipendente,it,no,200,,feed,200,https://www.ekuonews.it/feed/,50,https://www.ekuonews.it/backend/api/sitemap.xml
+si,nordest,Corriere del Trentino,https://corrieredeltrentino.corriere.it,,TN,Trento,edizione_locale,RCS,it,misto,200,senza feed; include Alto Adige (corrierealtoadige non risolve),homepage,200,,,
+si,nordest,il T quotidiano,https://www.iltquotidiano.it,,TN,Trento,quotidiano_locale,altro (indipendente trentino),it,misto,200,feed WordPress vuoto; senza feed,homepage,200,,,
+si,nordest,l'Adige,https://www.ladige.it,https://www.ladige.it/sitemaps/ladige/rss,TN,Trento,quotidiano_locale,altro (Athesia),it,misto,200,,feed,200,https://www.ladige.it/sitemaps/ladige/rss,100,
+si,nordest,Vita Trentina,https://www.vitatrentina.it,https://www.vitatrentina.it/feed/,TN,Trento,settimanale,altro (diocesano),it,no,200,settimanale diocesano,feed,200,https://www.vitatrentina.it/feed/,12,
+si,nordest,il Dolomiti,https://www.ildolomiti.it,https://www.ildolomiti.it/rss.xml,TN,Trento,sito_locale,indipendente,it,no,200,copre anche Alto Adige e Belluno,feed,200,https://www.ildolomiti.it/rss.xml,50,https://www.ildolomiti.it/sitemaps/news.xml
+si,nordest,TrentoToday,https://www.trentotoday.it,https://www.trentotoday.it/rss,TN,Trento,sito_locale,Citynews,it,no,200,,feed,200,https://www.trentotoday.it/rss,25,https://www.trentotoday.it/sitemaps/sitemap_news.xml
+si,nordest,TGR Trento,https://www.rainews.it/tgr/trento,https://www.rainews.it/tgr/trento/rss/tutti,TN,Trento,tv_locale,Rai,it,no,200,,feed,200,https://www.rainews.it/tgr/trento/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordovest,Corriere Torino,https://torino.corriere.it,,TO,Torino,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2022),homepage,200,,,
+si,nordovest,La Stampa Torino,https://www.lastampa.it/torino,https://www.lastampa.it/torino/rss,TO,Torino,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/torino/rss,100,
+si,nordovest,Repubblica Torino,https://torino.repubblica.it,https://torino.repubblica.it/rss/rss2.0.xml,TO,Torino,edizione_locale,GEDI,it,misto,200,,feed,200,https://torino.repubblica.it/rss/rss2.0.xml,100,
+si,nordovest,Cronaca Qui Torino,https://www.torinocronaca.it,,TO,Torino,quotidiano_locale,indipendente,it,misto,200,senza feed; ex cronacaqui.it,sitemap,200,,268,https://www.torinocronaca.it/siteMapNews.jsp
+si,nordovest,La Sentinella del Canavese,https://lasentinella.it,https://www.lasentinella.it/feed/,TO,Ivrea,quotidiano_locale,altro (ex GEDI),it,misto,200,Canavese; proprietà da verificare dopo cessione GEDI,feed,200,https://www.lasentinella.it/feed/,10,
+si,nordovest,L'Eco del Chisone,https://www.ecodelchisone.it,https://www.ecodelchisone.it/rss.xml,TO,Pinerolo,settimanale,altro (editore diocesano),it,misto,200,Pinerolese,feed,403,https://www.ecodelchisone.it/rss.xml,10,
+si,nordovest,Prima il Canavese,https://primailcanavese.it,https://primailcanavese.it/feed/,TO,Ivrea,settimanale,altro (Netweek),it,no,200,,feed,200,https://primailcanavese.it/feed/,25,
+si,nordovest,Quotidiano Piemontese,https://www.quotidianopiemontese.it,https://www.quotidianopiemontese.it/feed/,TO,Torino,sito_locale,indipendente,it,no,200,regionale Piemonte,feed,200,https://www.quotidianopiemontese.it/feed/,20,https://www.quotidianopiemontese.it/sitemap-news.xml
+si,nordovest,Torino Oggi,https://www.torinoggi.it,https://www.torinoggi.it/rss.xml,TO,Torino,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.torinoggi.it/rss.xml,20,
+si,nordovest,TorinoToday,https://www.torinotoday.it,https://www.torinotoday.it/rss,TO,Torino,sito_locale,Citynews,it,no,200,,feed,200,https://www.torinotoday.it/rss,25,https://www.torinotoday.it/sitemaps/sitemap_news.xml
+si,nordovest,GRP Televisione,https://www.grp.it,,TO,Torino,tv_locale,indipendente,it,no,200,regionale Piemonte; senza feed,sitemap,200,,6,https://grp.it/sitemaps/sitemap-news.xml
+si,nordovest,Primantenna,https://www.primantenna.tv,https://www.primantenna.tv/feed/,TO,Torino,tv_locale,indipendente,it,no,200,regionale Piemonte,feed,200,https://www.primantenna.tv/feed/,10,
+si,nordovest,TGR Piemonte,https://www.rainews.it/tgr/piemonte,https://www.rainews.it/tgr/piemonte/rss/tutti,TO,Torino,tv_locale,Rai,it,no,200,regionale Piemonte,feed,200,https://www.rainews.it/tgr/piemonte/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,isole,Alqamah,https://www.alqamah.it,https://www.alqamah.it/feed/,TP,Alcamo,sito_locale,indipendente,it,no,200,Alcamo e provincia di Trapani,feed,200,https://www.alqamah.it/feed/,10,
+si,isole,Marsala News,https://www.marsalanews.it,https://www.marsalanews.it/feed/,TP,Marsala,sito_locale,indipendente,it,no,200,"script: errore connessione su www, homepage raggiungibile via curl",feed,200,https://www.marsalanews.it/feed/,25,
+si,isole,TP24,https://www.tp24.it,https://www.tp24.it/rss/news.xml,TP,Marsala,sito_locale,indipendente,it,no,200,provincia di Trapani; forte su mafia e giudiziaria,feed,200,https://www.tp24.it/rss/news.xml,40,
+si,isole,TrapaniSì,https://www.trapanisi.it,https://www.trapanisi.it/feed/,TP,Trapani,sito_locale,indipendente,it,no,200,,feed,200,https://www.trapanisi.it/feed/,15,
+si,centro,TerniToday,https://www.ternitoday.it/,https://www.ternitoday.it/rss,TR,Terni,sito_locale,Citynews,it,no,200,,feed,200,https://www.ternitoday.it/rss,25,https://www.ternitoday.it/sitemaps/sitemap_news.xml
+si,centro,UmbriaOn,https://www.umbriaon.it/,https://www.umbriaon.it/feed/,TR,Terni,sito_locale,indipendente,it,no,200,forte su Terni,feed,200,https://www.umbriaon.it/feed/,10,
+si,nordest,Il Piccolo,https://www.ilpiccolo.it,https://www.ilpiccolo.it/sitemap_rss_feed.xml,TS,Trieste,quotidiano_locale,NEM,it,misto,200,anche Gorizia e Monfalcone,feed,200,https://www.ilpiccolo.it/sitemap_rss_feed.xml,74,https://www.ilpiccolo.it/xml/news/sitemap.xml
+si,nordest,Primorski dnevnik,https://www.primorski.eu,https://www.primorski.eu/rss/trzaska,TS,Trieste,quotidiano_locale,altro (minoranza slovena),sl,no,200,quotidiano sloveno; anche feed /rss/goriska,feed,200,https://www.primorski.eu/rss/trzaska,20,
+si,nordest,Trieste Cafe,https://www.triestecafe.it,https://www.triestecafe.it/rss.xml,TS,Trieste,sito_locale,indipendente,it,no,200,,feed,200,https://www.triestecafe.it/rss.xml,50,https://www.triestecafe.it/sitemap-news.xml
+si,nordest,TriestePrima,https://www.triesteprima.it,https://www.triesteprima.it/rss,TS,Trieste,sito_locale,Citynews,it,no,200,,feed,200,https://www.triesteprima.it/rss,25,https://www.triesteprima.it/sitemaps/sitemap_news.xml
+si,nordest,Telequattro,https://telequattro.medianordest.it,https://telequattro.medianordest.it/feed/,TS,Trieste,tv_locale,altro (Medianordest),it,no,200,,feed,200,https://telequattro.medianordest.it/feed/,10,
+si,nordest,TGR Friuli Venezia Giulia,https://www.rainews.it/tgr/fvg,https://www.rainews.it/tgr/fvg/rss/tutti,TS,Trieste,tv_locale,Rai,it,no,200,regionale FVG,feed,200,https://www.rainews.it/tgr/fvg/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordest,La Tribuna di Treviso,https://www.tribunatreviso.it,https://www.tribunatreviso.it/sitemap_rss_feed.xml,TV,Treviso,quotidiano_locale,NEM,it,misto,200,,feed,200,https://www.tribunatreviso.it/sitemap_rss_feed.xml,45,https://www.tribunatreviso.it/xml/news/sitemap.xml
+si,nordest,Il Piave,https://www.ilpiave.it,,TV,Treviso,settimanale,indipendente,it,no,200,senza feed; mensile/online,homepage,200,,,
+si,nordest,OggiTreviso,https://www.oggitreviso.it,https://www.oggitreviso.it/rss.xml,TV,Treviso,sito_locale,indipendente,it,no,200,,google_news,403,,,
+si,nordest,Qdpnews,https://www.qdpnews.it,https://www.qdpnews.it/feed/,TV,Pieve di Soligo,sito_locale,indipendente,it,no,200,"Quartier del Piave, Sinistra Piave",feed,200,https://www.qdpnews.it/feed/,10,
+si,nordest,TrevisoToday,https://www.trevisotoday.it,https://www.trevisotoday.it/rss,TV,Treviso,sito_locale,Citynews,it,no,200,,feed,200,https://www.trevisotoday.it/rss,25,https://www.trevisotoday.it/sitemaps/sitemap_news.xml
+si,nordest,Antenna Tre Nordest,https://antennatre.medianordest.it,https://antennatre.medianordest.it/feed/,TV,Treviso,tv_locale,altro (Medianordest),it,no,200,regionale Veneto,feed,200,https://antennatre.medianordest.it/feed/,10,
+si,nordest,Messaggero Veneto,https://www.messaggeroveneto.it,https://www.messaggeroveneto.it/sitemap_rss_feed.xml,UD,Udine,quotidiano_locale,NEM,it,misto,200,regionale Friuli,feed,200,https://www.messaggeroveneto.it/sitemap_rss_feed.xml,74,https://www.messaggeroveneto.it/xml/news/sitemap.xml
+si,nordest,Il Friuli,https://www.ilfriuli.it,https://www.ilfriuli.it/feed/,UD,Udine,settimanale,indipendente,it,no,200,,feed,200,https://www.ilfriuli.it/feed/,15,
+si,nordest,La Vita Cattolica,https://www.lavitacattolica.it,https://www.lavitacattolica.it/feed/,UD,Udine,settimanale,altro (diocesano),it,no,200,settimanale diocesano,feed,200,https://www.lavitacattolica.it/feed/,10,
+si,nordest,Diario FVG,https://www.diariofvg.it,https://www.diariofvg.it/feed/,UD,Udine,sito_locale,indipendente,it,no,200,regionale FVG,feed,200,https://www.diariofvg.it/feed/,30,
+si,nordest,Friulioggi,https://www.friulioggi.it,https://www.friulioggi.it/feed/,UD,Udine,sito_locale,indipendente,it,no,200,include GoriziaOggi,feed,200,https://www.friulioggi.it/feed/,50,
+si,nordest,UdineToday,https://www.udinetoday.it,https://www.udinetoday.it/rss,UD,Udine,sito_locale,Citynews,it,no,200,,feed,200,https://www.udinetoday.it/rss,25,https://www.udinetoday.it/sitemaps/sitemap_news.xml
+si,nordest,Telefriuli,https://www.telefriuli.it,https://www.telefriuli.it/feed/,UD,Udine,tv_locale,indipendente,it,no,200,,feed,200,https://www.telefriuli.it/feed/,30,
+si,nordovest,La Provincia di Varese,https://www.laprovinciadivarese.it,https://www.laprovinciadivarese.it/feed/,VA,Varese,quotidiano_locale,altro (editore locale),it,misto,200,,feed,200,https://www.laprovinciadivarese.it/feed/,10,
+si,nordovest,Varese News,https://www.varesenews.it,https://www.varesenews.it/feed/,VA,Varese,sito_locale,indipendente,it,no,200,,feed,200,https://www.varesenews.it/feed/,27,https://www.varesenews.it/sitemap.xml
+si,nordovest,La Stampa Verbania,https://www.lastampa.it/verbano-cusio-ossola,https://www.lastampa.it/verbano-cusio-ossola/rss,VB,Verbania,edizione_locale,GEDI,it,misto,200,,feed,200,https://www.lastampa.it/verbano-cusio-ossola/rss,100,
+si,nordovest,Eco Risveglio,https://www.ecorisveglio.it,https://www.ecorisveglio.it/feed/,VB,Domodossola,settimanale,indipendente,it,misto,200,,feed,200,https://www.ecorisveglio.it/feed/,10,
+si,nordovest,Ossola News,https://www.ossolanews.it,https://www.ossolanews.it/rss.xml,VB,Domodossola,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.ossolanews.it/rss.xml,20,
+si,nordovest,VCO News,https://www.vconews.it,https://www.vconews.it/rss.xml,VB,Verbania,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.vconews.it/rss.xml,20,
+si,nordovest,Notizia Oggi Vercelli,https://notiziaoggi.it,https://notiziaoggi.it/feed/,VC,Vercelli,settimanale,altro (Netweek),it,no,200,,feed,200,https://notiziaoggi.it/feed/,20,https://notiziaoggi.it/sitemap-news.xml
+si,nordovest,InfoVercelli24,https://www.infovercelli24.it,https://www.infovercelli24.it/rss.xml,VC,Vercelli,sito_locale,altro (Morenews),it,no,200,,feed,200,https://www.infovercelli24.it/rss.xml,20,
+si,nordest,Corriere del Veneto,https://corrieredelveneto.corriere.it,,VE,Venezia,edizione_locale,RCS,it,misto,200,regionale Veneto; senza feed,homepage,200,,,
+si,nordest,Il Gazzettino,https://www.ilgazzettino.it,https://www.ilgazzettino.it/rss/home.xml,VE,Venezia,quotidiano_locale,Caltagirone,it,misto,200,regionale Veneto e Friuli; redazioni in tutte le province; feed e homepage a volte 418 (anti-bot),google_news,418,,,
+si,nordest,La Nuova Venezia,https://www.nuovavenezia.it,https://www.nuovavenezia.it/sitemap_rss_feed.xml,VE,Mestre,quotidiano_locale,NEM,it,misto,200,,feed,200,https://www.nuovavenezia.it/sitemap_rss_feed.xml,43,https://www.nuovavenezia.it/xml/news/sitemap.xml
+si,nordest,Il Nuovo Terraglio,https://ilnuovoterraglio.it,https://ilnuovoterraglio.it/feed/,VE,Mestre,sito_locale,indipendente,it,no,200,Mestre e terraferma,feed,200,https://ilnuovoterraglio.it/feed/,10,
+si,nordest,VeneziaToday,https://www.veneziatoday.it,https://www.veneziatoday.it/rss,VE,Venezia,sito_locale,Citynews,it,no,200,,feed,200,https://www.veneziatoday.it/rss,25,https://www.veneziatoday.it/sitemaps/sitemap_news.xml
+si,nordest,TGR Veneto,https://www.rainews.it/tgr/veneto,https://www.rainews.it/tgr/veneto/rss/tutti,VE,Venezia,tv_locale,Rai,it,no,200,regionale Veneto,feed,200,https://www.rainews.it/tgr/veneto/rss/tutti,40,https://www.rainews.it/sitemap.xml
+si,nordest,Il Giornale di Vicenza,https://www.ilgiornaledivicenza.it,,VI,Vicenza,quotidiano_locale,Athesis,it,misto,200,senza feed,homepage,200,,,
+si,nordest,Bassanonet,https://www.bassanonet.it,,VI,Bassano del Grappa,sito_locale,indipendente,it,no,200,senza feed funzionante,homepage,200,,,
+si,nordest,VicenzaReport,https://www.vicenzareport.it,https://www.vicenzareport.it/feed/,VI,Vicenza,sito_locale,indipendente,it,no,200,,feed,200,https://www.vicenzareport.it/feed/,20,
+si,nordest,VicenzaToday,https://www.vicenzatoday.it,https://www.vicenzatoday.it/rss,VI,Vicenza,sito_locale,Citynews,it,no,200,feed risponde 403 allo script (anti-bot),sitemap,200,,1,https://www.vicenzatoday.it/sitemaps/sitemap_news.xml
+si,nordest,Rete Veneta,https://reteveneta.medianordest.it,https://reteveneta.medianordest.it/feed/,VI,Vicenza,tv_locale,altro (Medianordest),it,no,200,regionale Veneto,feed,200,https://reteveneta.medianordest.it/feed/,10,
+si,nordest,TVA Vicenza,https://tvavicenza.gruppovideomedia.it,,VI,Vicenza,tv_locale,altro (Videomedia),it,no,200,senza feed,homepage,200,,,
+si,nordest,L'Arena,https://www.larena.it,,VR,Verona,quotidiano_locale,Athesis,it,misto,200,senza feed (sitemap.xml),homepage,200,,,
+si,nordest,Verona Network,https://www.veronanetwork.it,https://www.veronanetwork.it/feed/,VR,Verona,sito_locale,indipendente,it,no,200,,feed,200,https://www.veronanetwork.it/feed/,10,
+si,nordest,Verona Oggi,https://www.veronaoggi.it,https://www.veronaoggi.it/feed/,VR,Verona,sito_locale,indipendente,it,no,200,,feed,200,https://www.veronaoggi.it/feed/,10,
+si,nordest,VeronaSera,https://www.veronasera.it,https://www.veronasera.it/rss,VR,Verona,sito_locale,Citynews,it,no,200,,feed,200,https://www.veronasera.it/rss,25,https://www.veronasera.it/sitemaps/sitemap_news.xml
+si,nordest,Telearena,https://www.telearena.it,,VR,Verona,tv_locale,Athesis,it,no,200,senza feed,homepage,200,,,
+si,centro,Il Messaggero - Viterbo,https://www.ilmessaggero.it/viterbo/,,VT,Viterbo,edizione_locale,Caltagirone,it,misto,418,anti-bot 418; senza feed verificato,google_news,418,,,
+si,centro,Corriere di Viterbo,https://www.corrierediviterbo.it/,https://www.corrierediviterbo.it/feed/,VT,Viterbo,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,,feed,200,https://www.corrierediviterbo.it/feed/,10,
+si,centro,Tusciaweb,https://www.tusciaweb.eu/,https://www.tusciaweb.eu/feed/,VT,Viterbo,sito_locale,indipendente,it,no,200,molto prolifico,feed_scoperto,200,https://www.tusciaweb.eu/comments/feed/,25,
+si,centro,ViterboToday,https://www.viterbotoday.it/,https://www.viterbotoday.it/rss,VT,Viterbo,sito_locale,Citynews,it,no,200,,feed,200,https://www.viterbotoday.it/rss,25,https://www.viterbotoday.it/sitemaps/sitemap_news.xml
+si,sud,Il Vibonese,https://www.ilvibonese.it/,https://www.ilvibonese.it/sitemaps/vibonese/rss,VV,Vibo Valentia,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,,feed,200,https://www.ilvibonese.it/sitemaps/vibonese/rss,100,
+si,sud,LaC News24,https://www.lacnews24.it/,https://www.lacnews24.it/sitemaps/lacnews24/rss,VV,Vibo Valentia,tv_locale,altro (Diemmecom - gruppo LaC),it,no,200,regionale Calabria,feed,200,https://www.lacnews24.it/sitemaps/lacnews24/rss,100,https://www.lacnews24.it/sitemaps/lacnews24/sitemap_index.xml
