@@ -29,3 +29,6 @@ Gruppi Facebook non accessibili; Reddit richiede un'app. Possibile aggiunta futu
 
 ## Infrastruttura
 Repository pubblico (minuti GitHub illimitati). Segreti: ANTHROPIC_API_KEY, GMAIL_APP_PASSWORD, GMAIL_UTENTE, EMAIL_DESTINATARIO. Giudizio: Claude Opus 5, 100 candidati al giorno. Preferenze del giornalista in `data/preferenze.md`.
+
+## Taratura (2026-09-27)
+Dopo la prima email: meno colore e folklore, più concretezza (impianti e opere contestate, scuole, sanità, cronaca notevole, questioni di cui parla la città). Istruzioni del giudizio aggiornate; i candidati includono anche le storie riprese da più testate indipendenti della stessa provincia.
