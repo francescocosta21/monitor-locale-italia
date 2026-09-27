@@ -1,0 +1,97 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Corriere della Sera Milano,https://milano.corriere.it,,MI,Milano,edizione_locale,RCS,it,misto,200,senza feed (feed xml2.corriereobjects fermi al 2022)
+Repubblica Milano,https://milano.repubblica.it,,MI,Milano,edizione_locale,GEDI,it,misto,200,senza feed (feed locale fermo al 2023)
+MilanoToday,https://www.milanotoday.it,https://www.milanotoday.it/rss,MI,Milano,sito_locale,Citynews,it,no,200,
+Il Giorno Milano,https://www.ilgiorno.it/milano,https://www.ilgiorno.it/milano/rss,MI,Milano,quotidiano_locale,Monrifs (QN),it,misto,200,quotidiano regionale Lombardia; sezioni provinciali
+Telelombardia,https://www.mediapason.it/telelombardia/,https://www.mediapason.it/feed/,MI,Milano,tv_locale,altro (Mediapason),it,no,200,"regionale; feed comune gruppo Mediapason, poco frequente"
+TGR Lombardia,https://www.rainews.it/tgr/lombardia,https://www.rainews.it/tgr/lombardia/rss/tutti,MI,Milano,tv_locale,Rai,it,no,200,regionale Lombardia
+L'Eco di Bergamo,https://www.ecodibergamo.it,https://www.ecodibergamo.it/feeds/latesthp/268/,BG,Bergamo,quotidiano_locale,Sesaab,it,misto,200,
+Bergamonews,https://www.bergamonews.it,https://www.bergamonews.it/feed/,BG,Bergamo,sito_locale,indipendente,it,no,200,
+Corriere Bergamo,https://bergamo.corriere.it,,BG,Bergamo,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2023)
+Giornale di Brescia,https://www.giornaledibrescia.it,,BS,Brescia,quotidiano_locale,Editoriale Bresciana,it,misto,200,senza feed
+Bresciaoggi,https://www.bresciaoggi.it,,BS,Brescia,quotidiano_locale,Athesis,it,misto,200,senza feed
+BresciaToday,https://www.bresciatoday.it,https://www.bresciatoday.it/rss,BS,Brescia,sito_locale,Citynews,it,no,200,
+QuiBrescia,https://www.quibrescia.it,https://www.quibrescia.it/feed/,BS,Brescia,sito_locale,indipendente,it,no,200,
+Corriere Brescia,https://brescia.corriere.it,,BS,Brescia,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2023)
+Teletutto,https://www.teletutto.it,,BS,Brescia,tv_locale,Editoriale Bresciana,it,no,200,senza feed
+Varese News,https://www.varesenews.it,https://www.varesenews.it/feed/,VA,Varese,sito_locale,indipendente,it,no,200,
+La Provincia di Varese,https://www.laprovinciadivarese.it,https://www.laprovinciadivarese.it/feed/,VA,Varese,quotidiano_locale,altro (editore locale),it,misto,200,
+La Provincia di Como,https://www.laprovinciadicomo.it,,CO,Como,quotidiano_locale,Sesaab,it,misto,200,senza feed
+CiaoComo,https://www.ciaocomo.it,https://www.ciaocomo.it/feed/,CO,Como,sito_locale,indipendente,it,no,200,
+QuiComo,https://www.quicomo.it,https://www.quicomo.it/rss,CO,Como,sito_locale,Citynews,it,no,200,
+Il Cittadino di Monza e Brianza,https://www.ilcittadinomb.it,https://www.ilcittadinomb.it/feed/,MB,Monza,quotidiano_locale,Sesaab,it,misto,200,
+MBNews,https://www.mbnews.it,https://cdn.mbnews.it/?feed=news-news24,MB,Monza,sito_locale,indipendente,it,no,200,
+MonzaToday,https://www.monzatoday.it,https://www.monzatoday.it/rss,MB,Monza,sito_locale,Citynews,it,no,200,
+Il Giorno Monza Brianza,https://www.ilgiorno.it/monza-brianza,https://www.ilgiorno.it/monza-brianza/rss,MB,Monza,quotidiano_locale,Monrifs (QN),it,misto,200,
+La Provincia Unica Tv (Lecco-Sondrio),https://www.laprovinciaunicatv.it,,LC,Lecco,quotidiano_locale,Sesaab,it,misto,200,senza feed; ha assorbito i siti La Provincia di Lecco e di Sondrio
+LeccoToday,https://www.leccotoday.it,https://www.leccotoday.it/rss,LC,Lecco,sito_locale,Citynews,it,no,200,
+SondrioToday,https://www.sondriotoday.it,https://www.sondriotoday.it/rss,SO,Sondrio,sito_locale,Citynews,it,no,200,
+Valtellina News,https://www.valtellinanews.it,,SO,Sondrio,sito_locale,indipendente,it,no,200,senza feed
+La Provincia Pavese,https://laprovinciapavese.gelocal.it/pavia/,https://laprovinciapavese.gelocal.it/rss/finegil/laprovinciapavese/feed.rss,PV,Pavia,quotidiano_locale,altro (ex GEDI),it,misto,200,proprietà da verificare dopo cessione GEDI
+Vigevano24,https://www.vigevano24.it,https://www.vigevano24.it/rss.xml,PV,Vigevano,sito_locale,altro (Morenews),it,no,200,Lomellina
+La Provincia di Cremona,https://www.laprovinciacr.it,,CR,Cremona,quotidiano_locale,altro (Società Editoriale Cremonese),it,misto,200,senza feed
+CremonaOggi,https://www.cremonaoggi.it,https://www.cremonaoggi.it/feed/,CR,Cremona,sito_locale,indipendente,it,no,200,
+OglioPoNews,https://www.oglioponews.it,https://www.oglioponews.it/feed/,CR,Casalmaggiore,sito_locale,indipendente,it,no,200,Casalasco e Oglio Po
+Gazzetta di Mantova,https://www.gazzettadimantova.it,,MN,Mantova,quotidiano_locale,altro (ex GEDI),it,misto,200,senza feed; proprietà da verificare dopo cessione GEDI
+La Voce di Mantova,https://vocedimantova.it,https://vocedimantova.it/feed/,MN,Mantova,quotidiano_locale,indipendente,it,misto,200,
+MantovaUno,https://mantovauno.it,https://mantovauno.it/feed/,MN,Mantova,sito_locale,indipendente,it,no,200,
+Il Cittadino di Lodi,https://www.ilcittadino.it,,LO,Lodi,quotidiano_locale,altro (Diocesi di Lodi),it,misto,200,senza feed
+Il Giorno Lodi,https://www.ilgiorno.it/lodi,https://www.ilgiorno.it/lodi/rss,LO,Lodi,quotidiano_locale,Monrifs (QN),it,misto,200,
+La Stampa Torino,https://www.lastampa.it/torino,https://www.lastampa.it/torino/rss,TO,Torino,edizione_locale,GEDI,it,misto,200,
+Corriere Torino,https://torino.corriere.it,,TO,Torino,edizione_locale,RCS,it,misto,200,senza feed (feed fermo al 2022)
+Repubblica Torino,https://torino.repubblica.it,https://torino.repubblica.it/rss/rss2.0.xml,TO,Torino,edizione_locale,GEDI,it,misto,200,
+TorinoToday,https://www.torinotoday.it,https://www.torinotoday.it/rss,TO,Torino,sito_locale,Citynews,it,no,200,
+Torino Oggi,https://www.torinoggi.it,https://www.torinoggi.it/rss.xml,TO,Torino,sito_locale,altro (Morenews),it,no,200,
+Cronaca Qui Torino,https://www.torinocronaca.it,,TO,Torino,quotidiano_locale,indipendente,it,misto,200,senza feed; ex cronacaqui.it
+Quotidiano Piemontese,https://www.quotidianopiemontese.it,https://www.quotidianopiemontese.it/feed/,TO,Torino,sito_locale,indipendente,it,no,200,regionale Piemonte
+TGR Piemonte,https://www.rainews.it/tgr/piemonte,https://www.rainews.it/tgr/piemonte/rss/tutti,TO,Torino,tv_locale,Rai,it,no,200,regionale Piemonte
+GRP Televisione,https://www.grp.it,,TO,Torino,tv_locale,indipendente,it,no,200,regionale Piemonte; senza feed
+Primantenna,https://www.primantenna.tv,https://www.primantenna.tv/feed/,TO,Torino,tv_locale,indipendente,it,no,200,regionale Piemonte
+La Sentinella del Canavese,https://lasentinella.it,https://www.lasentinella.it/feed/,TO,Ivrea,quotidiano_locale,altro (ex GEDI),it,misto,200,Canavese; proprietà da verificare dopo cessione GEDI
+Prima il Canavese,https://primailcanavese.it,https://primailcanavese.it/feed/,TO,Ivrea,settimanale,altro (Netweek),it,no,200,
+L'Eco del Chisone,https://www.ecodelchisone.it,https://www.ecodelchisone.it/rss.xml,TO,Pinerolo,settimanale,altro (editore diocesano),it,misto,200,Pinerolese
+La Stampa Cuneo,https://www.lastampa.it/cuneo,https://www.lastampa.it/cuneo/rss,CN,Cuneo,edizione_locale,GEDI,it,misto,200,
+Targatocn,https://www.targatocn.it,https://www.targatocn.it/rss.xml,CN,Cuneo,sito_locale,altro (Morenews),it,no,200,
+Cuneodice,https://www.cuneodice.it,https://www.cuneodice.it/rss/prima-pagina/rss2.0.xml,CN,Cuneo,sito_locale,indipendente,it,no,200,
+La Guida,https://laguida.it,https://laguida.it/rss.xml,CN,Cuneo,settimanale,altro (editore diocesano),it,misto,200,
+La Voce di Alba,https://www.lavocedialba.it,https://www.lavocedialba.it/rss.xml,CN,Alba,sito_locale,altro (Morenews),it,no,200,Langhe e Roero
+Il Piccolo di Alessandria,https://www.ilpiccolo.net,https://www.ilpiccolo.net/feed/,AL,Alessandria,quotidiano_locale,indipendente,it,misto,200,
+Radio Gold,https://radiogold.it,https://radiogold.it/feed/,AL,Alessandria,sito_locale,indipendente,it,no,200,radio con redazione news
+La Stampa Alessandria,https://www.lastampa.it/alessandria,https://www.lastampa.it/alessandria/rss,AL,Alessandria,edizione_locale,GEDI,it,misto,200,
+ATnews,https://www.atnews.it,https://www.atnews.it/feed/,AT,Asti,sito_locale,indipendente,it,no,200,
+La Voce di Asti,https://www.lavocediasti.it,https://www.lavocediasti.it/rss.xml,AT,Asti,sito_locale,altro (Morenews),it,no,200,
+La Stampa Asti,https://www.lastampa.it/asti,https://www.lastampa.it/asti/rss,AT,Asti,edizione_locale,GEDI,it,misto,200,
+NovaraToday,https://www.novaratoday.it,https://www.novaratoday.it/rss,NO,Novara,sito_locale,Citynews,it,no,200,
+Corriere di Novara,https://corrieredinovara.it,https://corrieredinovara.it/feed/,NO,Novara,settimanale,altro (Netweek),it,no,200,
+La Voce di Novara,https://www.lavocedinovara.com,https://www.lavocedinovara.com/feed/,NO,Novara,sito_locale,indipendente,it,no,200,
+La Stampa Novara,https://www.lastampa.it/novara,https://www.lastampa.it/novara/rss,NO,Novara,edizione_locale,GEDI,it,misto,200,
+La Provincia di Biella,https://laprovinciadibiella.it,https://laprovinciadibiella.it/feed/,BI,Biella,quotidiano_locale,indipendente,it,misto,200,
+NewsBiella,https://www.newsbiella.it,https://www.newsbiella.it/rss.xml,BI,Biella,sito_locale,altro (Morenews),it,no,200,
+InfoVercelli24,https://www.infovercelli24.it,https://www.infovercelli24.it/rss.xml,VC,Vercelli,sito_locale,altro (Morenews),it,no,200,
+Notizia Oggi Vercelli,https://notiziaoggi.it,https://notiziaoggi.it/feed/,VC,Vercelli,settimanale,altro (Netweek),it,no,200,
+VCO News,https://www.vconews.it,https://www.vconews.it/rss.xml,VB,Verbania,sito_locale,altro (Morenews),it,no,200,
+Ossola News,https://www.ossolanews.it,https://www.ossolanews.it/rss.xml,VB,Domodossola,sito_locale,altro (Morenews),it,no,200,
+Eco Risveglio,https://www.ecorisveglio.it,https://www.ecorisveglio.it/feed/,VB,Domodossola,settimanale,indipendente,it,misto,200,
+La Stampa Verbania,https://www.lastampa.it/verbano-cusio-ossola,https://www.lastampa.it/verbano-cusio-ossola/rss,VB,Verbania,edizione_locale,GEDI,it,misto,200,
+Il Secolo XIX,https://www.ilsecoloxix.it,https://www.ilsecoloxix.it/rss,GE,Genova,quotidiano_locale,altro (Blue Media / MSC),it,misto,429,"regionale Liguria; 429 anti-bot, feed non verificabile; ha edizioni Savona/Imperia/Spezia"
+Repubblica Genova,https://genova.repubblica.it,,GE,Genova,edizione_locale,GEDI,it,misto,200,senza feed (feed locale fermo al 2023)
+Genova24,https://www.genova24.it,https://www.genova24.it/feed/,GE,Genova,sito_locale,altro (rete 24 Liguria),it,no,403,403 anti-bot anche sul feed
+GenovaToday,https://www.genovatoday.it,https://www.genovatoday.it/rss,GE,Genova,sito_locale,Citynews,it,no,200,
+Primocanale,https://www.primocanale.it,,GE,Genova,tv_locale,indipendente,it,no,200,regionale Liguria; senza feed
+TGR Liguria,https://www.rainews.it/tgr/liguria,https://www.rainews.it/tgr/liguria/rss/tutti,GE,Genova,tv_locale,Rai,it,no,200,regionale Liguria
+Levante News,https://www.levantenews.it,https://www.levantenews.it/feed/,GE,Lavagna,sito_locale,indipendente,it,no,200,Tigullio
+IVG - Il Vostro Giornale,https://www.ivg.it,https://www.ivg.it/feed/,SV,Savona,sito_locale,altro (rete 24 Liguria),it,no,403,403 anti-bot anche sul feed
+SavonaNews,https://www.savonanews.it,https://www.savonanews.it/rss.xml,SV,Savona,sito_locale,altro (Morenews),it,no,200,
+La Stampa Savona,https://www.lastampa.it/savona,https://www.lastampa.it/savona/rss,SV,Savona,edizione_locale,GEDI,it,misto,200,
+Riviera24,https://www.riviera24.it,https://www.riviera24.it/feed/,IM,Sanremo,sito_locale,altro (rete 24 Liguria),it,no,200,
+SanremoNews,https://www.sanremonews.it,https://www.sanremonews.it/rss.xml,IM,Sanremo,sito_locale,altro (Morenews),it,no,200,
+ImperiaPost,https://imperiapost.it,https://imperiapost.it/feed,IM,Imperia,sito_locale,indipendente,it,no,200,feed con pochi elementi (4)
+La Stampa Imperia-Sanremo,https://www.lastampa.it/imperia-sanremo,https://www.lastampa.it/imperia-sanremo/rss,IM,Imperia,edizione_locale,GEDI,it,misto,200,
+Città della Spezia,https://www.cittadellaspezia.com,https://www.cittadellaspezia.com/feed/,SP,La Spezia,sito_locale,indipendente,it,no,200,
+La Nazione La Spezia,https://www.lanazione.it/la-spezia,https://www.lanazione.it/la-spezia/rss,SP,La Spezia,edizione_locale,Monrifs (QN),it,misto,200,
+Aostasera,https://aostasera.it,https://aostasera.it/feed/,AO,Aosta,sito_locale,indipendente,it,no,200,regionale Valle d'Aosta
+AostaOggi,https://www.aostaoggi.it,,AO,Aosta,sito_locale,indipendente,it,no,200,"regionale; feed Joomla vuoto, senza feed"
+Gazzetta Matin,https://www.gazzettamatin.com,https://www.gazzettamatin.com/rss,AO,Aosta,settimanale,indipendente,it,misto,200,"feed con 1 solo elemento, usare homepage"
+Valle d'Aosta Glocal,https://www.valledaostaglocal.it,https://www.valledaostaglocal.it/rss.xml,AO,Aosta,sito_locale,altro (Morenews),it,no,200,
+La Stampa Aosta,https://www.lastampa.it/aosta,https://www.lastampa.it/aosta/rss,AO,Aosta,edizione_locale,GEDI,it,misto,200,
+TGR Valle d'Aosta,https://www.rainews.it/tgr/vda,https://www.rainews.it/tgr/vda/rss/tutti,AO,Aosta,tv_locale,Rai,it,no,200,regionale; anche programmi in francese

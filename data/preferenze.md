@@ -1,0 +1,1 @@
+- Principio di partenza (dal monitor americano, 2026-09-27): cercare storie vere, con personaggi e trama, non notizie; niente cose piccole o sviluppi minori di vicende in corso. Meglio conflitti concreti, personaggi, luoghi inattesi, pezzi ricchi.
