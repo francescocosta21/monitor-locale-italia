@@ -208,10 +208,15 @@ def _forza(a, nome):
     return max((s[1] for s in a["segnali"] if s[0] == nome), default=0)
 
 
+def _ripresa_locale(a):
+    return sum(b["t"]["stato"] == a["t"]["stato"] for b in a.get("ripresa", []))
+
+
 def scegli_candidati(finestra, gia_inviati):
     """Candidati per il giudizio: almeno 2 segnali, mai un link già inviato, una sola voce per storia.
 
-    Le liste si alternano: punteggio complessivo, lunghezza e permanenza in homepage. La ripresa da
+    Le liste si alternano: punteggio complessivo, lunghezza, permanenza in homepage e ripresa da altre
+    testate della stessa provincia. La ripresa da
     altre testate premia spesso la cronaca e gli sviluppi minori; lunghezza e homepage indicano
     più spesso un lavoro di racconto."""
     idonei = [a for a in finestra
@@ -224,6 +229,9 @@ def scegli_candidati(finestra, gia_inviati):
                key=lambda a: (_forza(a, "lunghezza"), a["strutturale"]), reverse=True),
         sorted((a for a in idonei if _forza(a, "homepage")),
                key=lambda a: (_forza(a, "homepage"), a["strutturale"]), reverse=True),
+        # Questioni di cui parla tutta la città: riprese da più testate indipendenti della stessa provincia
+        sorted((a for a in idonei if _ripresa_locale(a) >= 2),
+               key=lambda a: (_ripresa_locale(a), a["strutturale"]), reverse=True),
     ]
     posizione = {id(a): k for k, a in enumerate(finestra)}
     scelti, coperti = [], set()

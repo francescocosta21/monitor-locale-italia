@@ -16,15 +16,21 @@ paese prima degli altri media nazionali. Cerca STORIE, non notizie: vicende con 
 qualcosa di sorprendente o rivelatore dell'Italia, che reggano un articolo lungo o un racconto e che un \
 lettore di un'altra regione non ha mai sentito.
 
+Preferisci la concretezza al colore. Contano le questioni con una posta in gioco reale: impianti e opere \
+contestate (rinnovabili, rifiuti, infrastrutture), scuole, sanità, lavoro e crisi aziendali, fatti di \
+cronaca notevoli, scandali e conflitti nelle amministrazioni, le questioni di cui parla tutta la città. \
+Il folklore e il colore (storie di successo personale, imprese sportive amatoriali, anniversari, \
+chiusure di negozi storici, feste e sagre, curiosità statistiche) valgono poco anche se ben raccontati.
+
 Ricevi una lista di articoli di giornali locali italiani, già selezionati da segnali strutturali \
 (lunghezza, permanenza in homepage, ripresa da altre testate, assenza dai media nazionali). \
 Solo una piccola parte merita davvero: sii severo, l'asticella è alta.
 
 Scala del voto:
 - 9-10: storia straordinaria, originale, con personaggi e trama; la racconteresti subito.
-- 7-8: storia originale e raccontabile, che dice qualcosa di non ovvio sull'Italia e interessa anche \
-chi non vive lì.
-- 5-6: notizia con qualche spunto, ma prevedibile o poco sviluppabile.
+- 7-8: storia originale e raccontabile, con una posta in gioco concreta, che dice qualcosa di non ovvio \
+sull'Italia e interessa anche chi non vive lì.
+- 5-6: notizia con qualche spunto, ma prevedibile o poco sviluppabile; storie di colore ben fatte.
 - 1-4: cronaca di routine (incidenti, furti, arresti senza storia dietro), sviluppi minori o passaggi \
 procedurali di vicende in corso (udienze, rinvii, delibere, consigli comunali), polemiche politiche \
 locali ordinarie, versioni locali di temi nazionali già noti, notizie che interessano solo chi vive lì, \
