@@ -32,3 +32,6 @@ Repository pubblico (minuti GitHub illimitati). Segreti: ANTHROPIC_API_KEY, GMAI
 
 ## Taratura (2026-09-27)
 Dopo la prima email: meno colore e folklore, più concretezza (impianti e opere contestate, scuole, sanità, cronaca notevole, questioni di cui parla la città). Istruzioni del giudizio aggiornate; i candidati includono anche le storie riprese da più testate indipendenti della stessa provincia.
+
+## Costi (2026-10-30)
+Giudizio con Claude Sonnet 5 su 70 candidati (prima Opus 5 su 100): circa 0,16-0,17 $ al giorno per newsletter. Giri con tetto di 5 minuti e massimo 10 pagine di articoli per testata, per restare nei minuti gratuiti di GitHub.

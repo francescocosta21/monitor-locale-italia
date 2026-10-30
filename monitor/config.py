@@ -20,7 +20,7 @@ DURATA_MASSIMA_GIRO = 300              # secondi: oltre, le testate rimaste pass
 # Finestra e selezione
 FINESTRA_ORE = 48
 STORIE_EMAIL = 10
-CANDIDATI_GIUDIZIO = 100
+CANDIDATI_GIUDIZIO = 70
 PESO_STRUTTURALE = 0.6
 PESO_GIUDIZIO = 0.4
 SEGNALI_MINIMI = 2
@@ -83,4 +83,4 @@ REGIONI = {
 PROVINCIA_REGIONE = {p: r for r, sigle in REGIONI.items() for p in sigle.split()}
 
 # Giudizio
-MODELLO = "claude-opus-5"
+MODELLO = "claude-sonnet-5"   # dal 2026-10-30: circa il 70% in meno rispetto a Opus 5 con 100 candidati

@@ -121,8 +121,6 @@ def valuta(candidati):
             system=istruzioni(),
             messages=[{"role": "user", "content": json.dumps(schede, ensure_ascii=False, indent=1)}],
             output_config={"effort": "medium", "format": {"type": "json_schema", "schema": SCHEMA}},
-            extra_headers={"anthropic-beta": "server-side-fallback-2026-07-01"},
-            extra_body={"fallbacks": "default"},
         ) as flusso:
             risposta = flusso.get_final_message()
     except anthropic.APIStatusError as e:
