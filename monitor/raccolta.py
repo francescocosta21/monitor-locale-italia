@@ -3,6 +3,7 @@
 Nessun modello coinvolto: solo richieste HTTP e lettura di metadati.
 """
 import logging
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -65,9 +66,12 @@ def _completa_articolo(a):
         a["ap"] = 1
 
 
-def raccogli_testata(t, conosciuti):
+def raccogli_testata(t, conosciuti, scadenza=None):
     esito = {"testata": t["chiave"], "articoli": [], "homepage": [], "homepage_ok": 0,
              "metodo": t.get("metodo", ""), "errore": ""}
+    if scadenza and time.time() > scadenza:
+        esito["errore"] = "rimandata"
+        return esito
     articoli = []
     # Senza l'esito della verifica si usa il feed dichiarato nella lista, se c'è
     metodo = t.get("metodo") or ("feed" if t.get("feed_rss") else "homepage")
@@ -116,6 +120,8 @@ def raccogli_testata(t, conosciuti):
     in_homepage = {u for u, _ in esito["homepage"]}
     nuovi.sort(key=lambda a: a["url"] not in in_homepage)
     da_leggere = [a for a in nuovi[:config.MAX_PAGINE_ARTICOLO_PER_TESTATA] if a["fonte"] != "google_news"]
+    if scadenza and time.time() > scadenza:
+        da_leggere = []   # tempo finito: si salvano gli articoli senza leggerne le pagine
     with ThreadPoolExecutor(max_workers=4) as pool:   # al massimo 4 richieste contemporanee per testata
         list(pool.map(_completa_articolo, da_leggere))
     esito["articoli"] = nuovi
@@ -172,13 +178,18 @@ def giro(limite_testate=None):
     con = db.connetti()
     ts = db.iso(db.adesso())
     testate = rete.carica_testate()[:limite_testate]
+    # Prima le testate lette meno di recente: quelle rimandate dal giro precedente passano davanti
+    ultima = {r["testata"]: r["t"] for r in con.execute(
+        "SELECT testata, MAX(ts) t FROM giri WHERE errore != 'rimandata' GROUP BY testata")}
+    testate.sort(key=lambda t: ultima.get(t["chiave"], ""))
+    scadenza = time.time() + config.DURATA_MASSIMA_GIRO
     conosciuti = {}
     for riga in con.execute("SELECT testata, url FROM articoli"):
         conosciuti.setdefault(riga["testata"], set()).add(riga["url"])
 
-    totale, ok_home, errori = 0, 0, 0
+    totale, ok_home, errori, rimandate = 0, 0, 0, 0
     with ThreadPoolExecutor(max_workers=config.WORKERS) as pool:
-        futuri = {pool.submit(raccogli_testata, t, conosciuti.get(t["chiave"], set())): t for t in testate}
+        futuri = {pool.submit(raccogli_testata, t, conosciuti.get(t["chiave"], set()), scadenza): t for t in testate}
         for f in as_completed(futuri):
             try:
                 esito = f.result()
@@ -186,12 +197,15 @@ def giro(limite_testate=None):
                 log.warning("errore su %s: %s", futuri[f]["nome"], e)
                 errori += 1
                 continue
+            if esito["errore"] == "rimandata":
+                rimandate += 1
+                continue
             salva(con, esito, ts)
             totale += len(esito["articoli"])
             ok_home += esito["homepage_ok"]
     naz = raccogli_nazionali(con, ts, testate)
     db.pulisci(con)
     con.commit()
-    log.info("giro %s: %d testate, %d articoli nuovi, %d homepage lette, %d errori, %d nazionali",
-             ts, len(testate), totale, ok_home, errori, naz)
+    log.info("giro %s: %d testate (%d rimandate), %d articoli nuovi, %d homepage lette, %d errori, %d nazionali",
+             ts, len(testate), rimandate, totale, ok_home, errori, naz)
     return {"articoli_nuovi": totale, "homepage_lette": ok_home, "errori": errori, "nazionali": naz}

@@ -14,7 +14,8 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
 TIMEOUT = 12
 WORKERS = 48
-MAX_PAGINE_ARTICOLO_PER_TESTATA = 25   # pagine di articoli nuovi scaricate per testata a ogni giro
+MAX_PAGINE_ARTICOLO_PER_TESTATA = 10   # pagine di articoli nuovi scaricate per testata a ogni giro
+DURATA_MASSIMA_GIRO = 300              # secondi: oltre, le testate rimaste passano al giro dopo (risparmio minuti)
 
 # Finestra e selezione
 FINESTRA_ORE = 48

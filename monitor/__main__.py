@@ -71,7 +71,7 @@ def auto(forza_email=False):
         log.info("ultimo giro %s: salto la raccolta", ultimo)
     ora = datetime.now(ROMA)
     gia_inviata = (config.ARCHIVIO / f"{ora.date().isoformat()}.html").exists()
-    if forza_email or (5 <= ora.hour < 8 and not gia_inviata):
+    if forza_email or (5 <= ora.hour < 13 and not gia_inviata):   # GitHub a volte ritarda di ore i giri programmati
         mattina()
 
 
