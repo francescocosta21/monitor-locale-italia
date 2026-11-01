@@ -1,0 +1,57 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Giornale di Sicilia,https://gds.it,https://gds.it/upload/assets/rss/producer-sicilia-homepage.xml,PA,Palermo,quotidiano_locale,altro (SES - Società Editrice Siciliana),it,misto,200,"regionale Sicilia; feed provinciali: producer-palermo/catania/trapani/agrigento-homepage.xml"
+La Sicilia,https://www.lasicilia.it,,CT,Catania,quotidiano_locale,altro (Domenico Sanfilippo Editore),it,misto,200,"senza feed; primo quotidiano della Sicilia orientale; stesso gruppo di Antenna Sicilia"
+Gazzetta del Sud - Messina,https://gazzettadelsud.it/messina/,https://gazzettadelsud.it/upload/assets/rss/producer-messina-homepage.xml,ME,Messina,quotidiano_locale,altro (SES - Società Editrice Siciliana),it,misto,200,"edizione Messina; feed Messina contiene anche pezzi calabresi; stesso gruppo del GdS"
+Repubblica Palermo,https://palermo.repubblica.it,https://palermo.repubblica.it/rss/cronaca/rss2.0.xml,PA,Palermo,edizione_locale,GEDI,it,misto,200,"feed solo sezione cronaca (la homepage espone il feed nazionale)"
+PalermoToday,https://www.palermotoday.it,https://www.palermotoday.it/rss,PA,Palermo,sito_locale,Citynews,it,no,200,
+CataniaToday,https://www.cataniatoday.it,https://www.cataniatoday.it/rss,CT,Catania,sito_locale,Citynews,it,no,200,
+MessinaToday,https://www.messinatoday.it,https://www.messinatoday.it/rss,ME,Messina,sito_locale,Citynews,it,no,200,
+AgrigentoNotizie,https://www.agrigentonotizie.it,https://www.agrigentonotizie.it/rss,AG,Agrigento,sito_locale,Citynews,it,no,200,
+LiveSicilia,https://livesicilia.it,https://livesicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,"regionale Sicilia; forte su politica e giudiziaria; feed espone 1 solo elemento: meglio homepage"
+BlogSicilia,https://www.blogsicilia.it,https://www.blogsicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,"regionale Sicilia"
+ilSicilia.it,https://ilsicilia.it,https://ilsicilia.it/feed/,PA,Palermo,sito_locale,indipendente,it,no,200,"regionale Sicilia"
+MeridioNews,https://meridionews.it,https://meridionews.it/feed/,CT,Catania,sito_locale,indipendente,it,no,200,"attivo nel 2026; inchieste e cronaca Sicilia orientale"
+Newsicilia,https://newsicilia.it,https://newsicilia.it/feed/,CT,Catania,sito_locale,indipendente,it,no,200,
+Quotidiano di Sicilia (QdS),https://qds.it,https://qds.it/feed/,CT,Catania,quotidiano_locale,altro (Ediservice),it,misto,200,"regionale Sicilia; forte su economia e PA"
+Tempostretto,https://www.tempostretto.it,https://www.tempostretto.it/feed/,ME,Messina,sito_locale,indipendente,it,no,200,"Messina e area dello Stretto"
+SiracusaNews,https://www.siracusanews.it,https://www.siracusanews.it/feed/,SR,Siracusa,sito_locale,indipendente,it,no,200,
+SiracusaOggi,https://www.siracusaoggi.it,https://www.siracusaoggi.it/feed/,SR,Siracusa,sito_locale,indipendente,it,no,200,"feed con 5 elementi"
+WebMarte,https://www.webmarte.tv,https://www.webmarte.tv/feed/,SR,Siracusa,tv_locale,indipendente,it,no,200,"web tv siracusana"
+RagusaNews,https://www.ragusanews.com,https://ragusanews.com/rss_feed.xml,RG,Ragusa,sito_locale,indipendente,it,no,200,
+RagusaOggi,https://www.ragusaoggi.it,https://www.ragusaoggi.it/feed/,RG,Ragusa,sito_locale,indipendente,it,no,200,
+Corriere di Ragusa,https://corrierediragusa.it,https://corrierediragusa.it/feed/,RG,Ragusa,sito_locale,indipendente,it,no,200,
+TP24,https://www.tp24.it,https://www.tp24.it/rss/news.xml,TP,Marsala,sito_locale,indipendente,it,no,200,"provincia di Trapani; forte su mafia e giudiziaria"
+TrapaniSì,https://www.trapanisi.it,https://www.trapanisi.it/feed/,TP,Trapani,sito_locale,indipendente,it,no,200,
+Marsala News,https://www.marsalanews.it,https://www.marsalanews.it/feed/,TP,Marsala,sito_locale,indipendente,it,no,200,"script: errore connessione su www, homepage raggiungibile via curl"
+Alqamah,https://www.alqamah.it,https://www.alqamah.it/feed/,TP,Alcamo,sito_locale,indipendente,it,no,200,"Alcamo e provincia di Trapani"
+Grandangolo Agrigento,https://www.grandangoloagrigento.it,https://www.grandangoloagrigento.it/feed/,AG,Agrigento,sito_locale,indipendente,it,no,200,"anche settimanale cartaceo"
+AgrigentoOggi,https://www.agrigentooggi.it,https://www.agrigentooggi.it/feed/,AG,Agrigento,sito_locale,indipendente,it,no,200,
+Il Fatto Nisseno,https://www.ilfattonisseno.it,https://www.ilfattonisseno.it/feed/,CL,Caltanissetta,sito_locale,indipendente,it,no,200,"ripubblica anche lanci Italpress"
+Seguonews,https://seguonews.it,,CL,Caltanissetta,sito_locale,indipendente,it,no,200,"senza feed; usare dominio senza www (certificato SSL non valido su www)"
+Quotidiano di Gela,https://quotidianodigela.it,https://quotidianodigela.it/feed/,CL,Gela,sito_locale,indipendente,it,no,200,
+ViviEnna,https://www.vivienna.it,https://www.vivienna.it/feed/,EN,Enna,sito_locale,indipendente,it,no,200,
+EnnaPress,https://ennapress.it,https://ennapress.it/feed/,EN,Enna,sito_locale,indipendente,it,no,200,
+TGS - Telegiornale di Sicilia,https://tgs.gds.it,,PA,Palermo,tv_locale,altro (SES - Società Editrice Siciliana),it,no,200,"senza feed proprio; tgs.it non risolve, sito ora su tgs.gds.it (stesso gruppo del GdS)"
+Telecolor / Antenna Sicilia (SiciliaWeb),https://siciliaweb.it,,CT,Catania,tv_locale,altro (Domenico Sanfilippo Editore),it,no,200,"senza feed; telecolor.it reindirizza a siciliaweb.it; stesso gruppo de La Sicilia"
+TGR Sicilia,https://www.rainews.it/tgr/sicilia,https://www.rainews.it/tgr/sicilia/rss/tutti,PA,Palermo,tv_locale,Rai,it,no,200,"regionale Sicilia"
+L'Unione Sarda,https://www.unionesarda.it,https://www.unionesarda.it/sitemaps/rss,CA,Cagliari,quotidiano_locale,altro (L'Unione Editoriale - gruppo Zuncheddu),it,misto,200,"regionale Sardegna; stesso gruppo di Videolina e Radiolina"
+La Nuova Sardegna,https://www.lanuovasardegna.it,https://www.lanuovasardegna.it/rss/newsstand/finegil/lanuovasardegna/feed.rss,SS,Sassari,quotidiano_locale,SAE,it,misto,200,"regionale Sardegna; feed storico restituisce 403 allo script, probabilmente non piu attivo: usare homepage"
+Casteddu Online,https://www.castedduonline.it,https://www.castedduonline.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,
+CagliariPad,https://www.cagliaripad.it,https://www.cagliaripad.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,"homepage aggiornata ma feed restituisce 502: usare homepage"
+CagliariToday,https://www.cagliaritoday.it,https://www.cagliaritoday.it/rss,CA,Cagliari,sito_locale,Citynews,it,no,200,
+Sardinia Post,https://www.sardiniapost.it,https://www.sardiniapost.it/rss,CA,Cagliari,sito_locale,indipendente,it,no,200,"regionale Sardegna; feed senza date"
+Vistanet,https://www.vistanet.it,https://www.vistanet.it/feed/,CA,Cagliari,sito_locale,indipendente,it,no,200,"regionale Sardegna con sezioni locali (/cagliari/feed/ ecc.)"
+Vistanet Ogliastra,https://www.vistanet.it/ogliastra/,https://www.vistanet.it/ogliastra/feed/,NU,Tortolì,sito_locale,indipendente,it,no,200,"Ogliastra (nuova provincia di Ogliastra, sigla legacy NU)"
+Sardegna Live,https://www.sardegnalive.net,https://www.sardegnalive.net/sitemaps/rss,CA,Cagliari,sito_locale,indipendente,it,no,200,"regionale Sardegna"
+SassariNotizie,https://www.sassarinotizie.com,https://www.sassarinotizie.com/feed/,SS,Sassari,sito_locale,indipendente,it,no,200,
+Alguer.it,https://www.alguer.it,https://www.alguer.it/notizie/rss.php,SS,Alghero,sito_locale,indipendente,it,no,200,
+AlgheroEco,https://www.algheroeco.com,https://www.algheroeco.com/feed/,SS,Alghero,sito_locale,indipendente,it,no,200,
+Gallura Oggi,https://www.galluraoggi.it,https://www.galluraoggi.it/feed/,SS,Olbia,sito_locale,indipendente,it,no,200,"Gallura (provincia Nord-Est Sardegna, sigla legacy SS)"
+Olbia.it,https://www.olbia.it,https://www.olbia.it/rss,SS,Olbia,sito_locale,indipendente,it,no,200,"Gallura (provincia Nord-Est Sardegna, sigla legacy SS)"
+Cronache Nuoresi,https://www.cronachenuoresi.it,https://www.cronachenuoresi.it/feed/,NU,Nuoro,sito_locale,indipendente,it,no,200,
+L'Ortobene,https://www.ortobene.net,https://www.ortobene.net/feed/,NU,Nuoro,settimanale,altro (diocesi di Nuoro),it,no,301,"settimanale diocesano; script: errore connessione, feed ok"
+LinkOristano,https://www.linkoristano.it,https://www.linkoristano.it/feed/,OR,Oristano,sito_locale,indipendente,it,no,200,
+OristanoNoi,https://www.oristanonoi.it,https://www.oristanonoi.it/feed/,OR,Oristano,sito_locale,indipendente,it,no,200,
+La Provincia del Sulcis Iglesiente,https://www.laprovinciadelsulcisiglesiente.com,https://www.laprovinciadelsulcisiglesiente.com/feed/,SU,Carbonia,sito_locale,indipendente,it,no,errore SSL,"attivo (articoli 27/9/2026 via WebFetch) ma script e curl falliscono per SSL; feed non verificato"
+Videolina,https://www.videolina.it,,CA,Cagliari,tv_locale,altro (L'Unione Editoriale - gruppo Zuncheddu),it,no,200,"senza feed; stesso gruppo de L'Unione Sarda"
+TGR Sardegna,https://www.rainews.it/tgr/sardegna,https://www.rainews.it/tgr/sardegna/rss/tutti,CA,Cagliari,tv_locale,Rai,it,no,200,"regionale Sardegna"

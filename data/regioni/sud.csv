@@ -1,0 +1,90 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Il Mattino,https://www.ilmattino.it/,https://www.ilmattino.it/rss/home.xml,NA,Napoli,quotidiano_locale,Caltagirone,it,misto,200,regionale Campania; feed a volte 418 anti-bot
+Repubblica Napoli,https://napoli.repubblica.it/,https://napoli.repubblica.it/rss/rss2.0.xml,NA,Napoli,edizione_locale,GEDI,it,misto,200,
+Corriere del Mezzogiorno (Campania),https://napoli.corriere.it/,http://xml2.corriereobjects.it/rss/homepage_napoli.xml,NA,Napoli,edizione_locale,RCS,it,misto,200,regionale Campania
+NapoliToday,https://www.napolitoday.it/,https://www.napolitoday.it/rss,NA,Napoli,sito_locale,Citynews,it,no,200,
+Il Roma,https://www.ilroma.net/,https://www.ilroma.net/feed/,NA,Napoli,quotidiano_locale,altro (Nuove Edizioni Roma),it,no,200,
+Cronache di Napoli,https://cronachedinapoli.it/,,NA,Napoli,quotidiano_locale,altro (Libra Editrice),it,no,200,senza feed; forte su cronaca nera e camorra
+Il Meridiano News,https://www.ilmeridianonews.it/,https://www.ilmeridianonews.it/feed/,NA,Aversa,sito_locale,indipendente,it,no,200,area nord Napoli e agro aversano
+Internapoli,https://internapoli.it/,https://internapoli.it/feed/,NA,Napoli,sito_locale,indipendente,it,no,200,"area nord Napoli, cronaca"
+Metropolis,https://www.metropolisweb.it/,https://www.metropolisweb.it/feed/,NA,Castellammare di Stabia,quotidiano_locale,indipendente,it,no,200,area vesuviana e stabiese
+Canale 21,https://www.canale21.it/,https://www.canale21.it/feed/,NA,Napoli,tv_locale,indipendente,it,no,200,
+Il Dispari,http://www.ildispari.it/,http://www.ildispari.it/feed/,NA,Ischia,quotidiano_locale,indipendente,it,no,,"Ischia e Procida; HTTPS con errore SSL, usare http"
+TGR Campania,https://www.rainews.it/tgr/campania,https://www.rainews.it/tgr/campania/rss/tutti,NA,Napoli,tv_locale,Rai,it,no,200,regionale Campania
+La Città di Salerno,https://www.lacittadisalerno.it/,,SA,Salerno,quotidiano_locale,altro (editore locale),it,misto,403,"senza feed; 403 anti-bot, attiva nel 2026"
+SalernoToday,https://www.salernotoday.it/,https://www.salernotoday.it/rss,SA,Salerno,sito_locale,Citynews,it,no,200,
+Salernonotizie,https://www.salernonotizie.it/,https://www.salernonotizie.it/feed/,SA,Salerno,sito_locale,indipendente,it,no,200,
+Le Cronache,https://www.lecronache.info/,https://www.lecronache.info/feed/,SA,Salerno,quotidiano_locale,indipendente,it,no,200,quotidiano di Salerno
+Il Mattino - Salerno,https://www.ilmattino.it/salerno/,,SA,Salerno,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
+InfoCilento,https://www.infocilento.it/,https://www.infocilento.it/feed/,SA,Agropoli,sito_locale,indipendente,it,no,200,Cilento e Vallo di Diano
+Zerottonove,https://www.zerottonove.it/,,SA,Salerno,sito_locale,indipendente,it,no,,"senza feed; errore SSL allo script, sito attivo"
+Positanonews,https://www.positanonews.it/,https://www.positanonews.it/feed/,SA,Positano,sito_locale,indipendente,it,no,200,Costiera amalfitana e sorrentina
+Telecolore,https://www.telecolore.it/,https://www.telecolore.it/feed/,SA,Salerno,tv_locale,indipendente,it,no,200,
+CasertaNews,https://www.casertanews.it/,https://www.casertanews.it/rss,CE,Caserta,sito_locale,Citynews,it,no,200,
+CasertaCE,https://casertace.net/,https://casertace.net/feed/,CE,Caserta,sito_locale,indipendente,it,no,200,forte su politica e giudiziaria
+Edizione Caserta,https://edizionecaserta.net/,https://edizionecaserta.net/feed/,CE,Caserta,sito_locale,indipendente,it,no,200,
+Cronache di Caserta,https://cronachedi.it/,https://cronachedi.it/feed/,CE,Caserta,quotidiano_locale,altro (Libra Editrice),it,no,200,dominio cronachedi.it (rete Cronache)
+Il Mattino - Caserta,https://www.ilmattino.it/caserta/,,CE,Caserta,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
+Irpinia News,https://www.irpinianews.it/,https://www.irpinianews.it/feed/,AV,Avellino,sito_locale,indipendente,it,no,200,
+AvellinoToday,https://www.avellinotoday.it/,https://www.avellinotoday.it/rss,AV,Avellino,sito_locale,Citynews,it,no,200,
+Ottopagine,https://www.ottopagine.it/,,AV,Avellino,sito_locale,indipendente,it,no,200,"senza feed; Irpinia e Sannio (anche BN, SA, NA)"
+Il Mattino - Avellino,https://www.ilmattino.it/avellino/,,AV,Avellino,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
+Ntr24,https://www.ntr24.tv/,https://www.ntr24.tv/feed/,BN,Benevento,tv_locale,indipendente,it,no,200,
+Il Sannio Quotidiano,https://www.ilsannioquotidiano.it/,https://www.ilsannioquotidiano.it/feed/,BN,Benevento,quotidiano_locale,indipendente,it,no,200,
+Anteprima24,https://www.anteprima24.it/,https://www.anteprima24.it/feed/,BN,Benevento,sito_locale,indipendente,it,no,200,"copre anche Caserta, Avellino, Salerno"
+InfoSannio,https://www.infosannionews.it/,https://www.infosannionews.it/feed,BN,Benevento,sito_locale,indipendente,it,no,200,
+Il Mattino - Benevento,https://www.ilmattino.it/benevento/,,BN,Benevento,quotidiano_locale,Caltagirone,it,misto,200,sezione provinciale; feed sezione non trovato (418)
+La Gazzetta del Mezzogiorno,https://www.lagazzettadelmezzogiorno.it/,https://feeds.feedburner.com/lagazzettadelmezzogiorno/zrqvznptfkd,BA,Bari,quotidiano_locale,altro (Ledi),it,misto,200,regionale Puglia e Basilicata; altro feed: feedburner viyi6z8dkwu
+Repubblica Bari,https://bari.repubblica.it/,https://bari.repubblica.it/rss/rss2.0.xml,BA,Bari,edizione_locale,GEDI,it,misto,200,regionale Puglia
+Corriere del Mezzogiorno (Puglia),https://bari.corriere.it/,https://xml2.corriereobjects.it/rss/homepage_bari.xml,BA,Bari,edizione_locale,RCS,it,misto,200,regionale Puglia
+BariToday,https://www.baritoday.it/,https://www.baritoday.it/rss,BA,Bari,sito_locale,Citynews,it,no,200,
+Borderline24,https://www.borderline24.com/,https://www.borderline24.com/feed/,BA,Bari,sito_locale,indipendente,it,no,200,
+TeleNorba,https://telenorba.it/,https://telenorba.it/feed/,BA,Conversano,tv_locale,altro (Gruppo Norba),it,no,200,regionale Puglia
+Antenna Sud,https://www.antennasud.com/,https://www.antennasud.com/rsslatest.xml,BA,Bari,tv_locale,altro (editore locale),it,no,200,regionale Puglia
+TGR Puglia,https://www.rainews.it/tgr/puglia,https://www.rainews.it/tgr/puglia/rss/tutti,BA,Bari,tv_locale,Rai,it,no,200,regionale Puglia
+Nuovo Quotidiano di Puglia,https://www.quotidianodipuglia.it/,https://www.quotidianodipuglia.it/rss/home.xml,LE,Lecce,quotidiano_locale,Caltagirone,it,misto,200,"edizioni Lecce, Brindisi, Taranto"
+LeccePrima,https://www.lecceprima.it/,https://www.lecceprima.it/rss,LE,Lecce,sito_locale,Citynews,it,no,200,
+Leccenews24,https://www.leccenews24.it/,https://www.leccenews24.it/feed,LE,Lecce,sito_locale,indipendente,it,no,200,
+BrindisiReport,https://www.brindisireport.it/,https://www.brindisireport.it/rss,BR,Brindisi,sito_locale,Citynews,it,no,200,
+Senzacolonne,https://www.senzacolonnenews.it/,https://www.senzacolonnenews.it/feed/,BR,Brindisi,quotidiano_locale,indipendente,it,no,200,
+Noi Notizie,https://www.noinotizie.it/,https://www.noinotizie.it/feed/,BR,Brindisi,sito_locale,indipendente,it,no,200,"Brindisi, Taranto, Salento"
+FoggiaToday,https://www.foggiatoday.it/,https://www.foggiatoday.it/rss,FG,Foggia,sito_locale,Citynews,it,no,200,
+l'Attacco,https://www.lattacco.it/it/,https://www.lattacco.it/it/?format=feed&type=rss,FG,Foggia,quotidiano_locale,indipendente,it,no,200,
+l'Immediato,https://www.immediato.net/,https://www.immediato.net/feed/,FG,Foggia,sito_locale,indipendente,it,no,200,forte su mafia foggiana e giudiziaria
+Stato Quotidiano,https://www.statoquotidiano.it/,https://www.statoquotidiano.it/feed/,FG,Manfredonia,sito_locale,indipendente,it,no,200,Capitanata e Gargano
+Buonasera24 (Taranto Buonasera),https://www.buonasera24.it/,,TA,Taranto,quotidiano_locale,indipendente,it,no,200,senza feed funzionante; ex tarantobuonasera.it
+Corriere di Taranto,https://www.corriereditaranto.it/,https://www.corriereditaranto.it/feed/,TA,Taranto,sito_locale,indipendente,it,no,200,"ex Ilva, ambiente"
+ManduriaOggi,https://www.manduriaoggi.it/,https://www.manduriaoggi.it/rss,TA,Manduria,sito_locale,indipendente,it,no,200,provincia orientale di Taranto
+BarlettaViva,https://www.barlettaviva.it/,https://www.barlettaviva.it/rss/,BT,Barletta,sito_locale,altro (rete Viva),it,no,200,
+AndriaViva,https://www.andriaviva.it/,https://www.andriaviva.it/rss/,BT,Andria,sito_locale,altro (rete Viva),it,no,200,
+TraniViva,https://www.traniviva.it/,https://www.traniviva.it/rss/,BT,Trani,sito_locale,altro (rete Viva),it,no,200,
+La Nuova del Sud,https://www.lanuova.net/,,PZ,Potenza,quotidiano_locale,altro (editore locale),it,?,200,regionale Basilicata; senza feed
+Il Quotidiano del Sud - Basilicata,https://www.quotidianodelsud.it/basilicata,https://www.quotidianodelsud.it/feed,PZ,Potenza,quotidiano_locale,altro (Quotidiano del Sud),it,misto,200,regionale Basilicata; feed unico del giornale (tutte le edizioni)
+Basilicata24,https://www.basilicata24.it/,https://www.basilicata24.it/feed/,PZ,Potenza,sito_locale,indipendente,it,no,200,"regionale Basilicata, inchieste (petrolio)"
+Potenza News,https://www.potenzanews.net/,https://www.potenzanews.net/feed/,PZ,Potenza,sito_locale,indipendente,it,no,200,
+TGR Basilicata,https://www.rainews.it/tgr/basilicata,https://www.rainews.it/tgr/basilicata/rss/tutti,PZ,Potenza,tv_locale,Rai,it,no,200,regionale Basilicata
+SassiLive,https://www.sassilive.it/,https://www.sassilive.it/feed/,MT,Matera,sito_locale,indipendente,it,no,200,
+TRM h24,https://www.trmtv.it/,https://www.trmtv.it/feed,MT,Matera,tv_locale,indipendente,it,no,200,regionale Basilicata
+La Siritide,https://www.lasiritide.it/,,MT,Policoro,sito_locale,indipendente,it,no,200,senza feed; metapontino e Val d'Agri
+Gazzetta del Sud - Calabria,https://calabria.gazzettadelsud.it/,https://feedpress.me/gsud_hp_calabria,CZ,Catanzaro,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,regionale Calabria
+Gazzetta del Sud - Reggio,https://reggio.gazzettadelsud.it/,https://feedpress.me/gsud_hp_reggio,RC,Reggio Calabria,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,
+Gazzetta del Sud - Cosenza,https://cosenza.gazzettadelsud.it/,https://feedpress.me/gsud_hp_cosenza,CS,Cosenza,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,
+Gazzetta del Sud - Catanzaro,https://catanzaro.gazzettadelsud.it/,https://feedpress.me/gsud_hp_catanzaro,CZ,Catanzaro,quotidiano_locale,altro (SES Società Editrice Sud),it,misto,200,copre anche Crotone e Vibo
+Il Quotidiano del Sud,https://www.quotidianodelsud.it/,https://www.quotidianodelsud.it/feed,CS,Cosenza,quotidiano_locale,altro (Quotidiano del Sud),it,misto,200,regionale Calabria; edizioni anche Basilicata e Irpinia
+LaC News24,https://www.lacnews24.it/,https://www.lacnews24.it/sitemaps/lacnews24/rss,VV,Vibo Valentia,tv_locale,altro (Diemmecom - gruppo LaC),it,no,200,regionale Calabria
+Corriere della Calabria,https://www.corrieredellacalabria.it/,https://www.corrieredellacalabria.it/feed/,CZ,Lamezia Terme,sito_locale,indipendente,it,no,200,regionale Calabria; forte su 'ndrangheta e giudiziaria
+TGR Calabria,https://www.rainews.it/tgr/calabria,https://www.rainews.it/tgr/calabria/rss/tutti,CZ,Cosenza,tv_locale,Rai,it,no,200,regionale Calabria
+Calabria7,https://calabria7.news/,https://calabria7.news/feed/,CZ,Catanzaro,sito_locale,indipendente,it,no,200,regionale; dominio calabria7.news
+CatanzaroInforma,https://www.catanzaroinforma.it/,https://www.catanzaroinforma.it/feed/,CZ,Catanzaro,sito_locale,indipendente,it,no,200,
+LameziaInforma,https://www.lameziainforma.it/,https://www.lameziainforma.it/feed/,CZ,Lamezia Terme,sito_locale,indipendente,it,no,200,
+StrettoWeb,https://www.strettoweb.com/,https://www.strettoweb.com/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,anche Messina
+ReggioToday,https://www.reggiotoday.it/,https://www.reggiotoday.it/rss,RC,Reggio Calabria,sito_locale,Citynews,it,no,200,
+CityNow,https://www.citynow.it/,https://www.citynow.it/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,
+Il Reggino,https://www.ilreggino.it/,https://www.ilreggino.it/sitemaps/reggino/rss,RC,Reggio Calabria,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,
+Il Dispaccio,https://ildispaccio.it/,https://ildispaccio.it/feed/,RC,Reggio Calabria,sito_locale,indipendente,it,no,200,
+L'Eco della Locride,https://www.ecodellalocride.it/,https://www.ecodellalocride.it/feed/,RC,Siderno,sito_locale,indipendente,it,no,200,Locride
+CosenzaChannel,https://www.cosenzachannel.it/,https://www.cosenzachannel.it/sitemaps/cosenza/rss,CS,Cosenza,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,
+QuiCosenza,https://quicosenza.it/,https://quicosenza.it/news/feed/,CS,Cosenza,sito_locale,indipendente,it,no,200,
+Il Crotonese,https://www.ilcrotonese.it/,https://www.ilcrotonese.it/feed/,KR,Crotone,quotidiano_locale,indipendente,it,no,200,
+CrotoneOK,https://www.crotoneok.it/,https://www.crotoneok.it/feed.xml,KR,Crotone,sito_locale,indipendente,it,no,200,
+Il Vibonese,https://www.ilvibonese.it/,https://www.ilvibonese.it/sitemaps/vibonese/rss,VV,Vibo Valentia,sito_locale,altro (Diemmecom - gruppo LaC),it,no,200,

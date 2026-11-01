@@ -1,0 +1,112 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Il Gazzettino,https://www.ilgazzettino.it,https://www.ilgazzettino.it/rss/home.xml,VE,Venezia,quotidiano_locale,Caltagirone,it,misto,200,regionale Veneto e Friuli; redazioni in tutte le province; feed e homepage a volte 418 (anti-bot)
+Corriere del Veneto,https://corrieredelveneto.corriere.it,,VE,Venezia,edizione_locale,RCS,it,misto,200,regionale Veneto; senza feed
+TGR Veneto,https://www.rainews.it/tgr/veneto,https://www.rainews.it/tgr/veneto/rss/tutti,VE,Venezia,tv_locale,Rai,it,no,200,regionale Veneto
+Rete Veneta,https://reteveneta.medianordest.it,https://reteveneta.medianordest.it/feed/,VI,Vicenza,tv_locale,altro (Medianordest),it,no,200,regionale Veneto
+Antenna Tre Nordest,https://antennatre.medianordest.it,https://antennatre.medianordest.it/feed/,TV,Treviso,tv_locale,altro (Medianordest),it,no,200,regionale Veneto
+Il Mattino di Padova,https://www.mattinopadova.it,https://www.mattinopadova.it/sitemap_rss_feed.xml,PD,Padova,quotidiano_locale,NEM,it,misto,200,
+PadovaOggi,https://www.padovaoggi.it,https://www.padovaoggi.it/rss,PD,Padova,sito_locale,Citynews,it,no,200,
+La Nuova Venezia,https://www.nuovavenezia.it,https://www.nuovavenezia.it/sitemap_rss_feed.xml,VE,Mestre,quotidiano_locale,NEM,it,misto,200,
+VeneziaToday,https://www.veneziatoday.it,https://www.veneziatoday.it/rss,VE,Venezia,sito_locale,Citynews,it,no,200,
+Il Nuovo Terraglio,https://ilnuovoterraglio.it,https://ilnuovoterraglio.it/feed/,VE,Mestre,sito_locale,indipendente,it,no,200,Mestre e terraferma
+La Tribuna di Treviso,https://www.tribunatreviso.it,https://www.tribunatreviso.it/sitemap_rss_feed.xml,TV,Treviso,quotidiano_locale,NEM,it,misto,200,
+TrevisoToday,https://www.trevisotoday.it,https://www.trevisotoday.it/rss,TV,Treviso,sito_locale,Citynews,it,no,200,
+OggiTreviso,https://www.oggitreviso.it,https://www.oggitreviso.it/rss.xml,TV,Treviso,sito_locale,indipendente,it,no,200,
+Qdpnews,https://www.qdpnews.it,https://www.qdpnews.it/feed/,TV,Pieve di Soligo,sito_locale,indipendente,it,no,200,"Quartier del Piave, Sinistra Piave"
+Il Piave,https://www.ilpiave.it,,TV,Treviso,settimanale,indipendente,it,no,200,senza feed; mensile/online
+Corriere delle Alpi,https://www.corrierealpi.it,https://www.corrierealpi.it/sitemap_rss_feed.xml,BL,Belluno,quotidiano_locale,NEM,it,misto,200,
+L'Amico del Popolo,https://www.amicodelpopolo.it,https://www.amicodelpopolo.it/feed/,BL,Belluno,settimanale,altro (diocesano),it,no,200,settimanale diocesano
+Bellunopress,https://www.bellunopress.it,https://www.bellunopress.it/feed/,BL,Belluno,sito_locale,indipendente,it,no,200,
+Telebelluno,https://www.telebelluno.it,https://www.telebelluno.it/feed/,BL,Belluno,tv_locale,indipendente,it,no,200,
+L'Arena,https://www.larena.it,,VR,Verona,quotidiano_locale,Athesis,it,misto,200,senza feed (sitemap.xml)
+VeronaSera,https://www.veronasera.it,https://www.veronasera.it/rss,VR,Verona,sito_locale,Citynews,it,no,200,
+Verona Oggi,https://www.veronaoggi.it,https://www.veronaoggi.it/feed/,VR,Verona,sito_locale,indipendente,it,no,200,
+Verona Network,https://www.veronanetwork.it,https://www.veronanetwork.it/feed/,VR,Verona,sito_locale,indipendente,it,no,200,
+Telearena,https://www.telearena.it,,VR,Verona,tv_locale,Athesis,it,no,200,senza feed
+Il Giornale di Vicenza,https://www.ilgiornaledivicenza.it,,VI,Vicenza,quotidiano_locale,Athesis,it,misto,200,senza feed
+VicenzaToday,https://www.vicenzatoday.it,https://www.vicenzatoday.it/rss,VI,Vicenza,sito_locale,Citynews,it,no,200,feed risponde 403 allo script (anti-bot)
+VicenzaReport,https://www.vicenzareport.it,https://www.vicenzareport.it/feed/,VI,Vicenza,sito_locale,indipendente,it,no,200,
+Bassanonet,https://www.bassanonet.it,,VI,Bassano del Grappa,sito_locale,indipendente,it,no,200,senza feed funzionante
+TVA Vicenza,https://tvavicenza.gruppovideomedia.it,,VI,Vicenza,tv_locale,altro (Videomedia),it,no,200,senza feed
+RovigoOggi (Rovigo.News),https://www.rovigooggi.it,https://www.rovigo.news/feed/,RO,Rovigo,sito_locale,indipendente,it,no,200,ora brand Rovigo.News; il vecchio /rss.xml è fermo al 2022
+Polesine24,https://www.polesine24.it,https://www.polesine24.it/rss.jsp,RO,Rovigo,quotidiano_locale,altro,it,misto,200,ex La Voce di Rovigo
+Il Resto del Carlino Rovigo,https://www.ilrestodelcarlino.it/rovigo,https://www.ilrestodelcarlino.it/veneto/rss,RO,Rovigo,edizione_locale,Monrifs (QN),it,misto,200,/rovigo reindirizza a /veneto
+Messaggero Veneto,https://www.messaggeroveneto.it,https://www.messaggeroveneto.it/sitemap_rss_feed.xml,UD,Udine,quotidiano_locale,NEM,it,misto,200,regionale Friuli
+UdineToday,https://www.udinetoday.it,https://www.udinetoday.it/rss,UD,Udine,sito_locale,Citynews,it,no,200,
+Friulioggi,https://www.friulioggi.it,https://www.friulioggi.it/feed/,UD,Udine,sito_locale,indipendente,it,no,200,include GoriziaOggi
+Il Friuli,https://www.ilfriuli.it,https://www.ilfriuli.it/feed/,UD,Udine,settimanale,indipendente,it,no,200,
+Diario FVG,https://www.diariofvg.it,https://www.diariofvg.it/feed/,UD,Udine,sito_locale,indipendente,it,no,200,regionale FVG
+Telefriuli,https://www.telefriuli.it,https://www.telefriuli.it/feed/,UD,Udine,tv_locale,indipendente,it,no,200,
+La Vita Cattolica,https://www.lavitacattolica.it,https://www.lavitacattolica.it/feed/,UD,Udine,settimanale,altro (diocesano),it,no,200,settimanale diocesano
+TGR Friuli Venezia Giulia,https://www.rainews.it/tgr/fvg,https://www.rainews.it/tgr/fvg/rss/tutti,TS,Trieste,tv_locale,Rai,it,no,200,regionale FVG
+Il Piccolo,https://www.ilpiccolo.it,https://www.ilpiccolo.it/sitemap_rss_feed.xml,TS,Trieste,quotidiano_locale,NEM,it,misto,200,anche Gorizia e Monfalcone
+TriestePrima,https://www.triesteprima.it,https://www.triesteprima.it/rss,TS,Trieste,sito_locale,Citynews,it,no,200,
+Trieste Cafe,https://www.triestecafe.it,https://www.triestecafe.it/rss.xml,TS,Trieste,sito_locale,indipendente,it,no,200,
+Telequattro,https://telequattro.medianordest.it,https://telequattro.medianordest.it/feed/,TS,Trieste,tv_locale,altro (Medianordest),it,no,200,
+Primorski dnevnik,https://www.primorski.eu,https://www.primorski.eu/rss/trzaska,TS,Trieste,quotidiano_locale,altro (minoranza slovena),sl,no,200,quotidiano sloveno; anche feed /rss/goriska
+Primorski dnevnik - Gorizia,https://www.primorski.eu,https://www.primorski.eu/rss/goriska,GO,Gorizia,quotidiano_locale,altro (minoranza slovena),sl,no,200,sezione goriziana
+Il Goriziano,https://www.ilgoriziano.it,,GO,Gorizia,sito_locale,indipendente,it,no,200,senza feed
+PordenoneToday,https://www.pordenonetoday.it,https://www.pordenonetoday.it/rss,PN,Pordenone,sito_locale,Citynews,it,no,200,feed /rss risponde 403 allo script (anti-bot)
+Nordest24,https://www.nordest24.it,https://www.nordest24.it/feed/,PN,Pordenone,sito_locale,indipendente,it,no,200,
+Il Popolo,https://ilpopolopordenone.it,https://ilpopolopordenone.it/feed/,PN,Pordenone,settimanale,altro (diocesano),it,no,200,settimanale diocesano Concordia-Pordenone
+l'Adige,https://www.ladige.it,https://www.ladige.it/sitemaps/ladige/rss,TN,Trento,quotidiano_locale,altro (Athesia),it,misto,200,
+il T quotidiano,https://www.iltquotidiano.it,,TN,Trento,quotidiano_locale,altro (indipendente trentino),it,misto,200,feed WordPress vuoto; senza feed
+il Dolomiti,https://www.ildolomiti.it,https://www.ildolomiti.it/rss.xml,TN,Trento,sito_locale,indipendente,it,no,200,copre anche Alto Adige e Belluno
+TrentoToday,https://www.trentotoday.it,https://www.trentotoday.it/rss,TN,Trento,sito_locale,Citynews,it,no,200,
+Vita Trentina,https://www.vitatrentina.it,https://www.vitatrentina.it/feed/,TN,Trento,settimanale,altro (diocesano),it,no,200,settimanale diocesano
+Corriere del Trentino,https://corrieredeltrentino.corriere.it,,TN,Trento,edizione_locale,RCS,it,misto,200,senza feed; include Alto Adige (corrierealtoadige non risolve)
+TGR Trento,https://www.rainews.it/tgr/trento,https://www.rainews.it/tgr/trento/rss/tutti,TN,Trento,tv_locale,Rai,it,no,200,
+Alto Adige,https://www.altoadige.it,https://www.altoadige.it/sitemaps/altoadige/rss,BZ,Bolzano,quotidiano_locale,altro (Athesia),it,misto,200,
+Salto.bz,https://salto.bz,https://salto.bz/rss.xml,BZ,Bolzano,sito_locale,indipendente,de,no,200,bilingue it/de
+Dolomiten,https://dolomiten.it/de/,,BZ,Bolzano,quotidiano_locale,altro (Athesia),de,si,200,notizie online su stol.it; senza feed
+Stol.it,https://www.stol.it,https://www.stol.it/feed/,BZ,Bolzano,sito_locale,altro (Athesia),de,misto,200,portale di Dolomiten
+Neue Südtiroler Tageszeitung,https://www.tageszeitung.it,https://www.tageszeitung.it/feed/,BZ,Bolzano,quotidiano_locale,indipendente,de,misto,200,homepage aggiornata ma feed fermo ad aprile 2026: usare homepage
+Südtirol News,https://www.suedtirolnews.it,https://www.suedtirolnews.it/feed,BZ,Bolzano,sito_locale,indipendente,de,no,200,
+Unser Tirol 24,https://www.unsertirol24.com,https://www.unsertirol24.com/feed/,BZ,Bolzano,sito_locale,indipendente,de,no,200,area Tirolo/Südtirol
+TGR Bolzano,https://www.rainews.it/tgr/bolzano,https://www.rainews.it/tgr/bolzano/rss/tutti,BZ,Bolzano,tv_locale,Rai,it,no,200,
+Rai Südtirol Tagesschau,https://www.rainews.it/tgr/tagesschau,https://www.rainews.it/tgr/tagesschau/rss/tutti,BZ,Bolzano,tv_locale,Rai,de,no,200,Rai Südtirol in tedesco
+Il Resto del Carlino Bologna,https://www.ilrestodelcarlino.it/bologna,https://www.ilrestodelcarlino.it/bologna/rss,BO,Bologna,quotidiano_locale,Monrifs (QN),it,misto,200,
+Corriere di Bologna,https://corrieredibologna.corriere.it,,BO,Bologna,edizione_locale,RCS,it,misto,200,senza feed
+la Repubblica Bologna,https://bologna.repubblica.it,https://bologna.repubblica.it/rss/cronaca/rss2.0.xml,BO,Bologna,edizione_locale,GEDI,it,misto,200,
+BolognaToday,https://www.bolognatoday.it,https://www.bolognatoday.it/rss,BO,Bologna,sito_locale,Citynews,it,no,200,
+Bologna2000,https://www.bologna2000.com,https://www.bologna2000.com/feed/,BO,Bologna,sito_locale,indipendente,it,no,200,
+TGR Emilia-Romagna,https://www.rainews.it/tgr/emiliaromagna,https://www.rainews.it/tgr/emiliaromagna/rss/tutti,BO,Bologna,tv_locale,Rai,it,no,200,regionale Emilia-Romagna
+Il Resto del Carlino Imola,https://www.ilrestodelcarlino.it/imola,https://www.ilrestodelcarlino.it/imola/rss,BO,Imola,edizione_locale,Monrifs (QN),it,misto,200,
+Sabato Sera,https://www.sabatosera.it,https://www.sabatosera.it/feed/,BO,Imola,settimanale,indipendente,it,no,200,
+Il Resto del Carlino Modena,https://www.ilrestodelcarlino.it/modena,https://www.ilrestodelcarlino.it/modena/rss,MO,Modena,edizione_locale,Monrifs (QN),it,misto,200,
+Gazzetta di Modena,https://www.gazzettadimodena.it,,MO,Modena,quotidiano_locale,SAE,it,misto,200,senza feed
+ModenaToday,https://www.modenatoday.it,https://www.modenatoday.it/rss,MO,Modena,sito_locale,Citynews,it,no,200,
+La Pressa,https://www.lapressa.it,https://www.lapressa.it/rss.xml,MO,Modena,sito_locale,indipendente,it,no,200,
+Sassuolo2000,https://www.sassuolo2000.it,https://www.sassuolo2000.it/feed/,MO,Sassuolo,sito_locale,indipendente,it,no,200,
+SulPanaro,https://www.sulpanaro.net,https://www.sulpanaro.net/feed/,MO,Mirandola,sito_locale,indipendente,it,no,200,Bassa modenese
+Il Resto del Carlino Reggio Emilia,https://www.ilrestodelcarlino.it/reggio-emilia,https://www.ilrestodelcarlino.it/reggio-emilia/rss,RE,Reggio Emilia,edizione_locale,Monrifs (QN),it,misto,200,
+Gazzetta di Reggio,https://www.gazzettadireggio.it,,RE,Reggio Emilia,quotidiano_locale,SAE,it,misto,200,senza feed
+Reggionline (Telereggio),https://www.reggionline.com,https://www.reggionline.com/feed/,RE,Reggio Emilia,tv_locale,altro (Telereggio),it,no,200,
+Reggio Sera,https://www.reggiosera.it,https://www.reggiosera.it/feed/,RE,Reggio Emilia,sito_locale,indipendente,it,no,200,
+Gazzetta di Parma,https://www.gazzettadiparma.it,https://www.gazzettadiparma.it/rss.jsp,PR,Parma,quotidiano_locale,altro (Gazzetta di Parma Editore/UPI),it,misto,200,
+ParmaToday,https://www.parmatoday.it,https://www.parmatoday.it/rss,PR,Parma,sito_locale,Citynews,it,no,200,
+ParmaDaily,https://www.parmadaily.it,https://www.parmadaily.it/feed/,PR,Parma,sito_locale,indipendente,it,no,403,homepage 403 allo script
+Libertà,https://www.liberta.it,,PC,Piacenza,quotidiano_locale,altro (Editoriale Libertà),it,misto,200,senza feed (google-news-sitemap.xml)
+IlPiacenza,https://www.ilpiacenza.it,https://www.ilpiacenza.it/rss,PC,Piacenza,sito_locale,Citynews,it,no,200,
+PiacenzaSera,https://www.piacenzasera.it,https://www.piacenzasera.it/feed/,PC,Piacenza,sito_locale,indipendente,it,no,200,
+La Nuova Ferrara,https://www.lanuovaferrara.it,,FE,Ferrara,quotidiano_locale,SAE,it,misto,200,senza feed
+Il Resto del Carlino Ferrara,https://www.ilrestodelcarlino.it/ferrara,https://www.ilrestodelcarlino.it/ferrara/rss,FE,Ferrara,edizione_locale,Monrifs (QN),it,misto,200,
+Estense.com,https://www.estense.com,https://www.estense.com/feed/,FE,Ferrara,sito_locale,indipendente,it,no,200,
+FerraraToday,https://www.ferraratoday.it,https://www.ferraratoday.it/rss,FE,Ferrara,sito_locale,Citynews,it,no,200,feed /rss risponde 403 allo script (anti-bot)
+Telestense,https://www.telestense.it,,FE,Ferrara,tv_locale,indipendente,it,no,200,feed WordPress contaminato da spam casino: usare homepage; senza feed
+Il Resto del Carlino Ravenna,https://www.ilrestodelcarlino.it/ravenna,https://www.ilrestodelcarlino.it/ravenna/rss,RA,Ravenna,edizione_locale,Monrifs (QN),it,misto,200,
+RavennaToday,https://www.ravennatoday.it,https://www.ravennatoday.it/rss,RA,Ravenna,sito_locale,Citynews,it,no,200,
+Ravenna&Dintorni,https://www.ravennaedintorni.it,https://www.ravennaedintorni.it/feed/,RA,Ravenna,sito_locale,indipendente,it,no,403,"403 allo script (anti-bot), feed da verificare"
+RavennaNotizie,https://www.ravennanotizie.it,https://www.ravennanotizie.it/feed/,RA,Ravenna,sito_locale,indipendente,it,no,200,
+Corriere Romagna,https://www.corriereromagna.it,https://www.corriereromagna.it/rss/home.xml,FC,Cesena,quotidiano_locale,altro (Edizioni Romagna),it,misto,200,"regionale Romagna (RA, FC, RN)"
+Il Resto del Carlino Forlì,https://www.ilrestodelcarlino.it/forli,https://www.ilrestodelcarlino.it/forli/rss,FC,Forlì,edizione_locale,Monrifs (QN),it,misto,200,
+Il Resto del Carlino Cesena,https://www.ilrestodelcarlino.it/cesena,https://www.ilrestodelcarlino.it/cesena/rss,FC,Cesena,edizione_locale,Monrifs (QN),it,misto,200,
+ForlìToday,https://www.forlitoday.it,https://www.forlitoday.it/rss,FC,Forlì,sito_locale,Citynews,it,no,200,
+CesenaToday,https://www.cesenatoday.it,https://www.cesenatoday.it/rss,FC,Cesena,sito_locale,Citynews,it,no,200,
+Forlinotizie,https://www.forlinotizie.net,https://www.forlinotizie.net/feed/,FC,Forlì,sito_locale,indipendente,it,no,200,
+CesenaNotizie,https://www.cesenanotizie.net,https://www.cesenanotizie.net/feed/,FC,Cesena,sito_locale,indipendente,it,no,200,
+Il Resto del Carlino Rimini,https://www.ilrestodelcarlino.it/rimini,https://www.ilrestodelcarlino.it/rimini/rss,RN,Rimini,edizione_locale,Monrifs (QN),it,misto,200,
+RiminiToday,https://www.riminitoday.it,https://www.riminitoday.it/rss,RN,Rimini,sito_locale,Citynews,it,no,200,
+NewsRimini,https://www.newsrimini.it,https://www.newsrimini.it/feed/rss,RN,Rimini,sito_locale,indipendente,it,no,200,
+altarimini,https://altarimini.it,https://altarimini.it/feed/,RN,Rimini,sito_locale,indipendente,it,no,200,
+Chiamami Città,https://www.chiamamicitta.it,https://www.chiamamicitta.it/feed/,RN,Rimini,sito_locale,indipendente,it,no,200,

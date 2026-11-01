@@ -1,0 +1,459 @@
+nome,url_homepage,status_usa,feed_ok,elementi,sitemap_news,metodo
+AgrigentoNotizie,https://www.agrigentonotizie.it,200,https://www.agrigentonotizie.it/rss,25,https://www.agrigentonotizie.it/sitemaps/sitemap_news.xml,feed
+AgrigentoOggi,https://www.agrigentooggi.it,200,https://www.agrigentooggi.it/feed/,10,,feed
+Grandangolo Agrigento,https://www.grandangoloagrigento.it,200,https://www.grandangoloagrigento.it/feed/,10,https://www.grandangoloagrigento.it/sitemap-news.xml,feed
+La Stampa Alessandria,https://www.lastampa.it/alessandria,200,https://www.lastampa.it/alessandria/rss,100,,feed
+Il Piccolo di Alessandria,https://www.ilpiccolo.net,200,https://www.ilpiccolo.net/feed/,68,,feed
+Radio Gold,https://radiogold.it,200,https://radiogold.it/feed/,15,,feed
+il Resto del Carlino - Ancona,https://www.ilrestodelcarlino.it/ancona,200,https://www.ilrestodelcarlino.it/ancona/rss,100,,feed
+Corriere Adriatico,https://www.corriereadriatico.it/,200,https://www.corriereadriatico.it/rss/home.xml,20,http://www.corriereadriatico.it/?sez=XML&p=MapNews,feed
+AnconaToday,https://www.anconatoday.it/,200,https://www.anconatoday.it/rss,25,https://www.anconatoday.it/sitemaps/sitemap_news.xml,feed
+Centropagina,https://www.centropagina.it/,200,https://www.centropagina.it/feed/,100,,feed
+Cronache Ancona,https://www.cronacheancona.it/,200,https://www.cronacheancona.it/feed/,25,,feed
+Vivere Ancona,https://www.vivereancona.it/,200,https://www.vivereancona.it/rss,20,,feed
+TGR Marche,https://www.rainews.it/tgr/marche,200,https://www.rainews.it/tgr/marche/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+èTV Marche,https://etvmarche.it/,200,https://etvmarche.it/feed/,10,,feed
+La Stampa Aosta,https://www.lastampa.it/aosta,200,https://www.lastampa.it/aosta/rss,100,,feed
+Gazzetta Matin,https://www.gazzettamatin.com,200,https://www.gazzettamatin.com/rss,1,,feed
+AostaOggi,https://www.aostaoggi.it,200,,,,homepage
+Aostasera,https://aostasera.it,200,https://aostasera.it/feed/,50,,feed
+Valle d'Aosta Glocal,https://www.valledaostaglocal.it,200,https://www.valledaostaglocal.it/rss.xml,20,,feed
+TGR Valle d'Aosta,https://www.rainews.it/tgr/vda,200,https://www.rainews.it/tgr/vda/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+il Resto del Carlino - Ascoli,https://www.ilrestodelcarlino.it/ascoli,200,https://www.ilrestodelcarlino.it/ascoli/rss,55,,feed
+Cronache Picene,https://www.cronachepicene.it/,200,https://www.cronachepicene.it/feed/,30,,feed
+Riviera Oggi,https://www.rivieraoggi.it/,403,https://www.rivieraoggi.it/feed/,20,,feed
+Il Centro,https://www.ilcentro.it/,200,,,,homepage
+AbruzzoWeb,https://www.abruzzoweb.it/,200,,,,homepage
+Il Capoluogo,https://www.ilcapoluogo.it/,200,https://www.ilcapoluogo.it/?feed=news-news24,17,,feed
+Rete8,https://www.rete8.it/,200,https://www.rete8.it/feed/,10,,feed
+TGR Abruzzo,https://www.rainews.it/tgr/abruzzo,200,https://www.rainews.it/tgr/abruzzo/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+La Nazione - Arezzo,https://www.lanazione.it/arezzo,200,https://www.lanazione.it/arezzo/rss,100,,feed
+Corriere di Arezzo,https://www.corrierediarezzo.it/,200,,28,https://www.corrierediarezzo.it/siteMapNews.jsp,sitemap
+ArezzoNotizie,https://www.arezzonotizie.it/,200,https://www.arezzonotizie.it/rss,25,https://www.arezzonotizie.it/sitemaps/sitemap_news.xml,feed
+La Stampa Asti,https://www.lastampa.it/asti,200,https://www.lastampa.it/asti/rss,100,,feed
+ATnews,https://www.atnews.it,200,https://www.atnews.it/feed/,10,,feed
+La Voce di Asti,https://www.lavocediasti.it,200,https://www.lavocediasti.it/rss.xml,20,,feed
+Il Mattino - Avellino,https://www.ilmattino.it/avellino/,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews,sitemap
+AvellinoToday,https://www.avellinotoday.it/,200,https://www.avellinotoday.it/rss,25,https://www.avellinotoday.it/sitemaps/sitemap_news.xml,feed
+Irpinia News,https://www.irpinianews.it/,200,https://www.irpinianews.it/feed/,15,http://www.irpinianews.it/sitemap_index.xml,feed
+Ottopagine,https://www.ottopagine.it/,200,,250,https://www.ottopagine.it/sitemap_news.xml,sitemap
+Corriere del Mezzogiorno (Puglia),https://bari.corriere.it/,200,https://xml2.corriereobjects.it/rss/homepage_bari.xml,62,,feed
+Repubblica Bari,https://bari.repubblica.it/,200,https://bari.repubblica.it/rss/rss2.0.xml,100,,feed
+La Gazzetta del Mezzogiorno,https://www.lagazzettadelmezzogiorno.it/,200,https://feeds.feedburner.com/lagazzettadelmezzogiorno/zrqvznptfkd,50,https://www.lagazzettadelmezzogiorno.it/siteMapNews.jsp,feed
+BariToday,https://www.baritoday.it/,200,https://www.baritoday.it/rss,25,https://www.baritoday.it/sitemaps/sitemap_news.xml,feed
+Borderline24,https://www.borderline24.com/,200,https://www.borderline24.com/feed/,30,,feed
+Antenna Sud,https://www.antennasud.com/,200,https://www.antennasud.com/rsslatest.xml,30,,feed
+TeleNorba,https://telenorba.it/,200,https://telenorba.it/feed/,29,,feed
+TGR Puglia,https://www.rainews.it/tgr/puglia,200,https://www.rainews.it/tgr/puglia/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Corriere Bergamo,https://bergamo.corriere.it,200,,,,homepage
+L'Eco di Bergamo,https://www.ecodibergamo.it,200,https://www.ecodibergamo.it/feeds/latesthp/268/,20,,feed
+Bergamonews,https://www.bergamonews.it,200,https://www.bergamonews.it/feed/,10,,feed
+La Provincia di Biella,https://laprovinciadibiella.it,200,https://laprovinciadibiella.it/feed/,30,https://laprovinciadibiella.it/sitemap-news.xml,feed
+NewsBiella,https://www.newsbiella.it,200,https://www.newsbiella.it/rss.xml,20,,feed
+Corriere delle Alpi,https://www.corrierealpi.it,200,https://www.corrierealpi.it/sitemap_rss_feed.xml,21,https://www.corrierealpi.it/xml/news/sitemap.xml,feed
+L'Amico del Popolo,https://www.amicodelpopolo.it,200,https://www.amicodelpopolo.it/feed/,10,,feed
+Bellunopress,https://www.bellunopress.it,200,https://www.bellunopress.it/feed/,15,,feed
+Telebelluno,https://www.telebelluno.it,200,https://www.telebelluno.it/feed/,42,,feed
+Il Mattino - Benevento,https://www.ilmattino.it/benevento/,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews,sitemap
+Il Sannio Quotidiano,https://www.ilsannioquotidiano.it/,200,https://www.ilsannioquotidiano.it/feed/,16,,feed
+Anteprima24,https://www.anteprima24.it/,200,https://www.anteprima24.it/feed/,10,,feed
+InfoSannio,https://www.infosannionews.it/,403,,,,nessuno
+Ntr24,https://www.ntr24.tv/,200,https://www.ntr24.tv/feed/,10,,feed
+Corriere di Bologna,https://corrieredibologna.corriere.it,200,,,,homepage
+Il Resto del Carlino Imola,https://www.ilrestodelcarlino.it/imola,200,https://www.ilrestodelcarlino.it/imola/rss,46,,feed
+la Repubblica Bologna,https://bologna.repubblica.it,200,https://bologna.repubblica.it/rss/cronaca/rss2.0.xml,25,,feed
+Il Resto del Carlino Bologna,https://www.ilrestodelcarlino.it/bologna,200,https://www.ilrestodelcarlino.it/bologna/rss,100,,feed
+Sabato Sera,https://www.sabatosera.it,200,https://www.sabatosera.it/feed/,20,,feed
+Bologna2000,https://www.bologna2000.com,200,https://www.bologna2000.com/feed/,10,,feed
+BolognaToday,https://www.bolognatoday.it,200,https://www.bolognatoday.it/rss,25,https://www.bolognatoday.it/sitemaps/sitemap_news.xml,feed
+TGR Emilia-Romagna,https://www.rainews.it/tgr/emiliaromagna,200,https://www.rainews.it/tgr/emiliaromagna/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Senzacolonne,https://www.senzacolonnenews.it/,200,https://www.senzacolonnenews.it/feed/,10,https://www.senzacolonnenews.it/sitemap_index.xml,feed
+BrindisiReport,https://www.brindisireport.it/,200,https://www.brindisireport.it/rss,25,https://www.brindisireport.it/sitemaps/sitemap_news.xml,feed
+Noi Notizie,https://www.noinotizie.it/,200,https://www.noinotizie.it/feed/,10,,feed
+Corriere Brescia,https://brescia.corriere.it,200,,,,homepage
+Bresciaoggi,https://www.bresciaoggi.it,200,,,,homepage
+Giornale di Brescia,https://www.giornaledibrescia.it,200,,327,https://www.giornaledibrescia.it/sitemap/news/sitemap.xml,sitemap
+BresciaToday,https://www.bresciatoday.it,200,https://www.bresciatoday.it/rss,25,https://www.bresciatoday.it/sitemaps/sitemap_news.xml,feed
+QuiBrescia,https://www.quibrescia.it,200,https://www.quibrescia.it/feed/,10,,feed
+Teletutto,https://www.teletutto.it,200,,,,homepage
+AndriaViva,https://www.andriaviva.it/,200,https://www.andriaviva.it/rss/,10,,feed
+BarlettaViva,https://www.barlettaviva.it/,200,https://www.barlettaviva.it/rss/,10,,feed
+TraniViva,https://www.traniviva.it/,200,https://www.traniviva.it/rss/,10,,feed
+Alto Adige,https://www.altoadige.it,200,https://www.altoadige.it/sitemaps/altoadige/rss,100,,feed
+Dolomiten,https://dolomiten.it/de/,200,,,,homepage
+Neue Südtiroler Tageszeitung,https://www.tageszeitung.it,200,https://www.tageszeitung.it/feed/,30,https://www.tageszeitung.it/sitemap-news.xml,feed
+Salto.bz,https://salto.bz,200,https://salto.bz/rss.xml,10,,feed
+Stol.it,https://www.stol.it,200,https://www.stol.it/feed/,50,,feed
+Südtirol News,https://www.suedtirolnews.it,200,https://www.suedtirolnews.it/feed,10,https://www.suedtirolnews.it/sitemap.xml,feed
+Unser Tirol 24,https://www.unsertirol24.com,200,https://www.unsertirol24.com/feed/,20,,feed
+Rai Südtirol Tagesschau,https://www.rainews.it/tgr/tagesschau,200,https://www.rainews.it/tgr/tagesschau/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+TGR Bolzano,https://www.rainews.it/tgr/bolzano,200,https://www.rainews.it/tgr/bolzano/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+L'Unione Sarda,https://www.unionesarda.it,200,https://www.unionesarda.it/sitemaps/rss,100,,feed
+CagliariPad,https://www.cagliaripad.it,200,,,,homepage
+CagliariToday,https://www.cagliaritoday.it,200,https://www.cagliaritoday.it/rss,25,https://www.cagliaritoday.it/sitemaps/sitemap_news.xml,feed
+Casteddu Online,https://www.castedduonline.it,200,https://www.castedduonline.it/feed/,8,,feed
+Sardegna Live,https://www.sardegnalive.net,200,https://www.sardegnalive.net/sitemaps/rss,100,,feed
+Sardinia Post,https://www.sardiniapost.it,200,https://www.sardiniapost.it/rss,10,,feed
+Vistanet,https://www.vistanet.it,200,https://www.vistanet.it/feed/,10,,feed
+TGR Sardegna,https://www.rainews.it/tgr/sardegna,200,https://www.rainews.it/tgr/sardegna/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Videolina,https://www.videolina.it,200,,,,homepage
+Quotidiano del Molise,https://www.quotidianomolise.com/,200,,,,homepage
+Il Giornale del Molise,https://www.ilgiornaledelmolise.it/,200,https://www.ilgiornaledelmolise.it/feed/,12,,feed
+Primonumero,https://www.primonumero.it/,200,https://www.primonumero.it/?feed=news-news24,12,,feed
+Termolionline,https://www.termolionline.it/,403,,,,nessuno
+TGR Molise,https://www.rainews.it/tgr/molise,200,https://www.rainews.it/tgr/molise/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Cronache di Caserta,https://cronachedi.it/,200,https://cronachedi.it/feed/,10,https://cronachedi.it/news-sitemap.xml,feed
+Il Mattino - Caserta,https://www.ilmattino.it/caserta/,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews,sitemap
+CasertaCE,https://casertace.net/,200,https://casertace.net/feed/,9,,feed
+CasertaNews,https://www.casertanews.it/,200,https://www.casertanews.it/rss,25,https://www.casertanews.it/sitemaps/sitemap.xml,feed
+Edizione Caserta,https://edizionecaserta.net/,200,https://edizionecaserta.net/feed/,10,https://edizionecaserta.net/sitemap-news.xml,feed
+ChietiToday,https://www.chietitoday.it/,200,https://www.chietitoday.it/rss,25,https://www.chietitoday.it/sitemaps/sitemap_news.xml,feed
+Zonalocale,https://www.zonalocale.it/,200,https://www.zonalocale.it/feed/,10,,feed
+Il Fatto Nisseno,https://www.ilfattonisseno.it,200,https://www.ilfattonisseno.it/feed/,15,,feed
+Quotidiano di Gela,https://quotidianodigela.it,200,https://quotidianodigela.it/feed/,20,https://quotidianodigela.it/gnews/quotidianodigela.it.xml,feed
+Seguonews,https://seguonews.it,200,,,,homepage
+La Stampa Cuneo,https://www.lastampa.it/cuneo,200,https://www.lastampa.it/cuneo/rss,100,,feed
+La Guida,https://laguida.it,200,https://laguida.it/rss.xml,30,,feed
+Cuneodice,https://www.cuneodice.it,200,https://www.cuneodice.it/rss/prima-pagina/rss2.0.xml,29,,feed
+La Voce di Alba,https://www.lavocedialba.it,200,https://www.lavocedialba.it/rss.xml,20,,feed
+Targatocn,https://www.targatocn.it,200,https://www.targatocn.it/rss.xml,20,,feed
+La Provincia di Como,https://www.laprovinciadicomo.it,200,,,,homepage
+CiaoComo,https://www.ciaocomo.it,200,https://www.ciaocomo.it/feed/,10,,feed
+QuiComo,https://www.quicomo.it,200,https://www.quicomo.it/rss,25,https://www.quicomo.it/sitemaps/sitemap_news.xml,feed
+La Provincia di Cremona,https://www.laprovinciacr.it,200,,228,https://www.laprovinciacr.it/siteMapNews.jsp,sitemap
+CremonaOggi,https://www.cremonaoggi.it,200,https://www.cremonaoggi.it/feed/,50,,feed
+OglioPoNews,https://www.oglioponews.it,200,https://www.oglioponews.it/feed/,50,https://www.oglioponews.it/sitemap_index.xml,feed
+Gazzetta del Sud - Cosenza,https://cosenza.gazzettadelsud.it/,200,https://feedpress.me/gsud_hp_cosenza,120,https://cosenza.gazzettadelsud.it/sitemap-news.xml,feed
+Il Quotidiano del Sud,https://www.quotidianodelsud.it/,200,https://www.quotidianodelsud.it/feed,75,,feed_scoperto
+CosenzaChannel,https://www.cosenzachannel.it/,200,https://www.cosenzachannel.it/sitemaps/cosenza/rss,100,,feed
+QuiCosenza,https://quicosenza.it/,200,https://quicosenza.it/news/feed/,10,https://www.quicosenza.it/news/sitemap_index.xml,feed
+La Sicilia,https://www.lasicilia.it,200,,307,https://www.lasicilia.it/siteMapNews.jsp,sitemap
+Quotidiano di Sicilia (QdS),https://qds.it,200,https://qds.it/feed/,5,,feed
+CataniaToday,https://www.cataniatoday.it,200,https://www.cataniatoday.it/rss,25,https://www.cataniatoday.it/sitemaps/sitemap_news.xml,feed
+MeridioNews,https://meridionews.it,200,https://meridionews.it/feed/,10,https://meridionews.it/sitemap_index.xml,feed
+Newsicilia,https://newsicilia.it,200,https://newsicilia.it/feed/,10,https://newsicilia.it/sitemap-news.xml,feed
+Telecolor / Antenna Sicilia (SiciliaWeb),https://siciliaweb.it,200,,,,homepage
+Gazzetta del Sud - Calabria,https://calabria.gazzettadelsud.it/,200,https://feedpress.me/gsud_hp_calabria,120,https://calabria.gazzettadelsud.it/sitemap-news.xml,feed
+Gazzetta del Sud - Catanzaro,https://catanzaro.gazzettadelsud.it/,200,https://feedpress.me/gsud_hp_catanzaro,120,https://catanzaro.gazzettadelsud.it/sitemap-news.xml,feed
+Calabria7,https://calabria7.news/,200,https://calabria7.news/feed/,10,https://calabria7.news/sitemap_index.xml,feed
+CatanzaroInforma,https://www.catanzaroinforma.it/,200,https://www.catanzaroinforma.it/feed/,10,,feed
+Corriere della Calabria,https://www.corrieredellacalabria.it/,200,https://www.corrieredellacalabria.it/feed/,10,,feed
+LameziaInforma,https://www.lameziainforma.it/,200,https://www.lameziainforma.it/feed/,10,,feed
+TGR Calabria,https://www.rainews.it/tgr/calabria,200,https://www.rainews.it/tgr/calabria/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+EnnaPress,https://ennapress.it,200,https://ennapress.it/feed/,10,,feed
+ViviEnna,https://www.vivienna.it,200,https://www.vivienna.it/feed/,30,https://www.vivienna.it/sitemap-news.xml,feed
+Il Resto del Carlino Cesena,https://www.ilrestodelcarlino.it/cesena,200,https://www.ilrestodelcarlino.it/cesena/rss,82,,feed
+Il Resto del Carlino Forlì,https://www.ilrestodelcarlino.it/forli,200,https://www.ilrestodelcarlino.it/forli/rss,72,,feed
+Corriere Romagna,https://www.corriereromagna.it,200,https://www.corriereromagna.it/rss/home.xml,100,,feed
+CesenaNotizie,https://www.cesenanotizie.net,200,https://www.cesenanotizie.net/feed/,10,,feed
+CesenaToday,https://www.cesenatoday.it,200,https://www.cesenatoday.it/rss,25,https://www.cesenatoday.it/sitemaps/sitemap_news.xml,feed
+Forlinotizie,https://www.forlinotizie.net,200,https://www.forlinotizie.net/feed/,10,,feed
+ForlìToday,https://www.forlitoday.it,200,https://www.forlitoday.it/rss,25,https://www.forlitoday.it/sitemaps/sitemap_news.xml,feed
+Il Resto del Carlino Ferrara,https://www.ilrestodelcarlino.it/ferrara,200,https://www.ilrestodelcarlino.it/ferrara/rss,100,,feed
+La Nuova Ferrara,https://www.lanuovaferrara.it,200,,,,homepage
+Estense.com,https://www.estense.com,200,https://www.estense.com/feed/,22,,feed
+FerraraToday,https://www.ferraratoday.it,200,https://www.ferraratoday.it/rss,25,https://www.ferraratoday.it/sitemaps/sitemap_news.xml,feed
+Telestense,https://www.telestense.it,200,https://www.telestense.it/feed/,15,,feed_scoperto
+l'Attacco,https://www.lattacco.it/it/,200,https://www.lattacco.it/it/?format=feed&type=rss,13,,feed
+FoggiaToday,https://www.foggiatoday.it/,200,https://www.foggiatoday.it/rss,25,https://www.foggiatoday.it/sitemaps/sitemap_news.xml,feed
+l'Immediato,https://www.immediato.net/,403,https://www.immediato.net/feed/,10,,feed
+Stato Quotidiano,https://www.statoquotidiano.it/,200,https://www.statoquotidiano.it/feed/,10,https://www.statoquotidiano.it/news-sitemap.xml,feed
+Corriere Fiorentino,https://corrierefiorentino.corriere.it/,200,,,,homepage
+La Nazione - Empoli,https://www.lanazione.it/empoli,200,https://www.lanazione.it/empoli/rss,29,,feed
+la Repubblica Firenze,https://firenze.repubblica.it/,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,,feed_scoperto
+Il Tirreno,https://www.iltirreno.it/,200,,,,homepage
+La Nazione - Firenze,https://www.lanazione.it/firenze,200,https://www.lanazione.it/firenze/rss,100,,feed
+Toscana Oggi,https://www.toscanaoggi.it/,200,https://www.toscanaoggi.it/feed/,12,,feed
+Firenze Post,https://www.firenzepost.it/,200,https://www.firenzepost.it/feed/,9,,feed
+FirenzeToday,https://www.firenzetoday.it/,200,https://www.firenzetoday.it/rss,25,https://www.firenzetoday.it/sitemaps/sitemap_news.xml,feed
+gonews.it,https://www.gonews.it/,200,https://www.gonews.it/feed/,20,,feed
+QUI News Toscana,https://www.toscanamedianews.it/,200,,,,homepage
+TGR Toscana,https://www.rainews.it/tgr/toscana,200,https://www.rainews.it/tgr/toscana/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+il Resto del Carlino - Fermo,https://www.ilrestodelcarlino.it/fermo,200,https://www.ilrestodelcarlino.it/fermo/rss,51,,feed
+Cronache Fermane,https://www.cronachefermane.it/,200,https://www.cronachefermane.it/feed/,30,,feed
+Il Messaggero - Frosinone,https://www.ilmessaggero.it/frosinone/,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews,sitemap
+Ciociaria Oggi,https://www.ciociariaoggi.it/,200,,43,https://www.ciociariaoggi.it/siteMapNews.jsp,sitemap
+Alessioporcu.it,https://alessioporcu.it/,403,https://alessioporcu.it/feed/,20,,feed
+FrosinoneToday,https://www.frosinonetoday.it/,200,https://www.frosinonetoday.it/rss,25,https://www.frosinonetoday.it/sitemaps/sitemap_news.xml,feed
+Repubblica Genova,https://genova.repubblica.it,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,,feed_scoperto
+Il Secolo XIX,https://www.ilsecoloxix.it,429,,,,nessuno
+Genova24,https://www.genova24.it,403,,,,nessuno
+GenovaToday,https://www.genovatoday.it,200,https://www.genovatoday.it/rss,25,https://www.genovatoday.it/sitemaps/sitemap_news.xml,feed
+Levante News,https://www.levantenews.it,200,https://www.levantenews.it/feed/,10,,feed
+Primocanale,https://www.primocanale.it,200,,91,https://www.primocanale.it/index.php?option=com_schuweb_sitemap&view=xml&tmpl=component&news=1&id=1,sitemap
+TGR Liguria,https://www.rainews.it/tgr/liguria,200,https://www.rainews.it/tgr/liguria/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Il Goriziano,https://www.ilgoriziano.it,200,,,,homepage
+La Nazione - Grosseto,https://www.lanazione.it/grosseto,200,https://www.lanazione.it/grosseto/rss,55,,feed
+Grosseto Notizie,https://www.grossetonotizie.com/,200,https://www.grossetonotizie.com/feed/,10,,feed
+Il Giunco,https://www.ilgiunco.net/,200,https://www.ilgiunco.net/feed/,10,,feed
+La Stampa Imperia-Sanremo,https://www.lastampa.it/imperia-sanremo,200,https://www.lastampa.it/imperia-sanremo/rss,100,,feed
+ImperiaPost,https://imperiapost.it,200,https://imperiapost.it/feed,4,,feed
+Riviera24,https://www.riviera24.it,200,https://www.riviera24.it/feed/,10,,feed
+SanremoNews,https://www.sanremonews.it,200,https://www.sanremonews.it/rss.xml,20,,feed
+isNews,https://www.isnews.it/,200,https://www.isnews.it/feed/,10,https://www.isnews.it/sitemap_index.xml,feed_scoperto
+Molise Network,https://www.molisenetwork.net/,200,https://www.molisenetwork.net/feed/,100,,feed
+Il Crotonese,https://www.ilcrotonese.it/,200,https://www.ilcrotonese.it/feed/,10,,feed
+CrotoneOK,https://www.crotoneok.it/,200,https://www.crotoneok.it/feed.xml,20,https://www.crotoneok.it/gnews/www.crotoneok.it.xml,feed
+La Provincia Unica Tv (Lecco-Sondrio),https://www.laprovinciaunicatv.it,200,,,,homepage
+LeccoToday,https://www.leccotoday.it,200,https://www.leccotoday.it/rss,25,https://www.leccotoday.it/sitemaps/sitemap_news.xml,feed
+Nuovo Quotidiano di Puglia,https://www.quotidianodipuglia.it/,200,https://www.quotidianodipuglia.it/rss/home.xml,20,http://www.quotidianodipuglia.it/?sez=XML&p=MapNews,feed
+Leccenews24,https://www.leccenews24.it/,200,https://www.leccenews24.it/feed,10,https://www.leccenews24.it/sitemap_index.xml,feed
+LeccePrima,https://www.lecceprima.it/,200,https://www.lecceprima.it/rss,25,https://www.lecceprima.it/sitemaps/sitemap_news.xml,feed
+Il Telegrafo Livorno,https://www.iltelegrafolivorno.it/,200,https://www.iltelegrafolivorno.it/rss,66,,feed
+LivornoToday,https://www.livornotoday.it/,200,https://www.livornotoday.it/rss,25,https://www.livornotoday.it/sitemaps/sitemap_news.xml,feed
+QuiLivorno,https://www.quilivorno.it/,200,https://www.quilivorno.it/feed/,10,https://www.quilivorno.it/sitemap-google-news/,feed
+Il Cittadino di Lodi,https://www.ilcittadino.it,200,,,,homepage
+Il Giorno Lodi,https://www.ilgiorno.it/lodi,200,https://www.ilgiorno.it/lodi/rss,20,,feed
+Il Messaggero - Latina,https://www.ilmessaggero.it/latina/,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews,sitemap
+Latina Oggi,https://www.latinaoggi.eu/,200,,69,https://www.latinaoggi.eu/siteMapNews.jsp,sitemap
+H24 Notizie,https://h24notizie.com/,403,,,,nessuno
+LatinaToday,https://www.latinatoday.it/,200,https://www.latinatoday.it/rss,25,https://www.latinatoday.it/sitemaps/sitemap_news.xml,feed
+La Nazione - Lucca,https://www.lanazione.it/lucca,200,https://www.lanazione.it/lucca/rss,92,,feed
+Lucca in Diretta,https://www.luccaindiretta.it/,200,https://www.luccaindiretta.it/feed/,30,,feed
+Noi TV,https://www.noitv.it/,200,https://www.noitv.it/feed/,20,,feed
+Il Cittadino di Monza e Brianza,https://www.ilcittadinomb.it,200,https://www.ilcittadinomb.it/feed/,10,,feed
+Il Giorno Monza Brianza,https://www.ilgiorno.it/monza-brianza,200,https://www.ilgiorno.it/monza-brianza/rss,57,,feed
+MBNews,https://www.mbnews.it,200,https://cdn.mbnews.it/?feed=news-news24,5,,feed
+MonzaToday,https://www.monzatoday.it,200,https://www.monzatoday.it/rss,25,https://www.monzatoday.it/sitemaps/sitemap_news.xml,feed
+il Resto del Carlino - Macerata,https://www.ilrestodelcarlino.it/macerata,200,https://www.ilrestodelcarlino.it/macerata/rss,50,,feed
+Cronache Maceratesi,https://www.cronachemaceratesi.it/,200,https://www.cronachemaceratesi.it/feed/,60,,feed
+Picchio News,https://picchionews.it/,200,https://picchionews.it/feed/,20,,feed
+Gazzetta del Sud - Messina,https://gazzettadelsud.it/messina/,404,https://gazzettadelsud.it/upload/assets/rss/producer-messina-homepage.xml,120,https://gazzettadelsud.it/sitemap-news.xml,feed
+MessinaToday,https://www.messinatoday.it,200,https://www.messinatoday.it/rss,25,https://www.messinatoday.it/sitemaps/sitemap_news.xml,feed
+Tempostretto,https://www.tempostretto.it,200,https://www.tempostretto.it/feed/,10,https://www.tempostretto.it/sitemap-news.xml,feed
+Corriere della Sera Milano,https://milano.corriere.it,200,,,,homepage
+Repubblica Milano,https://milano.repubblica.it,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,,feed_scoperto
+Il Giorno Milano,https://www.ilgiorno.it/milano,200,https://www.ilgiorno.it/milano/rss,100,,feed
+MilanoToday,https://www.milanotoday.it,200,https://www.milanotoday.it/rss,25,https://www.milanotoday.it/sitemaps/sitemap_news.xml,feed
+Telelombardia,https://www.mediapason.it/telelombardia/,200,https://www.mediapason.it/feed/,10,,feed
+TGR Lombardia,https://www.rainews.it/tgr/lombardia,200,https://www.rainews.it/tgr/lombardia/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Gazzetta di Mantova,https://www.gazzettadimantova.it,200,,,,homepage
+La Voce di Mantova,https://vocedimantova.it,200,https://vocedimantova.it/feed/,10,,feed
+MantovaUno,https://mantovauno.it,200,https://mantovauno.it/feed/,10,,feed
+Il Resto del Carlino Modena,https://www.ilrestodelcarlino.it/modena,200,https://www.ilrestodelcarlino.it/modena/rss,100,,feed
+Gazzetta di Modena,https://www.gazzettadimodena.it,200,,,,homepage
+La Pressa,https://www.lapressa.it,200,https://www.lapressa.it/rss.xml,20,https://www.lapressa.it/sitemap_news.xml,feed
+ModenaToday,https://www.modenatoday.it,200,https://www.modenatoday.it/rss,25,https://www.modenatoday.it/sitemaps/sitemap_news.xml,feed
+Sassuolo2000,https://www.sassuolo2000.it,200,https://www.sassuolo2000.it/feed/,50,,feed
+SulPanaro,https://www.sulpanaro.net,200,https://www.sulpanaro.net/feed/,10,https://www.sulpanaro.net/news-sitemap.xml,feed
+La Nazione - Massa Carrara,https://www.lanazione.it/massa-carrara,200,https://www.lanazione.it/massa-carrara/rss,67,,feed
+La Voce Apuana,https://www.voceapuana.com/,200,https://www.voceapuana.com/feed/,10,,feed
+La Siritide,https://www.lasiritide.it/,200,,,,homepage
+SassiLive,https://www.sassilive.it/,200,https://www.sassilive.it/feed/,10,,feed
+TRM h24,https://www.trmtv.it/,200,https://www.trmtv.it/feed,10,,feed
+Corriere del Mezzogiorno (Campania),https://napoli.corriere.it/,200,http://xml2.corriereobjects.it/rss/homepage_napoli.xml,47,,feed
+Repubblica Napoli,https://napoli.repubblica.it/,200,https://napoli.repubblica.it/rss/rss2.0.xml,100,,feed
+Cronache di Napoli,https://cronachedinapoli.it/,200,,,,homepage
+Il Dispari,http://www.ildispari.it/,200,https://www.ildispariquotidiano.it/it/feed/,10,https://www.ildispariquotidiano.it/it/news-sitemap.xml,feed_scoperto
+Il Mattino,https://www.ilmattino.it/,200,https://www.ilmattino.it/rss/home.xml,20,https://www.ilmattino.it/?sez=XML&p=MapNews,feed
+Il Roma,https://www.ilroma.net/,200,https://www.ilroma.net/feed/,20,https://www.ilroma.net/siteMapNews.jsp,feed
+Metropolis,https://www.metropolisweb.it/,200,https://www.metropolisweb.it/feed/,76,,feed
+Il Meridiano News,https://www.ilmeridianonews.it/,200,https://www.ilmeridianonews.it/feed/,10,https://www.ilmeridianonews.it/sitemap_index.xml,feed
+Internapoli,https://internapoli.it/,200,https://internapoli.it/feed/,30,,feed
+NapoliToday,https://www.napolitoday.it/,200,https://www.napolitoday.it/rss,25,https://www.napolitoday.it/sitemaps/sitemap_news.xml,feed
+Canale 21,https://www.canale21.it/,200,https://www.canale21.it/feed/,10,https://www.canale21.it/sitemap-news.xml,feed
+TGR Campania,https://www.rainews.it/tgr/campania,200,https://www.rainews.it/tgr/campania/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+La Stampa Novara,https://www.lastampa.it/novara,200,https://www.lastampa.it/novara/rss,100,,feed
+Corriere di Novara,https://corrieredinovara.it,200,https://corrieredinovara.it/feed/,25,,feed
+La Voce di Novara,https://www.lavocedinovara.com,200,https://www.lavocedinovara.com/feed/,10,,feed
+NovaraToday,https://www.novaratoday.it,200,https://www.novaratoday.it/rss,25,https://www.novaratoday.it/sitemaps/sitemap_news.xml,feed
+L'Ortobene,https://www.ortobene.net,200,https://www.ortobene.net/feed/,10,,feed
+Cronache Nuoresi,https://www.cronachenuoresi.it,200,https://www.cronachenuoresi.it/feed/,10,,feed
+Vistanet Ogliastra,https://www.vistanet.it/ogliastra/,200,https://www.vistanet.it/ogliastra/feed/,10,,feed
+LinkOristano,https://www.linkoristano.it,200,https://www.linkoristano.it/feed/,10,,feed
+OristanoNoi,https://www.oristanonoi.it,200,https://www.oristanonoi.it/feed/,10,,feed
+Repubblica Palermo,https://palermo.repubblica.it,200,https://palermo.repubblica.it/rss/cronaca/rss2.0.xml,25,,feed
+Giornale di Sicilia,https://gds.it,200,https://gds.it/upload/assets/rss/producer-sicilia-homepage.xml,120,https://gds.it/sitemap-news.xml,feed
+BlogSicilia,https://www.blogsicilia.it,200,https://www.blogsicilia.it/feed/,20,https://www.blogsicilia.it/sitemap-news.xml,feed
+ilSicilia.it,https://ilsicilia.it,200,https://ilsicilia.it/feed/,10,,feed
+LiveSicilia,https://livesicilia.it,200,https://livesicilia.it/feed/,1,,feed
+PalermoToday,https://www.palermotoday.it,200,https://www.palermotoday.it/rss,25,https://www.palermotoday.it/sitemaps/sitemap_news.xml,feed
+TGR Sicilia,https://www.rainews.it/tgr/sicilia,200,https://www.rainews.it/tgr/sicilia/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+TGS - Telegiornale di Sicilia,https://tgs.gds.it,200,,,,homepage
+Libertà,https://www.liberta.it,200,,83,https://www.liberta.it/google-news-sitemap.xml,sitemap
+IlPiacenza,https://www.ilpiacenza.it,200,https://www.ilpiacenza.it/rss,25,https://www.ilpiacenza.it/sitemaps/sitemap_news.xml,feed
+PiacenzaSera,https://www.piacenzasera.it,200,https://www.piacenzasera.it/feed/,10,,feed
+Il Mattino di Padova,https://www.mattinopadova.it,200,https://www.mattinopadova.it/sitemap_rss_feed.xml,47,https://www.mattinopadova.it/xml/news/sitemap.xml,feed
+PadovaOggi,https://www.padovaoggi.it,200,https://www.padovaoggi.it/rss,25,https://www.padovaoggi.it/sitemaps/sitemap_news.xml,feed
+Il Germe,https://www.ilgerme.it/,200,https://www.ilgerme.it/feed/,10,,feed
+Il Pescara,https://www.ilpescara.it/,200,https://www.ilpescara.it/rss,25,https://www.ilpescara.it/sitemaps/sitemap_news.xml,feed
+La Nazione - Umbria,https://www.lanazione.it/umbria,200,https://www.lanazione.it/umbria/rss,100,,feed
+Corriere dell'Umbria,https://www.corrieredellumbria.it/,200,,118,https://www.corrieredellumbria.it/siteMapNews.jsp,sitemap
+PerugiaToday,https://www.perugiatoday.it/,200,https://www.perugiatoday.it/rss,25,https://www.perugiatoday.it/sitemaps/sitemap_news.xml,feed
+TuttOggi,https://tuttoggi.info/,200,https://tuttoggi.info/feed/,10,https://news-umbria.tuttoggi.info/sitemap_index.xml,feed
+Umbria Journal,https://www.umbriajournal.com/,200,https://www.umbriajournal.com/feed/,7,,feed
+Umbria24,https://www.umbria24.it/,200,https://www.umbria24.it/feed/,10,https://www.umbria24.it/news-sitemap.xml,feed
+TGR Umbria,https://www.rainews.it/tgr/umbria,200,https://www.rainews.it/tgr/umbria/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+La Nazione - Pisa,https://www.lanazione.it/pisa,200,https://www.lanazione.it/pisa/rss,61,,feed
+PisaToday,https://www.pisatoday.it/,200,https://www.pisatoday.it/rss,25,https://www.pisatoday.it/sitemaps/sitemap_news.xml,feed
+Il Popolo,https://ilpopolopordenone.it,200,https://ilpopolopordenone.it/feed/,9,,feed
+Nordest24,https://www.nordest24.it,200,https://www.nordest24.it/feed/,20,https://www.nordest24.it/gnews/www.nordest24.it.xml,feed
+PordenoneToday,https://www.pordenonetoday.it,200,https://www.pordenonetoday.it/rss,25,https://www.pordenonetoday.it/sitemaps/sitemap_news.xml,feed
+La Nazione - Prato,https://www.lanazione.it/prato,200,https://www.lanazione.it/prato/rss,86,,feed
+Notizie di Prato,https://www.notiziediprato.it/,200,https://www.notiziediprato.it/feed/,15,,feed
+TV Prato,https://www.tvprato.it/,200,https://www.tvprato.it/feed/,10,,feed
+Gazzetta di Parma,https://www.gazzettadiparma.it,200,https://www.gazzettadiparma.it/rss.jsp,20,https://www.gazzettadiparma.it/siteMapNews.jsp,feed
+ParmaDaily,https://www.parmadaily.it,200,https://www.parmadaily.it/feed/,20,,feed
+ParmaToday,https://www.parmatoday.it,200,https://www.parmatoday.it/rss,25,https://www.parmatoday.it/sitemaps/sitemap_news.xml,feed
+La Nazione - Pistoia,https://www.lanazione.it/pistoia,200,https://www.lanazione.it/pistoia/rss,47,,feed
+Report Pistoia,https://www.reportpistoia.com/,200,https://www.reportpistoia.com/feed/,10,,feed
+TVL Pistoia,https://www.tvl.it/,SSLError,,,,nessuno
+il Resto del Carlino - Pesaro,https://www.ilrestodelcarlino.it/pesaro,200,https://www.ilrestodelcarlino.it/pesaro/rss,93,,feed
+Vivere Pesaro,https://www.viverepesaro.it/,200,https://www.viverepesaro.it/rss,20,,feed
+La Provincia Pavese,https://laprovinciapavese.gelocal.it/pavia/,200,https://laprovinciapavese.gelocal.it/rss/finegil/laprovinciapavese/feed.rss,39,,feed
+Vigevano24,https://www.vigevano24.it,200,https://www.vigevano24.it/rss.xml,20,,feed
+Il Quotidiano del Sud - Basilicata,https://www.quotidianodelsud.it/basilicata,200,https://www.quotidianodelsud.it/feed,75,,feed
+La Nuova del Sud,https://www.lanuova.net/,200,,17,https://www.lanuova.net/google-news-sitemap.xml,sitemap
+Basilicata24,https://www.basilicata24.it/,200,https://www.basilicata24.it/feed/,10,,feed
+Potenza News,https://www.potenzanews.net/,200,https://www.potenzanews.net/feed/,10,https://www.potenzanews.net/sitemap_index.xml,feed
+TGR Basilicata,https://www.rainews.it/tgr/basilicata,200,https://www.rainews.it/tgr/basilicata/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Il Resto del Carlino Ravenna,https://www.ilrestodelcarlino.it/ravenna,200,https://www.ilrestodelcarlino.it/ravenna/rss,97,,feed
+Ravenna&Dintorni,https://www.ravennaedintorni.it,403,,,,nessuno
+RavennaNotizie,https://www.ravennanotizie.it,200,https://www.ravennanotizie.it/feed/,10,,feed
+RavennaToday,https://www.ravennatoday.it,200,https://www.ravennatoday.it/rss,25,https://www.ravennatoday.it/sitemaps/sitemap_news.xml,feed
+Gazzetta del Sud - Reggio,https://reggio.gazzettadelsud.it/,200,https://feedpress.me/gsud_hp_reggio,120,https://reggio.gazzettadelsud.it/sitemap-news.xml,feed
+CityNow,https://www.citynow.it/,200,https://www.citynow.it/feed/,16,https://www.citynow.it/news-sitemap.xml,feed
+Il Dispaccio,https://ildispaccio.it/,200,https://ildispaccio.it/feed/,10,,feed
+Il Reggino,https://www.ilreggino.it/,200,https://www.ilreggino.it/sitemaps/reggino/rss,100,,feed
+L'Eco della Locride,https://www.ecodellalocride.it/,200,https://www.ecodellalocride.it/feed/,10,,feed
+ReggioToday,https://www.reggiotoday.it/,200,https://www.reggiotoday.it/rss,25,https://www.reggiotoday.it/sitemaps/sitemap_news.xml,feed
+StrettoWeb,https://www.strettoweb.com/,200,https://www.strettoweb.com/feed/,30,https://www.strettoweb.com/sitemaps/sitemap-news.xml,feed
+Il Resto del Carlino Reggio Emilia,https://www.ilrestodelcarlino.it/reggio-emilia,200,https://www.ilrestodelcarlino.it/reggio-emilia/rss,100,,feed
+Gazzetta di Reggio,https://www.gazzettadireggio.it,200,,,,homepage
+Reggio Sera,https://www.reggiosera.it,200,https://www.reggiosera.it/feed/,10,,feed
+Reggionline (Telereggio),https://www.reggionline.com,200,https://www.reggionline.com/feed/,10,,feed
+Corriere di Ragusa,https://corrierediragusa.it,200,https://corrierediragusa.it/feed/,15,,feed
+RagusaNews,https://www.ragusanews.com,200,https://ragusanews.com/rss_feed.xml,40,https://www.ragusanews.com/sitemap_index.xml,feed
+RagusaOggi,https://www.ragusaoggi.it,200,https://www.ragusaoggi.it/feed/,10,https://www.ragusaoggi.it/sitemap-news.xml,feed
+Il Messaggero - Rieti,https://www.ilmessaggero.it/rieti/,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews,sitemap
+RietiLife,https://www.rietilife.com/,403,,,,nessuno
+Corriere della Sera - Roma,https://roma.corriere.it/,200,,,,homepage
+Il Messaggero - Roma,https://www.ilmessaggero.it/roma/,200,,100,https://www.ilmessaggero.it/?sez=XML&p=MapNews,sitemap
+la Repubblica Roma,https://roma.repubblica.it/,200,http://www.repubblica.it/rss/homepage/rss2.0.xml,30,,feed_scoperto
+Il Tempo - Roma Capitale,https://www.iltempo.it/roma-capitale/,200,https://www.iltempo.it/arc/outboundfeeds/rss/category/roma-capitale/?outputType=xml,20,https://www.iltempo.it/arc/outboundfeeds/sitemap-news-index/?outputType=xml,feed
+Abitare a Roma,https://abitarearoma.it/,200,https://abitarearoma.it/feed/,15,https://abitarearoma.it/sitemap-news.xml,feed
+Castelli Notizie,https://www.castellinotizie.it/,200,https://www.castellinotizie.it/feed/,10,,feed
+Il Faro online,https://www.ilfaroonline.it/,200,https://www.ilfaroonline.it/feed/,10,,feed
+Il Mamilio,https://www.ilmamilio.it/wp/,200,https://www.ilmamilio.it/wp/feed/,10,,feed
+RomaIT,https://www.romait.it/,200,https://www.romait.it/feed/,10,https://www.romait.it/sitemap-news.xml,feed
+RomaToday,https://www.romatoday.it/,200,https://www.romatoday.it/rss,25,https://www.romatoday.it/sitemaps/sitemap_news.xml,feed
+TGR Lazio,https://www.rainews.it/tgr/lazio,200,https://www.rainews.it/tgr/lazio/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Il Resto del Carlino Rimini,https://www.ilrestodelcarlino.it/rimini,200,https://www.ilrestodelcarlino.it/rimini/rss,89,,feed
+altarimini,https://altarimini.it,200,https://altarimini.it/feed/,20,https://altarimini.it/gnews/altarimini.it.xml,feed
+Chiamami Città,https://www.chiamamicitta.it,200,https://www.chiamamicitta.it/feed/,10,,feed
+NewsRimini,https://www.newsrimini.it,200,https://www.newsrimini.it/feed/rss,20,https://www.newsrimini.it/sitemap.xml,feed
+RiminiToday,https://www.riminitoday.it,200,https://www.riminitoday.it/rss,25,https://www.riminitoday.it/sitemaps/sitemap_news.xml,feed
+Il Resto del Carlino Rovigo,https://www.ilrestodelcarlino.it/rovigo,200,https://www.ilrestodelcarlino.it/veneto/rss,6,,feed
+Polesine24,https://www.polesine24.it,200,https://www.polesine24.it/rss.jsp,20,https://www.polesine24.it/siteMapNews.jsp,feed
+RovigoOggi (Rovigo.News),https://www.rovigooggi.it,SSLError,https://www.rovigo.news/feed/,14,,feed
+Il Mattino - Salerno,https://www.ilmattino.it/salerno/,200,,100,https://www.ilmattino.it/?sez=XML&p=MapNews,sitemap
+La Città di Salerno,https://www.lacittadisalerno.it/,403,,,,nessuno
+Le Cronache,https://www.lecronache.info/,200,https://www.lecronache.info/feed/,15,,feed
+InfoCilento,https://www.infocilento.it/,200,https://www.infocilento.it/feed/,18,,feed
+Positanonews,https://www.positanonews.it/,200,https://www.positanonews.it/feed/,10,,feed
+Salernonotizie,https://www.salernonotizie.it/,200,https://www.salernonotizie.it/feed/,20,,feed
+SalernoToday,https://www.salernotoday.it/,200,https://www.salernotoday.it/rss,25,https://www.salernotoday.it/sitemaps/sitemap_news.xml,feed
+Zerottonove,https://www.zerottonove.it/,SSLError,,,,nessuno
+Telecolore,https://www.telecolore.it/,200,https://www.telecolore.it/feed/,10,,feed
+La Nazione - Siena,https://www.lanazione.it/siena,200,https://www.lanazione.it/siena/rss,81,,feed
+Il Cittadino Online,https://www.ilcittadinoonline.it/,200,,,,homepage
+Siena Free,https://sienafree.it/,200,https://sienafree.it/feed,20,,feed
+Siena News,https://sienanews.it/,200,https://sienanews.it/feed/,15,https://sienanews.it/sitemap_index.xml,feed
+SondrioToday,https://www.sondriotoday.it,200,https://www.sondriotoday.it/rss,25,https://www.sondriotoday.it/sitemaps/sitemap_news.xml,feed
+Valtellina News,https://www.valtellinanews.it,200,,23,https://www.valtellinanews.it/sitemap_index.xml,sitemap
+La Nazione La Spezia,https://www.lanazione.it/la-spezia,200,https://www.lanazione.it/la-spezia/rss,42,,feed
+Città della Spezia,https://www.cittadellaspezia.com,200,https://www.cittadellaspezia.com/feed/,30,,feed
+SiracusaNews,https://www.siracusanews.it,200,https://www.siracusanews.it/feed/,20,https://www.siracusanews.it/sitemap_index.xml,feed
+SiracusaOggi,https://www.siracusaoggi.it,200,https://www.siracusaoggi.it/feed/,5,,feed
+WebMarte,https://www.webmarte.tv,200,https://www.webmarte.tv/feed/,10,https://www.webmarte.tv/sitemap-news.xml,feed
+La Nuova Sardegna,https://www.lanuovasardegna.it,200,,,,homepage
+AlgheroEco,https://www.algheroeco.com,200,https://www.algheroeco.com/feed/,10,,feed
+Alguer.it,https://www.alguer.it,200,https://www.alguer.it/notizie/rss.php,10,,feed
+Gallura Oggi,https://www.galluraoggi.it,200,https://www.galluraoggi.it/feed/,10,,feed
+Olbia.it,https://www.olbia.it,200,https://www.olbia.it/rss,100,,feed
+SassariNotizie,https://www.sassarinotizie.com,200,https://www.sassarinotizie.com/feed/,10,,feed
+La Provincia del Sulcis Iglesiente,https://www.laprovinciadelsulcisiglesiente.com,200,https://www.laprovinciadelsulcisiglesiente.com/feed/,10,,feed
+La Stampa Savona,https://www.lastampa.it/savona,200,https://www.lastampa.it/savona/rss,100,,feed
+IVG - Il Vostro Giornale,https://www.ivg.it,403,,,,nessuno
+SavonaNews,https://www.savonanews.it,200,https://www.savonanews.it/rss.xml,20,,feed
+Buonasera24 (Taranto Buonasera),https://www.buonasera24.it/,200,,117,https://www.buonasera24.it/siteMapNews.jsp,sitemap
+Corriere di Taranto,https://www.corriereditaranto.it/,403,,,,nessuno
+ManduriaOggi,https://www.manduriaoggi.it/,200,https://www.manduriaoggi.it/rss,20,,feed
+Certastampa,https://www.certastampa.it/,200,https://www.certastampa.it/?format=feed&type=rss,10,,feed
+Ekuonews,https://www.ekuonews.it/,200,https://www.ekuonews.it/feed/,50,https://www.ekuonews.it/backend/api/sitemap.xml,feed
+Corriere del Trentino,https://corrieredeltrentino.corriere.it,200,,,,homepage
+il T quotidiano,https://www.iltquotidiano.it,200,,,,homepage
+l'Adige,https://www.ladige.it,200,https://www.ladige.it/sitemaps/ladige/rss,100,,feed
+Vita Trentina,https://www.vitatrentina.it,200,https://www.vitatrentina.it/feed/,12,,feed
+il Dolomiti,https://www.ildolomiti.it,200,https://www.ildolomiti.it/rss.xml,50,https://www.ildolomiti.it/sitemaps/news.xml,feed
+TrentoToday,https://www.trentotoday.it,200,https://www.trentotoday.it/rss,25,https://www.trentotoday.it/sitemaps/sitemap_news.xml,feed
+TGR Trento,https://www.rainews.it/tgr/trento,200,https://www.rainews.it/tgr/trento/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Corriere Torino,https://torino.corriere.it,200,,,,homepage
+La Stampa Torino,https://www.lastampa.it/torino,200,https://www.lastampa.it/torino/rss,100,,feed
+Repubblica Torino,https://torino.repubblica.it,200,https://torino.repubblica.it/rss/rss2.0.xml,100,,feed
+Cronaca Qui Torino,https://www.torinocronaca.it,200,,268,https://www.torinocronaca.it/siteMapNews.jsp,sitemap
+La Sentinella del Canavese,https://lasentinella.it,200,https://www.lasentinella.it/feed/,10,,feed
+L'Eco del Chisone,https://www.ecodelchisone.it,403,https://www.ecodelchisone.it/rss.xml,10,,feed
+Prima il Canavese,https://primailcanavese.it,200,https://primailcanavese.it/feed/,25,,feed
+Quotidiano Piemontese,https://www.quotidianopiemontese.it,200,https://www.quotidianopiemontese.it/feed/,20,https://www.quotidianopiemontese.it/sitemap-news.xml,feed
+Torino Oggi,https://www.torinoggi.it,200,https://www.torinoggi.it/rss.xml,20,,feed
+TorinoToday,https://www.torinotoday.it,200,https://www.torinotoday.it/rss,25,https://www.torinotoday.it/sitemaps/sitemap_news.xml,feed
+GRP Televisione,https://www.grp.it,200,,6,https://grp.it/sitemaps/sitemap-news.xml,sitemap
+Primantenna,https://www.primantenna.tv,200,https://www.primantenna.tv/feed/,10,,feed
+TGR Piemonte,https://www.rainews.it/tgr/piemonte,200,https://www.rainews.it/tgr/piemonte/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Alqamah,https://www.alqamah.it,200,https://www.alqamah.it/feed/,10,,feed
+Marsala News,https://www.marsalanews.it,200,https://www.marsalanews.it/feed/,25,,feed
+TP24,https://www.tp24.it,200,https://www.tp24.it/rss/news.xml,40,,feed
+TrapaniSì,https://www.trapanisi.it,200,https://www.trapanisi.it/feed/,15,,feed
+TerniToday,https://www.ternitoday.it/,200,https://www.ternitoday.it/rss,25,https://www.ternitoday.it/sitemaps/sitemap_news.xml,feed
+UmbriaOn,https://www.umbriaon.it/,200,https://www.umbriaon.it/feed/,10,,feed
+Il Piccolo,https://www.ilpiccolo.it,200,https://www.ilpiccolo.it/sitemap_rss_feed.xml,74,https://www.ilpiccolo.it/xml/news/sitemap.xml,feed
+Primorski dnevnik,https://www.primorski.eu,200,https://www.primorski.eu/rss/trzaska,20,,feed
+Trieste Cafe,https://www.triestecafe.it,200,https://www.triestecafe.it/rss.xml,50,https://www.triestecafe.it/sitemap-news.xml,feed
+TriestePrima,https://www.triesteprima.it,200,https://www.triesteprima.it/rss,25,https://www.triesteprima.it/sitemaps/sitemap_news.xml,feed
+Telequattro,https://telequattro.medianordest.it,200,https://telequattro.medianordest.it/feed/,10,,feed
+TGR Friuli Venezia Giulia,https://www.rainews.it/tgr/fvg,200,https://www.rainews.it/tgr/fvg/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+La Tribuna di Treviso,https://www.tribunatreviso.it,200,https://www.tribunatreviso.it/sitemap_rss_feed.xml,45,https://www.tribunatreviso.it/xml/news/sitemap.xml,feed
+Il Piave,https://www.ilpiave.it,200,,,,homepage
+OggiTreviso,https://www.oggitreviso.it,403,,,,nessuno
+Qdpnews,https://www.qdpnews.it,200,https://www.qdpnews.it/feed/,10,,feed
+TrevisoToday,https://www.trevisotoday.it,200,https://www.trevisotoday.it/rss,25,https://www.trevisotoday.it/sitemaps/sitemap_news.xml,feed
+Antenna Tre Nordest,https://antennatre.medianordest.it,200,https://antennatre.medianordest.it/feed/,10,,feed
+Messaggero Veneto,https://www.messaggeroveneto.it,200,https://www.messaggeroveneto.it/sitemap_rss_feed.xml,74,https://www.messaggeroveneto.it/xml/news/sitemap.xml,feed
+Il Friuli,https://www.ilfriuli.it,200,https://www.ilfriuli.it/feed/,15,,feed
+La Vita Cattolica,https://www.lavitacattolica.it,200,https://www.lavitacattolica.it/feed/,10,,feed
+Diario FVG,https://www.diariofvg.it,200,https://www.diariofvg.it/feed/,30,,feed
+Friulioggi,https://www.friulioggi.it,200,https://www.friulioggi.it/feed/,50,,feed
+UdineToday,https://www.udinetoday.it,200,https://www.udinetoday.it/rss,25,https://www.udinetoday.it/sitemaps/sitemap_news.xml,feed
+Telefriuli,https://www.telefriuli.it,200,https://www.telefriuli.it/feed/,30,,feed
+La Provincia di Varese,https://www.laprovinciadivarese.it,200,https://www.laprovinciadivarese.it/feed/,10,,feed
+Varese News,https://www.varesenews.it,200,https://www.varesenews.it/feed/,27,https://www.varesenews.it/sitemap.xml,feed
+La Stampa Verbania,https://www.lastampa.it/verbano-cusio-ossola,200,https://www.lastampa.it/verbano-cusio-ossola/rss,100,,feed
+Eco Risveglio,https://www.ecorisveglio.it,200,https://www.ecorisveglio.it/feed/,10,,feed
+Ossola News,https://www.ossolanews.it,200,https://www.ossolanews.it/rss.xml,20,,feed
+VCO News,https://www.vconews.it,200,https://www.vconews.it/rss.xml,20,,feed
+Notizia Oggi Vercelli,https://notiziaoggi.it,200,https://notiziaoggi.it/feed/,20,https://notiziaoggi.it/sitemap-news.xml,feed
+InfoVercelli24,https://www.infovercelli24.it,200,https://www.infovercelli24.it/rss.xml,20,,feed
+Corriere del Veneto,https://corrieredelveneto.corriere.it,200,,,,homepage
+Il Gazzettino,https://www.ilgazzettino.it,418,,,,nessuno
+La Nuova Venezia,https://www.nuovavenezia.it,200,https://www.nuovavenezia.it/sitemap_rss_feed.xml,43,https://www.nuovavenezia.it/xml/news/sitemap.xml,feed
+Il Nuovo Terraglio,https://ilnuovoterraglio.it,200,https://ilnuovoterraglio.it/feed/,10,,feed
+VeneziaToday,https://www.veneziatoday.it,200,https://www.veneziatoday.it/rss,25,https://www.veneziatoday.it/sitemaps/sitemap_news.xml,feed
+TGR Veneto,https://www.rainews.it/tgr/veneto,200,https://www.rainews.it/tgr/veneto/rss/tutti,40,https://www.rainews.it/sitemap.xml,feed
+Il Giornale di Vicenza,https://www.ilgiornaledivicenza.it,200,,,,homepage
+Bassanonet,https://www.bassanonet.it,200,,,,homepage
+VicenzaReport,https://www.vicenzareport.it,200,https://www.vicenzareport.it/feed/,20,,feed
+VicenzaToday,https://www.vicenzatoday.it,200,,1,https://www.vicenzatoday.it/sitemaps/sitemap_news.xml,sitemap
+Rete Veneta,https://reteveneta.medianordest.it,200,https://reteveneta.medianordest.it/feed/,10,,feed
+TVA Vicenza,https://tvavicenza.gruppovideomedia.it,200,,,,homepage
+L'Arena,https://www.larena.it,200,,,,homepage
+Verona Network,https://www.veronanetwork.it,200,https://www.veronanetwork.it/feed/,10,,feed
+Verona Oggi,https://www.veronaoggi.it,200,https://www.veronaoggi.it/feed/,10,,feed
+VeronaSera,https://www.veronasera.it,200,https://www.veronasera.it/rss,25,https://www.veronasera.it/sitemaps/sitemap_news.xml,feed
+Telearena,https://www.telearena.it,200,,,,homepage
+Il Messaggero - Viterbo,https://www.ilmessaggero.it/viterbo/,418,,,,nessuno
+Corriere di Viterbo,https://www.corrierediviterbo.it/,200,https://www.corrierediviterbo.it/feed/,10,,feed
+Tusciaweb,https://www.tusciaweb.eu/,200,https://www.tusciaweb.eu/comments/feed/,25,,feed_scoperto
+ViterboToday,https://www.viterbotoday.it/,200,https://www.viterbotoday.it/rss,25,https://www.viterbotoday.it/sitemaps/sitemap_news.xml,feed
+Il Vibonese,https://www.ilvibonese.it/,200,https://www.ilvibonese.it/sitemaps/vibonese/rss,100,,feed
+LaC News24,https://www.lacnews24.it/,200,https://www.lacnews24.it/sitemaps/lacnews24/rss,100,https://www.lacnews24.it/sitemaps/lacnews24/sitemap_index.xml,feed

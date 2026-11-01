@@ -1,0 +1,108 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Il Messaggero - Roma,https://www.ilmessaggero.it/roma/,,RM,Roma,edizione_locale,Caltagirone,it,misto,200,"anti-bot (418) sui feed; feed probabile https://www.ilmessaggero.it/rss/roma.xml non verificabile"
+la Repubblica Roma,https://roma.repubblica.it/,,RM,Roma,edizione_locale,GEDI,it,misto,200,"senza feed (rss locale fermo al 2023)"
+Corriere della Sera - Roma,https://roma.corriere.it/,,RM,Roma,edizione_locale,RCS,it,misto,200,"senza feed (xml2.corriereobjects fermo al 2022)"
+RomaToday,https://www.romatoday.it/,https://www.romatoday.it/rss,RM,Roma,sito_locale,Citynews,it,no,200,
+Il Tempo - Roma Capitale,https://www.iltempo.it/roma-capitale/,https://www.iltempo.it/arc/outboundfeeds/rss/category/roma-capitale/?outputType=xml,RM,Roma,quotidiano_locale,altro (Angelucci),it,misto,200,"feed della sezione Roma"
+TGR Lazio,https://www.rainews.it/tgr/lazio,https://www.rainews.it/tgr/lazio/rss/tutti,RM,Roma,tv_locale,Rai,it,no,200,regionale Lazio
+RomaIT,https://www.romait.it/,https://www.romait.it/feed/,RM,Roma,sito_locale,indipendente,it,no,200,
+Il Faro online,https://www.ilfaroonline.it/,https://www.ilfaroonline.it/feed/,RM,Fiumicino,sito_locale,indipendente,it,no,200,"litorale romano: Ostia, Fiumicino, Anzio"
+Abitare a Roma,https://abitarearoma.it/,https://abitarearoma.it/feed/,RM,Roma,sito_locale,indipendente,it,no,200,"iperlocale quartieri e municipi"
+Il Mamilio,https://www.ilmamilio.it/wp/,https://www.ilmamilio.it/wp/feed/,RM,Castelli Romani,sito_locale,indipendente,it,no,200,Castelli Romani
+Castelli Notizie,https://www.castellinotizie.it/,https://www.castellinotizie.it/feed/,RM,Castelli Romani,sito_locale,indipendente,it,no,200,Castelli Romani
+Latina Oggi,https://www.latinaoggi.eu/,,LT,Latina,quotidiano_locale,altro (Editoriale Oggi),it,misto,200,"senza feed (rss sezioni vuoti)"
+LatinaToday,https://www.latinatoday.it/,https://www.latinatoday.it/rss,LT,Latina,sito_locale,Citynews,it,no,200,
+H24 Notizie,https://h24notizie.com/,https://h24notizie.com/feed/,LT,Latina,sito_locale,indipendente,it,no,200,"provincia di Latina e sud pontino; www non risponde, usare dominio senza www"
+Il Messaggero - Latina,https://www.ilmessaggero.it/latina/,,LT,Latina,edizione_locale,Caltagirone,it,misto,418,"anti-bot 418; senza feed verificato"
+Ciociaria Oggi,https://www.ciociariaoggi.it/,,FR,Frosinone,quotidiano_locale,altro (Editoriale Oggi),it,misto,200,"senza feed (rss sezioni vuoti)"
+FrosinoneToday,https://www.frosinonetoday.it/,https://www.frosinonetoday.it/rss,FR,Frosinone,sito_locale,Citynews,it,no,200,
+Alessioporcu.it,https://alessioporcu.it/,https://alessioporcu.it/feed/,FR,Frosinone,sito_locale,indipendente,it,no,,"forte su politica ciociara; homepage a volte non risponde (ConnectionError), feed ok"
+Il Messaggero - Frosinone,https://www.ilmessaggero.it/frosinone/,,FR,Frosinone,edizione_locale,Caltagirone,it,misto,418,"anti-bot 418; senza feed verificato"
+Tusciaweb,https://www.tusciaweb.eu/,https://www.tusciaweb.eu/feed/,VT,Viterbo,sito_locale,indipendente,it,no,200,"molto prolifico"
+ViterboToday,https://www.viterbotoday.it/,https://www.viterbotoday.it/rss,VT,Viterbo,sito_locale,Citynews,it,no,200,
+Corriere di Viterbo,https://www.corrierediviterbo.it/,https://www.corrierediviterbo.it/feed/,VT,Viterbo,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,
+Il Messaggero - Viterbo,https://www.ilmessaggero.it/viterbo/,,VT,Viterbo,edizione_locale,Caltagirone,it,misto,418,"anti-bot 418; senza feed verificato"
+RietiLife,https://www.rietilife.com/,https://www.rietilife.com/feed/,RI,Rieti,sito_locale,indipendente,it,no,200,
+Il Messaggero - Rieti,https://www.ilmessaggero.it/rieti/,,RI,Rieti,edizione_locale,Caltagirone,it,misto,200,"anti-bot 418 sui feed; senza feed verificato"
+La Nazione - Firenze,https://www.lanazione.it/firenze,https://www.lanazione.it/firenze/rss,FI,Firenze,quotidiano_locale,Monrif (QN),it,misto,200,
+Corriere Fiorentino,https://corrierefiorentino.corriere.it/,,FI,Firenze,edizione_locale,RCS,it,misto,200,"senza feed (feed vecchi fermi al 2014/2022)"
+la Repubblica Firenze,https://firenze.repubblica.it/,,FI,Firenze,edizione_locale,GEDI,it,misto,200,"senza feed (rss locale fermo al 2023)"
+FirenzeToday,https://www.firenzetoday.it/,https://www.firenzetoday.it/rss,FI,Firenze,sito_locale,Citynews,it,no,200,
+Firenze Post,https://www.firenzepost.it/,https://www.firenzepost.it/feed/,FI,Firenze,sito_locale,indipendente,it,no,200,"mescola notizie nazionali"
+TGR Toscana,https://www.rainews.it/tgr/toscana,https://www.rainews.it/tgr/toscana/rss/tutti,FI,Firenze,tv_locale,Rai,it,no,200,regionale Toscana
+QUI News Toscana,https://www.toscanamedianews.it/,,FI,Firenze,sito_locale,altro (Toscana Media Channel),it,no,200,"regionale Toscana, rete di edizioni provinciali; senza feed"
+Toscana Oggi,https://www.toscanaoggi.it/,https://www.toscanaoggi.it/feed/,FI,Firenze,settimanale,altro (diocesano),it,misto,200,"regionale Toscana, settimanale cattolico"
+gonews.it,https://www.gonews.it/,https://www.gonews.it/feed/,FI,Empoli,sito_locale,indipendente,it,no,200,"Empolese Valdelsa e Toscana centrale"
+La Nazione - Empoli,https://www.lanazione.it/empoli,https://www.lanazione.it/empoli/rss,FI,Empoli,edizione_locale,Monrif (QN),it,misto,200,
+Il Tirreno,https://www.iltirreno.it/,,FI,Livorno,quotidiano_locale,SAE,it,misto,200,"regionale Toscana costiera (Livorno, Pisa, Lucca, Grosseto, Massa, Prato, Pistoia); senza feed"
+Il Telegrafo Livorno,https://www.iltelegrafolivorno.it/,https://www.iltelegrafolivorno.it/rss,LI,Livorno,quotidiano_locale,Monrif (QN),it,misto,200,"edizione livornese de La Nazione (lanazione.it/livorno reindirizza qui)"
+LivornoToday,https://www.livornotoday.it/,https://www.livornotoday.it/rss,LI,Livorno,sito_locale,Citynews,it,no,200,
+QuiLivorno,https://www.quilivorno.it/,https://www.quilivorno.it/feed/,LI,Livorno,sito_locale,indipendente,it,no,200,
+La Nazione - Pisa,https://www.lanazione.it/pisa,https://www.lanazione.it/pisa/rss,PI,Pisa,edizione_locale,Monrif (QN),it,misto,200,
+PisaToday,https://www.pisatoday.it/,https://www.pisatoday.it/rss,PI,Pisa,sito_locale,Citynews,it,no,200,
+La Nazione - Lucca,https://www.lanazione.it/lucca,https://www.lanazione.it/lucca/rss,LU,Lucca,edizione_locale,Monrif (QN),it,misto,200,
+Lucca in Diretta,https://www.luccaindiretta.it/,https://www.luccaindiretta.it/feed/,LU,Lucca,sito_locale,indipendente,it,no,200,
+Noi TV,https://www.noitv.it/,https://www.noitv.it/feed/,LU,Lucca,tv_locale,indipendente,it,no,200,"Lucca e Versilia"
+La Nazione - Arezzo,https://www.lanazione.it/arezzo,https://www.lanazione.it/arezzo/rss,AR,Arezzo,edizione_locale,Monrif (QN),it,misto,200,
+ArezzoNotizie,https://www.arezzonotizie.it/,https://www.arezzonotizie.it/rss,AR,Arezzo,sito_locale,Citynews,it,no,200,
+Corriere di Arezzo,https://www.corrierediarezzo.it/,,AR,Arezzo,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,senza feed
+La Nazione - Siena,https://www.lanazione.it/siena,https://www.lanazione.it/siena/rss,SI,Siena,edizione_locale,Monrif (QN),it,misto,200,
+Il Cittadino Online,https://www.ilcittadinoonline.it/,https://www.ilcittadinoonline.it/feed/,SI,Siena,sito_locale,indipendente,it,no,200,"feed dichiarato ma risponde 400 allo script (probabile anti-bot)"
+Siena News,https://sienanews.it/,https://sienanews.it/feed/,SI,Siena,sito_locale,indipendente,it,no,200,"usare dominio senza www (www da errore SSL)"
+Siena Free,https://sienafree.it/,https://sienafree.it/feed,SI,Siena,sito_locale,indipendente,it,no,200,
+La Nazione - Grosseto,https://www.lanazione.it/grosseto,https://www.lanazione.it/grosseto/rss,GR,Grosseto,edizione_locale,Monrif (QN),it,misto,200,
+Il Giunco,https://www.ilgiunco.net/,https://www.ilgiunco.net/feed/,GR,Grosseto,sito_locale,indipendente,it,no,200,
+Grosseto Notizie,https://www.grossetonotizie.com/,https://www.grossetonotizie.com/feed/,GR,Grosseto,sito_locale,indipendente,it,no,200,
+La Nazione - Prato,https://www.lanazione.it/prato,https://www.lanazione.it/prato/rss,PO,Prato,edizione_locale,Monrif (QN),it,misto,200,
+Notizie di Prato,https://www.notiziediprato.it/,https://www.notiziediprato.it/feed/,PO,Prato,sito_locale,indipendente,it,no,200,
+TV Prato,https://www.tvprato.it/,https://www.tvprato.it/feed/,PO,Prato,tv_locale,indipendente,it,no,,"homepage ConnectionError allo script, feed ok"
+La Nazione - Pistoia,https://www.lanazione.it/pistoia,https://www.lanazione.it/pistoia/rss,PT,Pistoia,edizione_locale,Monrif (QN),it,misto,200,
+Report Pistoia,https://www.reportpistoia.com/,https://www.reportpistoia.com/feed/,PT,Pistoia,sito_locale,indipendente,it,no,200,
+TVL Pistoia,https://www.tvl.it/,https://www.tvl.it/feed/,PT,Pistoia,tv_locale,indipendente,it,no,,"homepage SSLError allo script, feed ok"
+La Nazione - Massa Carrara,https://www.lanazione.it/massa-carrara,https://www.lanazione.it/massa-carrara/rss,MS,Massa,edizione_locale,Monrif (QN),it,misto,200,
+La Voce Apuana,https://www.voceapuana.com/,https://www.voceapuana.com/feed/,MS,Massa,sito_locale,indipendente,it,no,200,"Massa-Carrara e Lunigiana"
+Corriere dell'Umbria,https://www.corrieredellumbria.it/,,PG,Perugia,quotidiano_locale,altro (Gruppo Corriere dell'Umbria),it,misto,200,"regionale Umbria; senza feed"
+Umbria24,https://www.umbria24.it/,https://www.umbria24.it/feed/,PG,Perugia,sito_locale,indipendente,it,no,200,regionale Umbria
+PerugiaToday,https://www.perugiatoday.it/,https://www.perugiatoday.it/rss,PG,Perugia,sito_locale,Citynews,it,no,200,
+La Nazione - Umbria,https://www.lanazione.it/umbria,https://www.lanazione.it/umbria/rss,PG,Perugia,edizione_locale,Monrif (QN),it,misto,200,regionale Umbria
+TGR Umbria,https://www.rainews.it/tgr/umbria,https://www.rainews.it/tgr/umbria/rss/tutti,PG,Perugia,tv_locale,Rai,it,no,200,regionale Umbria
+TuttOggi,https://tuttoggi.info/,https://tuttoggi.info/feed/,PG,Foligno,sito_locale,indipendente,it,no,,"Foligno, Spoleto, Valnerina; homepage ConnectionError allo script, feed ok (include anche notizie nazionali)"
+Umbria Journal,https://www.umbriajournal.com/,https://www.umbriajournal.com/feed/,PG,Perugia,sito_locale,indipendente,it,no,200,
+TerniToday,https://www.ternitoday.it/,https://www.ternitoday.it/rss,TR,Terni,sito_locale,Citynews,it,no,200,
+UmbriaOn,https://www.umbriaon.it/,https://www.umbriaon.it/feed/,TR,Terni,sito_locale,indipendente,it,no,200,"forte su Terni"
+Corriere Adriatico,https://www.corriereadriatico.it/,https://www.corriereadriatico.it/rss/home.xml,AN,Ancona,quotidiano_locale,Caltagirone,it,misto,200,"regionale Marche; feed a volte bloccato (418 anti-bot)"
+il Resto del Carlino - Ancona,https://www.ilrestodelcarlino.it/ancona,https://www.ilrestodelcarlino.it/ancona/rss,AN,Ancona,edizione_locale,Monrif (QN),it,misto,200,
+AnconaToday,https://www.anconatoday.it/,https://www.anconatoday.it/rss,AN,Ancona,sito_locale,Citynews,it,no,200,
+Cronache Ancona,https://www.cronacheancona.it/,https://www.cronacheancona.it/feed/,AN,Ancona,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,
+Centropagina,https://www.centropagina.it/,https://www.centropagina.it/feed/,AN,Ancona,sito_locale,indipendente,it,no,200,
+Vivere Ancona,https://www.vivereancona.it/,https://www.vivereancona.it/rss,AN,Ancona,sito_locale,altro (rete Vivere),it,no,200,
+TGR Marche,https://www.rainews.it/tgr/marche,https://www.rainews.it/tgr/marche/rss/tutti,AN,Ancona,tv_locale,Rai,it,no,200,regionale Marche
+èTV Marche,https://etvmarche.it/,https://etvmarche.it/feed/,AN,Ancona,tv_locale,altro (Rete7),it,no,200,regionale Marche
+Cronache Maceratesi,https://www.cronachemaceratesi.it/,https://www.cronachemaceratesi.it/feed/,MC,Macerata,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,"molto prolifico"
+il Resto del Carlino - Macerata,https://www.ilrestodelcarlino.it/macerata,https://www.ilrestodelcarlino.it/macerata/rss,MC,Macerata,edizione_locale,Monrif (QN),it,misto,200,
+Picchio News,https://picchionews.it/,https://picchionews.it/feed/,MC,Macerata,sito_locale,indipendente,it,no,200,
+il Resto del Carlino - Pesaro,https://www.ilrestodelcarlino.it/pesaro,https://www.ilrestodelcarlino.it/pesaro/rss,PU,Pesaro,edizione_locale,Monrif (QN),it,misto,200,"anche Fano e Urbino"
+Vivere Pesaro,https://www.viverepesaro.it/,https://www.viverepesaro.it/rss,PU,Pesaro,sito_locale,altro (rete Vivere),it,no,200,
+Cronache Fermane,https://www.cronachefermane.it/,https://www.cronachefermane.it/feed/,FM,Fermo,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,
+il Resto del Carlino - Fermo,https://www.ilrestodelcarlino.it/fermo,https://www.ilrestodelcarlino.it/fermo/rss,FM,Fermo,edizione_locale,Monrif (QN),it,misto,200,
+il Resto del Carlino - Ascoli,https://www.ilrestodelcarlino.it/ascoli,https://www.ilrestodelcarlino.it/ascoli/rss,AP,Ascoli Piceno,edizione_locale,Monrif (QN),it,misto,200,
+Cronache Picene,https://www.cronachepicene.it/,https://www.cronachepicene.it/feed/,AP,Ascoli Piceno,sito_locale,altro (gruppo Cronache Maceratesi),it,no,200,
+Riviera Oggi,https://www.rivieraoggi.it/,https://www.rivieraoggi.it/feed/,AP,San Benedetto del Tronto,sito_locale,indipendente,it,no,200,
+Il Centro,https://www.ilcentro.it/,,AQ,Pescara,quotidiano_locale,altro (Il Centro SpA),it,misto,200,"regionale Abruzzo; senza feed"
+Il Pescara,https://www.ilpescara.it/,https://www.ilpescara.it/rss,PE,Pescara,sito_locale,Citynews,it,no,200,
+TGR Abruzzo,https://www.rainews.it/tgr/abruzzo,https://www.rainews.it/tgr/abruzzo/rss/tutti,AQ,Pescara,tv_locale,Rai,it,no,200,regionale Abruzzo
+Rete8,https://www.rete8.it/,https://www.rete8.it/feed/,AQ,Chieti,tv_locale,indipendente,it,no,200,regionale Abruzzo
+Il Capoluogo,https://www.ilcapoluogo.it/,https://www.ilcapoluogo.it/?feed=news-news24,AQ,L'Aquila,sito_locale,indipendente,it,no,200,
+AbruzzoWeb,https://www.abruzzoweb.it/,,AQ,L'Aquila,sito_locale,indipendente,it,no,200,"regionale Abruzzo, forte su politica; senza feed (feed in errore 500)"
+ChietiToday,https://www.chietitoday.it/,https://www.chietitoday.it/rss,CH,Chieti,sito_locale,Citynews,it,no,200,
+Zonalocale,https://www.zonalocale.it/,https://www.zonalocale.it/feed/,CH,Vasto,sito_locale,indipendente,it,no,200,"Vasto, San Salvo, Trigno-Sinello"
+Il Germe,https://www.ilgerme.it/,https://www.ilgerme.it/feed/,PE,Pescara,sito_locale,indipendente,it,no,200,"approfondimento e inchieste, meno di un pezzo al giorno"
+Ekuonews,https://www.ekuonews.it/,https://www.ekuonews.it/feed/,TE,Teramo,sito_locale,indipendente,it,no,200,
+Certastampa,https://www.certastampa.it/,https://www.certastampa.it/?format=feed&type=rss,TE,Teramo,sito_locale,indipendente,it,no,200,
+Primonumero,https://www.primonumero.it/,https://www.primonumero.it/?feed=news-news24,CB,Termoli,sito_locale,indipendente,it,no,200,"Basso Molise, giornalismo originale"
+Molise Network,https://www.molisenetwork.net/,https://www.molisenetwork.net/feed/,IS,Isernia,sito_locale,indipendente,it,no,200,"regionale Molise, forte su Isernia"
+TGR Molise,https://www.rainews.it/tgr/molise,https://www.rainews.it/tgr/molise/rss/tutti,CB,Campobasso,tv_locale,Rai,it,no,200,regionale Molise
+Il Giornale del Molise,https://www.ilgiornaledelmolise.it/,https://www.ilgiornaledelmolise.it/feed/,CB,Campobasso,sito_locale,altro (Editoria Innovazioni Sviluppo),it,no,200,regionale Molise
+Quotidiano del Molise,https://www.quotidianomolise.com/,,CB,Campobasso,quotidiano_locale,indipendente,it,?,200,"regionale Molise; senza feed; il vecchio dominio ilquotidianodelmolise.it non risponde"
+isNews,https://www.isnews.it/,,IS,Isernia,sito_locale,indipendente,it,no,500,"homepage in errore database (500) al 27/9/2026: da ricontrollare"
+Termolionline,https://www.termolionline.it/,,CB,Termoli,sito_locale,indipendente,it,no,403,"403 anti-bot; feed non verificabile"
