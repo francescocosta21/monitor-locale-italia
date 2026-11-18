@@ -2,7 +2,7 @@ name: Monitor Italia
 
 on:
   schedule:
-    - cron: "37 */2 * * *"    # giro di raccolta ogni 2 ore (sfasato di mezz'ora rispetto al monitor USA)
+    - cron: "17,37,57 * * * *" # ogni 20 minuti, sfasato dal monitor USA: GitHub salta molte partenze; la raccolta parte solo se l'ultima ha più di 90 minuti
     - cron: "10 3 * * *"      # 5:10 a Roma con l'ora legale
     - cron: "10 4 * * *"      # 5:10 a Roma con l'ora solare (con l'ora legale il controllo sull'ora la salta)
   workflow_dispatch:
